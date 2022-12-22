@@ -4598,7 +4598,7 @@ für sich getestet.
 
 935
 00:41:23,520 --> 00:41:27,660
-Das heißt das eine Kurbel gehabt fürs Speicherwerk:
+Das heißt, du hast eine Kurbel gehabt fürs Speicherwerk:
 Adressieren, Zahlen rein, funktioniert!
 
 936
