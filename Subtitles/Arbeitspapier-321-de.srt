@@ -5361,7 +5361,7 @@ der Maschine original.
 
 1090
 00:48:13,960 --> 00:48:17,420
-Es geht um das Prinzip, das Rechnenprinzip.
+Es geht um das Prinzip, das Rechenprinzip.
 Das ist das Entscheidende!
 
 1091
