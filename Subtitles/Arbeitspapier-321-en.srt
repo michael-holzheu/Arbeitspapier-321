@@ -69,7 +69,7 @@ scope:
 16
 00:01:18,200 --> 00:01:21,180
 So you can create a more comprehensive
-diploma thesis!
+diploma theses!
 
 17
 00:01:21,180 --> 00:01:23,860
