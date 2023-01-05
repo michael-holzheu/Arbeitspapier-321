@@ -1,0 +1,80 @@
+Heute bin ich zu Gast bei Dietmar Saupe, der 1988 bis 89 Konrad Zuse beim Nachbau seiner legendären Rechenmaschine Z1 unterstützt hat.
+
+Blog zum Interview:
+
+- Team Wahrheitsfindung: https://www.holzheu.de/team-wahrheitsfindung 
+
+Sprungmarken:
+
+01:02 Begrüßung
+01:02 Warum Diplomarbeit zu zweit?
+01:54 Prof. Dr. Wolfgang Harth schlägt Diplomarbeit vor
+02:25 Termin bei Dr. Schäfer von der GMD
+04:20 Unterlagen in "Zuse-Steno"
+04:58 Die Last der Diplomarbeit
+05:31 Konrad Zuse war mit 78 immer noch geistig fit
+05:47 Unterbringung im Gästehaus Hünfeld
+06:37 Finanzielle Vergütung der Diplomarbeit
+06:49 Das Kuratorium Z1-Nachbau: GMD, Siemens, Museum für Verkehr und Technik
+07:23 GMD: Prof. Schäfer
+07:29 Siemens: Werksleiter und Facharbeiter Herr Reinhard Ernst
+08:00 Museum: Prof. Günther Gottmann
+08:22 Vorarbeiten an der Z1 bis zur Diplomarbeit
+09:39 Z1 Speichermodell vom Deutschen Museum
+10:06 Der Motor war (fast) nie in Betrieb
+10:51 Der Titel der Diplomarbeit: Funkions- und Konstruktionsprinzipien der programmgesteuerten mechanischen Rechenmaschine "Z1"
+11:46 Dauer der Arbeit 14 Monate: (3 + 3) + 8 Monate
+12:27 Unterschiede GMD Papier zu Diplomarbeit
+13:50 Bewertung der Arbeit mit Note 1
+14:31 Rechenwerk nicht dokumentiert, weil Arbeitsdichte schon mit Speicher zu hoch war
+15:02 Mögliche Doktorarbeit für Rechenwerk?
+15:52 Große Problem mit der Rekonstruktion
+18:25 Mitarbeiter des Museums Heinz Weber
+19:33 Problem mit der Addition der Spiele
+19:55 Manche Rechnungen "gefährlicher" als andere
+20:09 Idee: Mit dem Booster, um Problem zu lösen
+21:33 Drahterosionsmaschine
+22:35 Dietmar hat auch NC Programme geschrieben (G-Code)
+23:10 Theorie, dass gehärtete Stahlstifte die Edelstahlbleche beschädigen könnten
+24:07 Transport der Maschine ins Museum für Verkehr und Technik
+25:54 Festveranstaltung im Museum (14.09.1989)
+27:02 Die Z1 wurde auf der Veranstaltung nicht vorgeführt
+28:26 Aussage: Wenn die Z1 durchlief und hat ein Ergebnis geliefert, war das Ergebnis nie falsch
+29:11 Mühsames Reparieren von Verbiegungen
+31:48 Arbeitsablauf: Logik, Schaltplan, CAD, CNC, Bleche
+34:36 Kaum Leerzeiten
+35:20 Wie würde man das Projekt heute durchführen? CAD Programm CATIA mit Kinematik.
+36:50 Der Film "Konrad Zuse" von Mathias Knauer
+37:51 Beweis, dass die Z1 richtig gerechnet hat?
+38:57 Filmaufnahmen mit Z1 in Betrieb
+40:04 Wie viele Teile hat der Z1 Nachbau, 30.000?
+41:07 Wie wurde die Maschine gekurbelt?
+41:58 Exzenter übersetzt Dreh- in Schubbewegungen
+43:04 Welches Schmiermittel wurde eingesetzt?
+43:35 Dietmar repariert die Z1 einmal in Berlin
+45:09 Wie bekommen wir die Z1 wieder ans Laufen?
+46:10 Erst jetzt wird Dietmar Saupe bewusst, dass die Arbeit "etwas Besonderes" war
+47:21 Fragen zur originalen Z1
+47:35 Was hat Konrad Zuse über die originale Maschine erzählt?
+49:03 Hat die originale Z1 funktioniert?
+49:54 Bau der Z1 im elterlichen Wohnzimmer
+49:55 Frau Zuse hat die Studenten mit Kaffee und Kuchen verwöhnt
+50:14 Freunde und Verwandte von Dietmar und Ursula haben auch die Z1 gesehen
+50:51 Kontakt mit Prof. Dr. Horst Zuse
+52:13 Analyse: Warum die originale Z1 funktioniert haben könnte?
+54:44 Stolz auf deutsche Erfinder
+56:04 Schlusswort der Diplomarbeit
+
+Verwendete Musik:
+
+- Success Of The Whole Team (WinnieTheMoog)
+
+Bezugsquellen:
+
+- Konrad Zuse Film: https://mathiasknauer.lemmata.ch
+- Konrad Zuse Bilder: http://www.horst-zuse.homepage.t-online.de/zuse-broschuere.html
+- Musik: https:/filmmusic.io/u/winniethemoog
+
+Änderungsprotokoll:
+
+05.01.2022 Erste öffentliche Version
