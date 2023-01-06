@@ -1,0 +1,9 @@
+#!/bin/sh
+#
+# srt-compact - Tool to make srt files more compact
+#
+# Copyright apps.holzheu.de 2023
+#
+# Usage: cat SRT-FILE | ./src-compact
+#
+awk '{if ($0 != "") {printf "%s ",$0} else {print $0}}' | cut -b 1-8,30-
