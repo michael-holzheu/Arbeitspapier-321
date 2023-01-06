@@ -1,0 +1,9 @@
+#!/bin/sh
+#
+# srt-remove-counter - Tool to remove counter numbers from srt files
+#
+# Copyright apps.holzheu.de 2023
+#
+# Usage: cat SRT-FILE | ./src-remove-counter
+#
+sed 's/^[0-9][0-9]*$/REMOVE/g' | awk '{if($0 != "REMOVE"){print $0;}}'
