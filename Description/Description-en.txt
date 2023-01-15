@@ -75,6 +75,10 @@ Sources of supply:
 - Konrad Zuse Pictures: http://www.horst-zuse.homepage.t-online.de/zuse-broschuere.html
 - Music: https:/filmmusic.io/u/winniethemoog
 
+Version control:
+
+- GitHub: https://github.com/michael-holzheu/Arbeitspapier-321
+
 Changelog:
 
 2022/01/05 First public version

@@ -75,6 +75,10 @@ Bezugsquellen:
 - Konrad Zuse Bilder: http://www.horst-zuse.homepage.t-online.de/zuse-broschuere.html
 - Musik: https:/filmmusic.io/u/winniethemoog
 
+Versionsverwaltung:
+
+- GitHub: https://github.com/michael-holzheu/Arbeitspapier-321
+
 Änderungsprotokoll:
 
 05.01.2022 Erste öffentliche Version
