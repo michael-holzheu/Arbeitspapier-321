@@ -1,6 +1,6 @@
 # Arbeitspapier-321
-Information about the interview with Dietmar Saupe:
+Informationen zum Interview mit Dietmar Saupe:
 
-- [Transkrict](https://github.com/michael-holzheu/Arbeitspapier-321/tree/main/Transcript)
-- [Subtitles](https://github.com/michael-holzheu/Arbeitspapier-321/tree/main/Subtitles)
-- [Attribution](https://github.com/michael-holzheu/Arbeitspapier-321/tree/main/Attribution)
+- [Transkript](https://github.com/michael-holzheu/Arbeitspapier-321/tree/main/Transcript)
+- [Untertitel](https://github.com/michael-holzheu/Arbeitspapier-321/tree/main/Subtitles)
+- [Quellenangabe](https://github.com/michael-holzheu/Arbeitspapier-321/tree/main/Attribution)
