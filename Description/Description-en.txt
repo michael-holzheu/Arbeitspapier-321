@@ -81,5 +81,6 @@ Version control:
 
 Changelog:
 
+2022/01/31 Minor improvements
 2022/01/27 Minor improvements
 2022/01/26 First public version

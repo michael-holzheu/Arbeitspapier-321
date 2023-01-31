@@ -81,5 +81,6 @@ Versionsverwaltung:
 
 Änderungsprotokoll:
 
-27.01.2022 Detailverbesserunen
+30.01.2022 Detailverbesserungen
+27.01.2022 Detailverbesserungen
 26.01.2022 Erste öffentliche Version
