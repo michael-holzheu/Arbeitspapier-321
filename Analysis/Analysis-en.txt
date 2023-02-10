@@ -512,3 +512,34 @@ Log
 52:13 TOC       Analyse: Warum die originale Z1 funktioniert haben könnte?
 54:44 TOC       Stolz auf deutsche Erfinder
 56:04 TOC       Schlusswort der Diplomarbeit
+
+28:21 CLAIM     Der Nachbau hat immer richtig / nie falsch gerechnet
+11:51 CLAIM     Die Studenten haben 14 Monate an der Maschine gearbeitet
+24:32 CLAIM     Im Februar 89 aufgehört mit der Arbeit
+24:32 CLAIM     DIETMAR und USCHI haben am 1. März 89 mit dem Job angefangen
+04:36 CLAIM     Zuse hat eigenes (besseres?) Steno erfunden
+17:21 CLAIM     Konrad Zuse hatte einen Herzinfarkt
+24:49 CLAIM     Am 14.9.1989 Einweihung (11 Uhr)
+24:54 CLAIM     Bildungsminister Riesenhuber war anwesend
+25:10 CLAIM     Das Atelier war auf der anderen Seite
+25:35 CLAIM     Die Maschine war 1988 bereits aufgebaut
+26:08 CLAIM     Das Museum für Verkehr und Technik hatte ein Gästezimmer
+27:54 CLAIM     Es wurde Keine Rechnung bei Schlussakt durchgeführt
+                INFO: HADWIG: Weil Maschine kaputt war
+                INFO: RAUL: Im Buch?
+28:32 CLAIM     Fest eingebaute Subtraktion im Leitwerk
+29:04 CLAIM     Die Maschine hat im Grund genommen funktioninert!
+29:19 CLAIM     Die Maschine ist am besten mit zwei Personen zu bedienen. Einer kurbelt, einer bedient.
+29:50 CLAIM     Das Rechenwerk hatte mehr Fehler als das Speicherwerk
+30:28 CLAIM     Drei Fehlerarten: Impulsfehler, Überlegungsfehler (Logik), Schiebefehler
+34:30 CLAIM     Siemens war extrem großzügig
+27:51 CLAIM     Ziel des Kuratoriums: Beweis, dass die Überlegungen von Konrad Zuse korrekt waren
+31:32 CLAIM     Programme waren unterschiedlich gefährlich für die Maschine
+34:28 CLAIM     Ca 3. Tage von CAD-Zeichnung bis Bleche geliefert wurden
+38:20 CLAIM     Eine Rechnung hat mehrere Minuten gedauert
+43:36 CLAIM     DIEMTAR hat einmal in Berlin die Maschine erfolgreich repariert
+48:33 CLAIM     Die originale Z1 wurde mit Konservendosen gebaut (Weißblech)
+49:45 CLAIM     DIETMAR hat LIESELOTTE nie kennengelernt.
+49:49 CLAIM     DIETMAR hat HORST und die jungste Tochter kennengelernt.
+51:57 CLAIM     Es waren ein paar Hundert Gäste auf der Festveranstaltung
+52:02 CLAIM     Es waren viele Prominente in der ersten Reihe
