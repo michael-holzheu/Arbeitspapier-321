@@ -532,7 +532,7 @@ Log
 29:19 CLAIM     Die Maschine ist am besten mit zwei Personen zu bedienen. Einer kurbelt, einer bedient.
 29:50 CLAIM     Das Rechenwerk hatte mehr Fehler als das Speicherwerk
 30:28 CLAIM     Drei Fehlerarten: Impulsfehler, Überlegungsfehler (Logik), Schiebefehler
-34:30 CLAIM     Siemens war extrem großzügig
+34:30 CLAIM     Bleche wurden schnell geliefert, Siemens war extrem großzügig.
 27:51 CLAIM     Ziel des Kuratoriums: Beweis, dass die Überlegungen von Konrad Zuse korrekt waren
 31:32 CLAIM     Programme waren unterschiedlich gefährlich für die Maschine
 34:28 CLAIM     Ca 3. Tage von CAD-Zeichnung bis Bleche geliefert wurden
