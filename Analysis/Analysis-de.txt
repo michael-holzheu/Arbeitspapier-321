@@ -54,6 +54,8 @@ Log
 03:52 WORD      Duales System
                 LINK: https://de.wikipedia.org/wiki/Dualsystem
                 EN: Binary System
+                JA: 二進法
+                RO: Sistem binar
                 RO: Sistem binar
 04:20 DIALECT   Wir waren ja “blank”
                 EN: We did not have anything.
