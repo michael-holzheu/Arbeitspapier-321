@@ -13,13 +13,16 @@
  ||EN |Lab Engineer |
 | **[01:37](https://youtu.be/VZlg9eeFgiw?t=1m37s)**| **DIALECT**| **Wenn du mal einen “Hänger” hast**|
  ||LINK |[https://www.openthesaurus.de/synonyme/%28einen%29%20H%C3%A4nger%20haben](https://www.openthesaurus.de/synonyme/%28einen%29%20H%C3%A4nger%20haben) |
+ ||EN |If you have a hanger |
 | **[01:39](https://youtu.be/VZlg9eeFgiw?t=1m39s)**| **DIALECT**| **Der andere kann einem kurz einen “Arschtritt” geben**|
  ||LINK |[https://www.openthesaurus.de/synonyme/edit/40021](https://www.openthesaurus.de/synonyme/edit/40021) |
+ ||EN |The other one can give a quick "kick in the ass" |
 | **[01:54](https://youtu.be/VZlg9eeFgiw?t=1m54s)**| **TOC**| **Prof. Dr. Wolfgang Harth schlägt Diplomarbeit vor**|
 | **[02:01](https://youtu.be/VZlg9eeFgiw?t=2m1s)**| **WORD**| **Background**|
  ||EN |Background |
 | **[02:25](https://youtu.be/VZlg9eeFgiw?t=2m25s)**| **TOC**| **Termin bei Dr. Schäfer von der GMD**|
 | **[03:03](https://youtu.be/VZlg9eeFgiw?t=3m3s)**| **DIALECT**| **Uns ein “Bonbon” mitgegeben**|
+ ||EN |And they also gave us a candy with us |
 | **[03:48](https://youtu.be/VZlg9eeFgiw?t=3m48s)**| **DIALECT**| **Also ich habe nur Bahnhof verstanden**|
  ||LINK |[https://de.pons.com/%C3%BCbersetzung/deutsch-englisch/ich+verstehe+nur+Bahnhof](https://de.pons.com/%C3%BCbersetzung/deutsch-englisch/ich+verstehe+nur+Bahnhof) |
  ||EN |It’s was all Greek to me |

@@ -41,13 +41,16 @@ Log
                 EN: Lab Engineer
 01:37 DIALECT   Wenn du mal einen “Hänger” hast
                 LINK: https://www.openthesaurus.de/synonyme/%28einen%29%20H%C3%A4nger%20haben
+		EN: If you have a hanger
 01:39 DIALECT   Der andere kann einem kurz einen “Arschtritt” geben
                 LINK: https://www.openthesaurus.de/synonyme/edit/40021
+		EN: The other one can give a quick "kick in the ass"
 01:54 TOC       Prof. Dr. Wolfgang Harth schlägt Diplomarbeit vor
 02:01 WORD      Background
                 EN: Background
 02:25 TOC       Termin bei Dr. Schäfer von der GMD
 03:03 DIALECT   Uns ein “Bonbon” mitgegeben
+		EN: And they also gave us a candy with us
 03:48 DIALECT   Also ich habe nur Bahnhof verstanden
                 LINK: https://de.pons.com/%C3%BCbersetzung/deutsch-englisch/ich+verstehe+nur+Bahnhof
                 EN: It’s was all Greek to me
