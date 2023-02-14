@@ -28,7 +28,6 @@
  ||EN |Binary System |
  ||JA |二進法 |
  ||RO |Sistem binar |
- ||RO |Sistem binar |
 |   [04:20](https://youtu.be/VZlg9eeFgiw?t=4m20s)| DIALECT| Wir waren ja “blank”|
  ||EN |We did not have anything. |
 |   [04:20](https://youtu.be/VZlg9eeFgiw?t=4m20s)| TOC| Unterlagen in "Zuse-Steno"|
