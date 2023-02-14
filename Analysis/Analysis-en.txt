@@ -35,39 +35,171 @@ Log
 00:54 WORD      Lochstreifenleser
                 LINK: https://de.wikipedia.org/wiki/Lochstreifen
                 EN: Paper Tape Reader
+01:02 TOC       Warum Diplomarbeit zu zweit?
 01:33 WORD      Laboringenieur
                 LINK: https://www.uni-bielefeld.de/themen/career-service/job-shadowing/angebote/Job-Shadowing_HARTING_Laboringenieur.pdf
                 EN: Lab Engineer
+01:37 DIALECT   Wenn du mal einen “Hänger” hast
+                LINK: https://www.openthesaurus.de/synonyme/%28einen%29%20H%C3%A4nger%20haben
+01:39 DIALECT   Der andere kann einem kurz einen “Arschtritt” geben
+                LINK: https://www.openthesaurus.de/synonyme/edit/40021
+01:54 TOC       Prof. Dr. Wolfgang Harth schlägt Diplomarbeit vor
+02:01 WORD      Background
+                EN: Background
+02:25 TOC       Termin bei Dr. Schäfer von der GMD
+03:03 DIALECT   Uns ein “Bonbon” mitgegeben
+03:48 DIALECT   Also ich habe nur Bahnhof verstanden
+                LINK: https://de.pons.com/%C3%BCbersetzung/deutsch-englisch/ich+verstehe+nur+Bahnhof
+                EN: It’s was all Greek to me
 03:52 WORD      Duales System
                 LINK: https://de.wikipedia.org/wiki/Dualsystem
                 EN: Binary System
+04:20 DIALECT   Wir waren ja “blank”
+                EN: We did not have anything.
+04:20 TOC       Unterlagen in "Zuse-Steno"
 04:25 WORD      Steno
                 LINK: https://de.wikipedia.org/wiki/Stenografie
                 EN: Shorthand
+04:36 CLAIM     Zuse hat eigenes (besseres?) Steno erfunden
 04:42 WORD      Syntax
                 LINK: 31:51
                 LINK: https://de.wikipedia.org/wiki/Syntax
                 EN: Syntax
+04:44 DIALECT   War für uns natürlich tot
+                EN: For us that was “Game over!”
+04:49 SAYING    Wir haben wirklich bei “Null” angefangen
+                EN: We really started from scratch
+04:58 SAYING    Ich habe “drei Kreuze” gemacht
+                EN: I made three crosses
+04:58 TOC       Die Last der Diplomarbeit
+05:01 SAYING    Das Thema hinter sich bringen
+                EN: To get the issue over with
+05:04 DIALECT   Folge-Sieben-Monate
+                DE: Die folgenden sieben Monate
+                EN: And then the following seven months later
+05:19 DIALECT   In der “Bude” gehockt
+                EN: Sat in the digs
+05:24 DIALECT   Am nächsten Morgen wieder “losgerammelt”
+                EN: And the next morning we started early again
+05:31 TOC       Konrad Zuse war mit 78 immer noch geistig fit
+05:39 SAYING    Kein Hauch von Demenz
+                EN: Not a hint of dementia
+05:41 WORD      Demenz
+                LINK: https://de.wikipedia.org/wiki/Demenz
+                EN: Dementia
+05:47 TOC       Unterbringung im Gästehaus Hünfeld
+05:53 WORD      Ehrenbürger
+                LINK: https://de.wikipedia.org/wiki/Ehrenb%C3%BCrger
+                EN: Honorary citizen
+06:26 WORD      BAföG
+                LINK: https://de.wikipedia.org/wiki/Bundesausbildungsf%C3%B6rderungsgesetz
+                EN: BAföG
+06:28 WORD      Kommilitonen
+                LINK: https://de.wikipedia.org/wiki/Kommilitone
+                EN: Fellow students
+06:37 TOC       Finanzielle Vergütung der Diplomarbeit
+06:45 SAYING    Give me five!
+                EN: Give me five!
+06:45 WORD      D-Mark
+                LINK: https://de.wikipedia.org/wiki/Deutsche_Mark
+                EN: D-Mark
+06:49 TOC       Das Kuratorium Z1-Nachbau: GMD, Siemens, Museum für Verkehr und Technik
+06:51 WORD      Kuratorium
+                LINK: 08:58
+                LINK: 18:05
+                LINK: https://de.wikipedia.org/wiki/Kuratorium
+                EN: Curatorship
+07:23 TOC       GMD: Prof. Schäfer
+07:29 TOC       Siemens: Werksleiter und Facharbeiter Herr Reinhard Ernst
+07:30 SAYING    Und wir waren dort vor Ort
+                EN: And then were on site
+07:32 WORD      Antrittsbesuch
+                LINK: https://de.wiktionary.org/wiki/Antrittsbesuch
+                EN: Inaugural visit
+07:35 WORD      Werksleiter
+                EN: Plant manager
+07:41 WORD      Facharbeiter
+                LINK: 17:50
+                LINK: https://de.wikipedia.org/wiki/Facharbeiter
+                EN: Skilled worker
 07:47 WORD      Bleche
                 LINK: https://de.wikipedia.org/wiki/Blech
                 EN: Metal sheets
+08:00 TOC       Museum: Prof. Günther Gottmann
+08:10 SAYING    Wenn es soweit ist
+                EN: When the time comes
+08:14 WORD      Einweihung
+                EN: Inauguration
+08:18 SAYING    Hat er uns alles schon schmackhaft gemacht!
+                EN: Has he already made everything palatable for us!
+08:22 TOC       Vorarbeiten an der Z1 bis zur Diplomarbeit
+08:29 WORD      Vorlauf
+                EN: Lead time
+08:43 SAYING    Ach was?
+                EN: Ah what?
+08:43 WORD      Gerüst
+                EN: Scaffolding
+08:46 SAYING    Die war nicht bei Null!
+                EN: It wasn't at zero!
+08:55 SAYING    Arbeit leisten
+                EN: Carry out work
+09:01 SAYING    Die Idee war geboren
+                EN: The idea was born
+09:06 SAYING    Das war so der Sinn dahinter
+                EN: That was the meaning behind it
+09:15 WORD      Atelier
+                EN: Studio
+09:24 WORD      Rechner
+                EN: Computer
+                EN: Calculating machine
+09:39 TOC       Z1 Speichermodell vom Deutschen Museum
+09:55 WORD      Vorarbeit
+                EN: Preparatory work
+10:06 TOC       Der Motor war (fast) nie in Betrieb
+10:22 WORD      Hoppla!
+                EN: Oops!
 10:28 WORD      Rutschkupplung
                 LINK: https://de.wikipedia.org/wiki/Rutschkupplung
                 EN: Torque limiter
 10:41 WORD      Maschinenbau-Drehstrommotor
                 LINK: ttps://de.wikipedia.org/wiki/Drehstrommaschine
                 EN: Mechanical engineering three-phase motor
+10:51 TOC       Der Titel der Diplomarbeit: Funkions- und Konstruktionsprinzipien der programmgesteuerten mechanischen Rechenmaschine "Z1"
 11:11 WORD      Rechenautomat
                 LINK: ttps://de.wikipedia.org/wiki/Rechenmaschine
                 EN: Calculating machine
 11:21 WORD      Binärsystem
                 LINK: https://de.wikipedia.org/wiki/Dualsystem
                 EN: Binary system
+11:46 TOC       Dauer der Arbeit 14 Monate: (3 + 3) + 8 Monate
+11:51 CLAIM     Die Studenten haben 14 Monate an der Maschine gearbeitet
+12:00 SAYING    Mit “Hängen und Würgen”
+                EN: By the skin of one's teeth 
+12:05 WORD      Ach!
+                EN: Oh!
+12:27 TOC       Unterschiede GMD Papier zu Diplomarbeit
+12:47 DIALECT   Das “dickt” natürlich auch auf
+                EN: which of course also thickens...
 13:02 WORD      Faltzeichnungen
                 DE: Gefaltete Zeichnungen
                 EN: Folded drawing
 13:06 WORD      DIN 
                 EN: DIN
+13:43 WORD      Kolloquium
+                EN: Colloquium
+13:50 TOC       Bewertung der Arbeit mit Note 1
+13:52 WORD      Ei!
+                EN: Wow!
+13:54 SAYING    Eine Eins, eine “Glatte”
+                EN: it was an A, a straight one
+14:01 SAYING    Mit gehangen, mit gefangen
+                LINK: https://de.wiktionary.org/wiki/mitgefangen,_mitgehangen
+                EN: In for a penny, in for a pound.
+14:12 SAYING    Sackt man die Lorbeeren ein
+                LINK: https://www.redensarten-index.de/suche.php?suchbegriff=die%2BLorbeeren%2Bernten&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou
+                EN: Reap the laurels
+14:13 SAYING    Oder man sackt ab
+                EN: Or you loose
 14:21 WORD      Speicherwerk
                 LINK: 29:50
                 LINK: https://de.wikipedia.org/wiki/Speicherwerk
@@ -77,19 +209,76 @@ Log
                 LINK: 29:53
                 LINK: https://de.wikipedia.org/wiki/Rechenwerk
                 EN: Execution unit, arithmetic unit
+14:26 WORD      Korrekturleser
+                EN: Proofreader
+14:31 TOC       Rechenwerk nicht dokumentiert, weil Arbeitsdichte schon mit Speicher zu hoch war
+14:36 SAYING    Und danach haben auch alle auf uns eingeredet
+                EN: after that everyone talked at us
+14:48 SAYING    Wir hatten die Nase voll
+                EN: We were fed up
+14:57 SAYING    Das war für uns beide kein Thema
+                EN: That wasn't a topic for either of us
+15:02 TOC       Mögliche Doktorarbeit für Rechenwerk?
+15:07 WORD      Fachhochschule
+                EN: University of applied sciences
+15:10 WORD      Promotion
+                EN: Doctorate
+15:14 SAYING    Das wäre anders gelaufen
+                EN: That you have gone differently
+15:15 SAYING    Das wird nichts
+                EN: This will not work
+15:20 WORD      Master of Science
+                EN: Master of science
+15:21 SAYING    Lasst es gut sein
+                EN: Just leave it!
+15:31 DIALECT   Hätten wir auch noch “hingebracht”
+                EN: We had accomplished that too
 15:46 WORD      Takte
                 LINK: https://de.wikipedia.org/wiki/Taktsignal
                 EN: Clock signals, cycles
+15:52 TOC       Große Problem mit der Rekonstruktion
+16:15 SAYING    Irgendwann haben wir die Kurve bekommen, wir drei
+                EN: At some point we got our act together, the three of us!
+16:25 SAYING    Mit offenem Mund dastehen
+                LINK: https://www.redensarten-index.de/suche.php?suchbegriff=mit+offenem+Mund+dastehen&bool=relevanz&sp0=rart_ou
+                EN: Stand there with your mouth open
+16:28 WORD      Proberechnung
+                EN: Trial calculation
 16:38 WORD      Ergebnisdarstellung
                 EN: Presentation of results
+17:03 WORD      Mordsmäßig
+                LINK: https://de.wiktionary.org/wiki/mordsm%C3%A4%C3%9Fig
+17:04 SAYING    Auch ihm ist eine Last abgefallen
+                EN: A burden has been lifted from him too
+17:21 CLAIM     Konrad Zuse hatte einen Herzinfarkt
+17:29 SAYING    Mal ganz krass ausgedrückt
+                EN: To put it blumply
+17:31 SAYING    Das wäre “Ende Gelände” gewesen
+                EN: That would have been the end of the road
+17:36 SAYING    Ihm gebührt die Ehre
+                EN: He deserves the honor
+17:48 WORD      Speed
+                EN: Speed
+18:02 WORD      Doktorand
+                EN: Doctoral student
+18:10 SAYING    Ins Leere laufen
+                EN: Comes to nothing
 18:19 WORD      Ablageblech (Definition Dietmar)
-                LINK 30:06
+                LINK: 30:06
                 EN: Depositing plate
+18:25 TOC       Mitarbeiter des Museums Heinz Weber
+18:38 SAYING    Den Vorsprung aufholen, den wir hatten
+                EN: And he couldn't catch up with the lead we had.
 19:25 WORD      Spiel
                 LINK: 31:35
                 LINK: 36:08
                 LINK: https://de.wikipedia.org/wiki/Spiel_(Technik)
                 EN: Backlash
+19:33 TOC       Problem mit der Addition der Spiele
+19:55 TOC       Manche Rechnungen "gefährlicher" als andere
+20:08 WORD      Booster
+                EN: Booster
+20:09 TOC       Idee: Mit dem Booster, um Problem zu lösen
 20:27 WORD      Translationsbewegung
                 LINK: https://de.wikipedia.org/wiki/Translation_(Physik)
                 EN: Translational movement
@@ -110,6 +299,7 @@ Log
 21:31 WORD      Messchieber
                 LINK: https://de.wikipedia.org/wiki/Messschieber
                 EN: Caliper gauge
+21:33 TOC       Drahterosionsmaschine
 21:37 WORD      Wälzlager
                 LINK: https://de.wikipedia.org/wiki/W%C3%A4lzlager
                 EN: Rolling-element bearing
@@ -125,6 +315,7 @@ Log
 22:21 WORD      Verschleiß
                 LINK: https://de.wikipedia.org/wiki/Verschlei%C3%9F
                 EN: Wear and tear
+22:35 TOC       Dietmar hat auch NC Programme geschrieben (G-Code)
 22:37 WORD      NC-Programm
                 LINK: 34:18
                 LINK: https://de.wikipedia.org/wiki/Numerische_Steuerung
@@ -132,17 +323,44 @@ Log
 22:51 WORD      G-Code
                 LINK: https://en.wikipedia.org/wiki/G-code
                 EN: G-code
+23:10 TOC       Theorie, dass gehärtete Stahlstifte die Edelstahlbleche beschädigen könnten
 23:10 WORD      Gehärteter Stahl:
                 LINK: https://de.wikipedia.org/wiki/H%C3%A4rten_(Eisenwerkstoff)
                 EN: Hardened steel
 23:11 WORD      Edelstahl
                 LINK: https://de.wikipedia.org/wiki/Edelstahl
                 EN: Stainless steel
+23:19 WORD      Schaltblech
+                EN: Switch plate
+24:07 TOC       Transport der Maschine ins Museum für Verkehr und Technik
+24:32 CLAIM     Im Februar 89 aufgehört mit der Arbeit
+24:32 CLAIM     DIETMAR und USCHI haben am 1. März 89 mit dem Job angefangen
+24:49 CLAIM     Am 14.9.1989 Einweihung (11 Uhr)
+24:54 CLAIM     Bildungsminister Riesenhuber war anwesend
+25:10 CLAIM     Das Atelier war auf der anderen Seite
+25:35 CLAIM     Die Maschine war 1988 bereits aufgebaut
+25:54 TOC       Festveranstaltung im Museum (14.09.1989)
+26:08 CLAIM     Das Museum für Verkehr und Technik hatte ein Gästezimmer
+26:44 SAYING    Zuse selbst ist “zu Wort gekommen”
+                EN: Zuse himself had his say
+27:02 TOC       Die Z1 wurde auf der Veranstaltung nicht vorgeführt
+27:51 CLAIM     Ziel des Kuratoriums: Beweis, dass die Überlegungen von Konrad Zuse korrekt waren
+27:54 CLAIM     Es wurde Keine Rechnung bei Schlussakt durchgeführt
+                INFO: HADWIG: Weil Maschine kaputt war
+                INFO: RAUL: Im Buch?
+28:21 CLAIM     Der Nachbau hat immer richtig / nie falsch gerechnet
+28:26 TOC       Aussage: Wenn die Z1 durchlief und hat ein Ergebnis geliefert, war das Ergebnis nie falsch
+28:32 CLAIM     Fest eingebaute Subtraktion im Leitwerk
 28:32 WORD      Leitwerk
                 EN: Control unit??
+29:04 CLAIM     Die Maschine hat im Grund genommen funktioninert!
+29:11 TOC       Mühsames Reparieren von Verbiegungen
+29:19 CLAIM     Die Maschine ist am besten mit zwei Personen zu bedienen. Einer kurbelt, einer bedient.
+29:50 CLAIM     Das Rechenwerk hatte mehr Fehler als das Speicherwerk
 30:22 WORD      Distanzhülse
                 LINK: https://de.wikipedia.org/wiki/Distanzring
                 EN: Spacing sleeve
+30:28 CLAIM     Drei Fehlerarten: Impulsfehler, Überlegungsfehler (Logik), Schiebefehler
 30:28 WORD      Impulsfehler (Definition Dietmar)
                 EN: Pulse error
 30:36 WORD      Elastische Verformung
@@ -151,6 +369,9 @@ Log
 30:37 WORD      Plastische Verformung
                 LINK: https://de.wikipedia.org/wiki/Verformung#Irreversible_plastische_Verformung
                 EN: Plastic deformation
+30:39 SAYING    Horden von
+                DE: Eine Menge, ein Haufen, Viele
+                EN: Loads of
 30:44 WORD      Schlosser
                 LINK: https://de.wikipedia.org/wiki/Schlosserei
                 EN: Locksmith
@@ -158,18 +379,18 @@ Log
                 LINK: https://de.wikipedia.org/wiki/Drahterodieren
 31:19 WORD      Schiebefehler (Definition Dietmar)
                 EN: Sliding error
+31:32 CLAIM     Programme waren unterschiedlich gefährlich für die Maschine
+31:48 TOC       Arbeitsablauf: Logik, Schaltplan, CAD, CNC, Bleche
 31:56 WORD      Logikschaltung
                 LINK: 33:26
                 EN: Logic circuit
-23:19 WORD      Schaltblech
-                EN: Switch plate
 32:38 WORD      Schaltplan (Definition Dietmar)
                 EN: Circuit diagram
-33:02 WORD      CAD-Blech (Definition Dietmar)
-                EN: CAD sheet
 33:02 WORD      CAD
                 LINK: https://de.wikipedia.org/wiki/Computerized_Numerical_Control
                 EN: CAD
+33:02 WORD      CAD-Blech (Definition Dietmar)
+                EN: CAD sheet
 33:19 WORD      Drahterodierprogramm
                 LINK: 33:46
                 LINK: https://de.wikipedia.org/wiki/Drahterodieren
@@ -178,12 +399,18 @@ Log
 33:40 WORD      Geplottet
                 LINK: https://de.wikipedia.org/wiki/Plotter
                 EN: Plotted
+34:28 CLAIM     Ca 3. Tage von CAD-Zeichnung bis Bleche geliefert wurden
+34:30 CLAIM     Bleche wurden schnell geliefert, Siemens war extrem großzügig.
 34:35 WORD      Leerzeiten
                 LINK: https://www.rechnungswesen-verstehen.de/lexikon/leerzeiten.php
                 EN: Idle times
+34:36 TOC       Kaum Leerzeiten
 34:51 WORD      Eloxiertes Aluminium
                 LINK: https://de.wikipedia.org/wiki/Eloxal-Verfahren
                 EN: Anodised aluminium
+34:56 DIALECT   Die haben alles “hergetan”
+                DE: Die haben alles besorgt
+35:20 TOC       Wie würde man das Projekt heute durchführen? CAD Programm CATIA mit Kinematik.
 35:37 WORD      CATIA:Part, Product Struktur, Assembly
                 EN: Part, produce structure, assembly
 35:41 WORD      Kinematik
@@ -192,8 +419,15 @@ Log
 36:26 WORD      Wankelmotor
                 LINK: https://de.wikipedia.org/wiki/Wankelmotor
                 EN: Wankel engine
+36:50 TOC       Der Film "Konrad Zuse" von Mathias Knauer
+37:51 TOC       Beweis, dass die Z1 richtig gerechnet hat?
 38:15 SAYING    Die Zahlen einziehen (Dietmar)
                 EN: Select the numbers
+38:20 CLAIM     Eine Rechnung hat mehrere Minuten gedauert
+38:57 TOC       Filmaufnahmen mit Z1 in Betrieb
+39:48 DIALECT   Das Material “zusammengestupft”
+                EN: Stitched together the material
+40:04 TOC       Wie viele Teile hat der Z1 Nachbau, 30.000?
 40:41 WORD      Antriebsstifte
                 EN: Drive pins
 40:55 WORD      Madenschraube
@@ -201,12 +435,14 @@ Log
                 DE: Gewindestift
                 EN: Grub screw
                 EN: Headless screw
+41:07 TOC       Wie wurde die Maschine gekurbelt?
 41:36 WORD      Flansch:
                 LINK: https://de.wikipedia.org/wiki/Flansch
                 EN: Flange
 41:45 WORD      Tandem
                 LINK: https://de.wikipedia.org/wiki/Tandem_(Fahrrad)
                 EN: Tandem
+41:58 TOC       Exzenter übersetzt Dreh- in Schubbewegungen
 42:04 WORD      Hebelkraft
                 EN: Leverage
 42:13 WORD      Rotationsbewegung
@@ -214,332 +450,87 @@ Log
 42:15 WORD      Exzenter
                 LINK: https://de.wikipedia.org/wiki/Exzenter
                 EN: Eccentric
+42:37 WORD      Verhaken
+                EN: To be stuck
+42:53 DIALECT   Die hätten natürlich alles “zermatscht”
+                EN: They would have squashed everything
+43:04 TOC       Welches Schmiermittel wurde eingesetzt?
 43:15 WORD      Adhäsionskraft
                 LINK: https://de.wikipedia.org/wiki/Adh%C3%A4sion
                 EN: Adhesion force
-43:46 WORD      Gleitmittel
-                LINK: https://de.wikipedia.org/wiki/Gleitmittel
-                EN: Lubricant
+43:35 TOC       Dietmar repariert die Z1 einmal in Berlin
+43:36 CLAIM     DIEMTAR hat einmal in Berlin die Maschine erfolgreich repariert
 43:46 WORD      Teflonspray
                 LINK: https://de.wikipedia.org/wiki/Polytetrafluorethylen
                 EN: Teflon spray
+43:46 WORD      Gleitmittel
+                LINK: https://de.wikipedia.org/wiki/Gleitmittel
+                EN: Lubricant
+44:11 WORD      Nee!
+                EN: Nah!
+44:11 DIALECT   Klassischer Hänger
+                EN: Classic hang-up
+44:32 WORD      Job
+                EN: Job
+44:55 SAYING    Bei aller Liebe
+                EN: By any stretch of the imagination
+45:09 DIALECT   Es ist jetzt “sauschwehr”
+                EN: It's now super hard
+45:09 TOC       Wie bekommen wir die Z1 wieder ans Laufen?
 45:26 WORD      Schub
                 EN: Movement
 45:29 WORD      Schubstange
                 EN: Push rod
+45:48 WORD      Puh!
+                EN: Phew
+45:50 SAYING    Hut ab!
+                EN: Hats off
+46:04 SAYING    Jemanden antun
+                EN: To do that to anyone
+46:10 TOC       Erst jetzt wird Dietmar Saupe bewusst, dass die Arbeit "etwas Besonderes" war
+46:48 WORD      Boa!
+                EN: Boa!
+47:21 TOC       Fragen zur originalen Z1
+47:35 TOC       Was hat Konrad Zuse über die originale Maschine erzählt?
 47:38 WORD      Laubsäge
                 LINK: https://de.wikipedia.org/wiki/Laubs%C3%A4ge
                 EN: Jigsaw
+48:09 SAYING    Bis er mir den Zahn gezogen hat
+                EN: Until he disillusioned me
+48:33 CLAIM     Die originale Z1 wurde mit Konservendosen gebaut (Weißblech)
 48:40 WORD      Weißblech
                 LINK: https://de.wikipedia.org/wiki/Wei%C3%9Fblech
                 EN: Tinplate
 48:50 WORD      Dengeln
                 LINK: https://de.wikipedia.org/wiki/Dengeln
                 EN: Peening
+49:03 TOC       Hat die originale Z1 funktioniert?
+49:45 CLAIM     DIETMAR hat LIESELOTTE nie kennengelernt.
+49:49 CLAIM     DIETMAR hat HORST und die jungste Tochter kennengelernt.
+49:51 SAYING    Er war finanziell in die “Sackgasse” geraten
+                EN: Came into a dead end
+49:54 TOC       Bau der Z1 im elterlichen Wohnzimmer
+49:55 TOC       Frau Zuse hat die Studenten mit Kaffee und Kuchen verwöhnt
+50:14 TOC       Freunde und Verwandte von Dietmar und Ursula haben auch die Z1 gesehen
+50:51 TOC       Kontakt mit Prof. Dr. Horst Zuse
+51:57 CLAIM     Es waren ein paar Hundert Gäste auf der Festveranstaltung
+52:02 CLAIM     Es waren viele Prominente in der ersten Reihe
+52:13 TOC       Analyse: Warum die originale Z1 funktioniert haben könnte?
+54:15 WORD      Cleverer
+                EN: Cleverer
+54:44 TOC       Stolz auf deutsche Erfinder
+55:17 WORD      Keimzelle
+                EN: Nucleus
 55:21 WORD      Gasmotoren
                 LINK: https://de.wikipedia.org/wiki/Gasmotor
                 EN: Gas engine
+55:31 SAYING    Gute Köpfe
+                EN: Fine heads
+56:04 TOC       Schlusswort der Diplomarbeit
+57:44 SAYING    Mittel zum Zweck
+                EN: A means to the end
 58:07 WORD      Bot
                 LINK: https://de.wikipedia.org/wiki/Bot
                 EN: Bot
 58:10 WORD      Hacker Programm
                 LINK: https://de.wikipedia.org/wiki/Hacker
-
-01:37 DIALECT   Wenn du mal einen “Hänger” hast
-                LINK: https://www.openthesaurus.de/synonyme/%28einen%29%20H%C3%A4nger%20haben
-01:39 DIALECT   Der andere kann einem kurz einen “Arschtritt” geben
-                LINK: https://www.openthesaurus.de/synonyme/edit/40021
-03:03 DIALECT   Uns ein “Bonbon” mitgegeben
-03:48 DIALECT   Also ich habe nur Bahnhof verstanden
-                LINK: https://de.pons.com/%C3%BCbersetzung/deutsch-englisch/ich+verstehe+nur+Bahnhof
-                EN: It’s was all Greek to me
-04:20 DIALECT   Wir waren ja “blank”
-                EN: We did not have anything.
-04:44 DIALECT   War für uns natürlich tot
-                EN: For us that was “Game over!”
-05:04 DIALECT   Folge-Sieben-Monate
-                DE: Die folgenden sieben Monate
-                EN: And then the following seven months later
-05:19 DIALECT   In der “Bude” gehockt
-                EN: Sat in the digs
-05:24 DIALECT   Am nächsten Morgen wieder “losgerammelt”
-                EN: And the next morning we started early again
-05:39 SAYING    Kein Hauch von Demenz
-                EN: Not a hint of dementia
-10:22 WORD      Hoppla!
-                EN: Oops!
-12:00 SAYING    Mit “Hängen und Würgen”
-                EN: By the skin of one's teeth 
-12:47 DIALECT   Das “dickt” natürlich auch auf
-                EN: which of course also thickens...
-13:54 SAYING    Eine Eins, eine “Glatte”
-                EN: it was an A, a straight one
-15:31 DIALECT   Hätten wir auch noch “hingebracht”
-                EN: We had accomplished that too
-17:03 WORD      Mordsmäßig
-                LINK: https://de.wiktionary.org/wiki/mordsm%C3%A4%C3%9Fig
-30:39 SAYING    Horden von
-                DE: Eine Menge, ein Haufen, Viele
-                EN: Loads of
-34:56 DIALECT   Die haben alles “hergetan”
-                DE: Die haben alles besorgt
-39:48 DIALECT   Das Material “zusammengestupft”
-                EN: Stitched together the material
-42:53 DIALECT   Die hätten natürlich alles “zermatscht”
-                EN: They would have squashed everything
-44:11 DIALECT   Klassischer Hänger
-                EN: Classic hang-up
-45:09 DIALECT   Es ist jetzt “sauschwehr”
-                EN: It's now super hard
-
-04:49 SAYING    Wir haben wirklich bei “Null” angefangen
-                EN: We really started from scratch
-04:58 SAYING    Ich habe “drei Kreuze” gemacht
-                EN: I made three crosses
-05:01 SAYING    Das Thema hinter sich bringen
-                EN: To get the issue over with
-07:30 SAYING    Und wir waren dort vor Ort
-                EN: And then were on site
-08:10 SAYING    Wenn es soweit ist
-                EN: When the time comes
-08:18 SAYING    Hat er uns alles schon schmackhaft gemacht!
-                EN: Has he already made everything palatable for us!
-08:46 SAYING    Die war nicht bei Null!
-                EN: It wasn't at zero!
-08:55 SAYING    Arbeit leisten
-                EN: Carry out work
-09:01 SAYING    Die Idee war geboren
-                EN: The idea was born
-09:06 SAYING    Das war so der Sinn dahinter
-                EN: That was the meaning behind it
-14:01 SAYING    Mit gehangen, mit gefangen
-                LINK: https://de.wiktionary.org/wiki/mitgefangen,_mitgehangen
-                EN: In for a penny, in for a pound.
-14:12 SAYING    Sackt man die Lorbeeren ein
-                LINK: https://www.redensarten-index.de/suche.php?suchbegriff=die%2BLorbeeren%2Bernten&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou
-                EN: Reap the laurels
-14:13 SAYING    Oder man sackt ab
-                EN: Or you loose
-14:36 SAYING    Und danach haben auch alle auf uns eingeredet
-                EN: after that everyone talked at us
-14:48 SAYING    Wir hatten die Nase voll
-                EN: We were fed up
-14:57 SAYING    Das war für uns beide kein Thema
-                EN: That wasn't a topic for either of us
-15:14 SAYING    Das wäre anders gelaufen
-                EN: That you have gone differently
-15:21 SAYING    Lasst es gut sein
-                EN: Just leave it!
-15:15 SAYING    Das wird nichts
-                EN: This will not work
-16:15 SAYING    Irgendwann haben wir die Kurve bekommen, wir drei
-                EN: At some point we got our act together, the three of us!
-16:25 SAYING    Mit offenem Mund dastehen
-                LINK: https://www.redensarten-index.de/suche.php?suchbegriff=mit+offenem+Mund+dastehen&bool=relevanz&sp0=rart_ou
-                EN: Stand there with your mouth open
-17:04 SAYING    Auch ihm ist eine Last abgefallen
-                EN: A burden has been lifted from him too
-17:29 SAYING    Mal ganz krass ausgedrückt
-                EN: To put it blumply
-17:31 SAYING    Das wäre “Ende Gelände” gewesen
-                EN: That would have been the end of the road
-17:36 SAYING    Ihm gebührt die Ehre
-                EN: He deserves the honor
-18:10 SAYING    Ins Leere laufen
-                EN: Comes to nothing
-18:38 SAYING    Den Vorsprung aufholen, den wir hatten
-                EN: And he couldn't catch up with the lead we had.
-26:44 SAYING    Zuse selbst ist “zu Wort gekommen”
-                EN: Zuse himself had his say
-44:55 SAYING    Bei aller Liebe
-                EN: By any stretch of the imagination
-45:50 SAYING    Hut ab!
-                EN: Hats off
-46:04 SAYING    Jemanden antun
-                EN: To do that to anyone
-48:09 SAYING    Bis er mir den Zahn gezogen hat
-                EN: Until he disillusioned me
-49:51 SAYING    Er war finanziell in die “Sackgasse” geraten
-                EN: Came into a dead end
-55:31 SAYING    Gute Köpfe
-                EN: Fine heads
-57:44 SAYING    Mittel zum Zweck
-                EN: A means to the end
-
-05:41 WORD      Demenz
-                LINK: https://de.wikipedia.org/wiki/Demenz
-                EN: Dementia
-05:53 WORD      Ehrenbürger
-                LINK: https://de.wikipedia.org/wiki/Ehrenb%C3%BCrger
-                EN: Honorary citizen
-06:26 WORD      BAföG
-                LINK: https://de.wikipedia.org/wiki/Bundesausbildungsf%C3%B6rderungsgesetz
-                EN: BAföG
-06:28 WORD      Kommilitonen
-                LINK: https://de.wikipedia.org/wiki/Kommilitone
-                EN: Fellow students
-06:45 WORD      D-Mark
-                LINK: https://de.wikipedia.org/wiki/Deutsche_Mark
-                EN: D-Mark
-06:51 WORD      Kuratorium
-                LINK: 08:58
-                LINK: 18:05
-                LINK: https://de.wikipedia.org/wiki/Kuratorium
-                EN: Curatorship
-07:32 WORD      Antrittsbesuch
-                LINK: https://de.wiktionary.org/wiki/Antrittsbesuch
-                EN: Inaugural visit
-07:35 WORD      Werksleiter
-                EN: Plant manager
-07:41 WORD      Facharbeiter
-                LINK: 17:50
-                LINK: https://de.wikipedia.org/wiki/Facharbeiter
-                EN: Skilled worker
-08:14 WORD      Einweihung
-                EN: Inauguration
-08:29 WORD      Vorlauf
-                EN: Lead time
-08:43 WORD      Gerüst
-                EN: Scaffolding
-09:15 WORD      Atelier
-                EN: Studio
-09:24 WORD      Rechner
-                EN: Computer
-                EN: Calculating machine
-09:55 WORD      Vorarbeit
-                EN: Preparatory work
-14:26 WORD      Korrekturleser
-                EN: Proofreader
-13:43 WORD      Kolloquium
-                EN: Colloquium
-15:07 WORD      Fachhochschule
-                EN: University of applied sciences
-15:10 WORD      Promotion
-                EN: Doctorate
-15:20 WORD      Master of Science
-                EN: Master of science
-16:28 WORD      Proberechnung
-                EN: Trial calculation
-18:02 WORD      Doktorand
-                EN: Doctoral student
-42:37 WORD      Verhaken
-                EN: To be stuck
-55:17 WORD      Keimzelle
-                EN: Nucleus
-
-08:43 SAYING    Ach was?
-                EN: Ah what?
-12:05 WORD      Ach!
-                EN: Oh!
-13:52 WORD      Ei!
-                EN: Wow!
-44:11 WORD      Nee!
-                EN: Nah!
-45:48 WORD      Puh!
-                EN: Phew
-46:48 WORD      Boa!
-                EN: Boa!
-
-
-02:01 WORD      Background
-                EN: Background
-06:45 SAYING    Give me five!
-                EN: Give me five!
-17:48 WORD      Speed
-                EN: Speed
-20:08 WORD      Booster
-                EN: Booster
-44:32 WORD      Job
-                EN: Job
-54:15 WORD      Cleverer
-                EN: Cleverer
-
-01:02 TOC       Begrüßung
-01:02 TOC       Warum Diplomarbeit zu zweit?
-01:54 TOC       Prof. Dr. Wolfgang Harth schlägt Diplomarbeit vor
-02:25 TOC       Termin bei Dr. Schäfer von der GMD
-04:20 TOC       Unterlagen in "Zuse-Steno"
-04:58 TOC       Die Last der Diplomarbeit
-05:31 TOC       Konrad Zuse war mit 78 immer noch geistig fit
-05:47 TOC       Unterbringung im Gästehaus Hünfeld
-06:37 TOC       Finanzielle Vergütung der Diplomarbeit
-06:49 TOC       Das Kuratorium Z1-Nachbau: GMD, Siemens, Museum für Verkehr und Technik
-07:23 TOC       GMD: Prof. Schäfer
-07:29 TOC       Siemens: Werksleiter und Facharbeiter Herr Reinhard Ernst
-08:00 TOC       Museum: Prof. Günther Gottmann
-08:22 TOC       Vorarbeiten an der Z1 bis zur Diplomarbeit
-09:39 TOC       Z1 Speichermodell vom Deutschen Museum
-10:06 TOC       Der Motor war (fast) nie in Betrieb
-10:51 TOC       Der Titel der Diplomarbeit: Funkions- und Konstruktionsprinzipien der programmgesteuerten mechanischen Rechenmaschine "Z1"
-11:46 TOC       Dauer der Arbeit 14 Monate: (3 + 3) + 8 Monate
-12:27 TOC       Unterschiede GMD Papier zu Diplomarbeit
-13:50 TOC       Bewertung der Arbeit mit Note 1
-14:31 TOC       Rechenwerk nicht dokumentiert, weil Arbeitsdichte schon mit Speicher zu hoch war
-15:02 TOC       Mögliche Doktorarbeit für Rechenwerk?
-15:52 TOC       Große Problem mit der Rekonstruktion
-18:25 TOC       Mitarbeiter des Museums Heinz Weber
-19:33 TOC       Problem mit der Addition der Spiele
-19:55 TOC       Manche Rechnungen "gefährlicher" als andere
-20:09 TOC       Idee: Mit dem Booster, um Problem zu lösen
-21:33 TOC       Drahterosionsmaschine
-22:35 TOC       Dietmar hat auch NC Programme geschrieben (G-Code)
-23:10 TOC       Theorie, dass gehärtete Stahlstifte die Edelstahlbleche beschädigen könnten
-24:07 TOC       Transport der Maschine ins Museum für Verkehr und Technik
-25:54 TOC       Festveranstaltung im Museum (14.09.1989)
-27:02 TOC       Die Z1 wurde auf der Veranstaltung nicht vorgeführt
-28:26 TOC       Aussage: Wenn die Z1 durchlief und hat ein Ergebnis geliefert, war das Ergebnis nie falsch
-29:11 TOC       Mühsames Reparieren von Verbiegungen
-31:48 TOC       Arbeitsablauf: Logik, Schaltplan, CAD, CNC, Bleche
-34:36 TOC       Kaum Leerzeiten
-35:20 TOC       Wie würde man das Projekt heute durchführen? CAD Programm CATIA mit Kinematik.
-36:50 TOC       Der Film "Konrad Zuse" von Mathias Knauer
-37:51 TOC       Beweis, dass die Z1 richtig gerechnet hat?
-38:57 TOC       Filmaufnahmen mit Z1 in Betrieb
-40:04 TOC       Wie viele Teile hat der Z1 Nachbau, 30.000?
-41:07 TOC       Wie wurde die Maschine gekurbelt?
-41:58 TOC       Exzenter übersetzt Dreh- in Schubbewegungen
-43:04 TOC       Welches Schmiermittel wurde eingesetzt?
-43:35 TOC       Dietmar repariert die Z1 einmal in Berlin
-45:09 TOC       Wie bekommen wir die Z1 wieder ans Laufen?
-46:10 TOC       Erst jetzt wird Dietmar Saupe bewusst, dass die Arbeit "etwas Besonderes" war
-47:21 TOC       Fragen zur originalen Z1
-47:35 TOC       Was hat Konrad Zuse über die originale Maschine erzählt?
-49:03 TOC       Hat die originale Z1 funktioniert?
-49:54 TOC       Bau der Z1 im elterlichen Wohnzimmer
-49:55 TOC       Frau Zuse hat die Studenten mit Kaffee und Kuchen verwöhnt
-50:14 TOC       Freunde und Verwandte von Dietmar und Ursula haben auch die Z1 gesehen
-50:51 TOC       Kontakt mit Prof. Dr. Horst Zuse
-52:13 TOC       Analyse: Warum die originale Z1 funktioniert haben könnte?
-54:44 TOC       Stolz auf deutsche Erfinder
-56:04 TOC       Schlusswort der Diplomarbeit
-
-28:21 CLAIM     Der Nachbau hat immer richtig / nie falsch gerechnet
-11:51 CLAIM     Die Studenten haben 14 Monate an der Maschine gearbeitet
-24:32 CLAIM     Im Februar 89 aufgehört mit der Arbeit
-24:32 CLAIM     DIETMAR und USCHI haben am 1. März 89 mit dem Job angefangen
-04:36 CLAIM     Zuse hat eigenes (besseres?) Steno erfunden
-17:21 CLAIM     Konrad Zuse hatte einen Herzinfarkt
-24:49 CLAIM     Am 14.9.1989 Einweihung (11 Uhr)
-24:54 CLAIM     Bildungsminister Riesenhuber war anwesend
-25:10 CLAIM     Das Atelier war auf der anderen Seite
-25:35 CLAIM     Die Maschine war 1988 bereits aufgebaut
-26:08 CLAIM     Das Museum für Verkehr und Technik hatte ein Gästezimmer
-27:54 CLAIM     Es wurde Keine Rechnung bei Schlussakt durchgeführt
-                INFO: HADWIG: Weil Maschine kaputt war
-                INFO: RAUL: Im Buch?
-28:32 CLAIM     Fest eingebaute Subtraktion im Leitwerk
-29:04 CLAIM     Die Maschine hat im Grund genommen funktioninert!
-29:19 CLAIM     Die Maschine ist am besten mit zwei Personen zu bedienen. Einer kurbelt, einer bedient.
-29:50 CLAIM     Das Rechenwerk hatte mehr Fehler als das Speicherwerk
-30:28 CLAIM     Drei Fehlerarten: Impulsfehler, Überlegungsfehler (Logik), Schiebefehler
-34:30 CLAIM     Bleche wurden schnell geliefert, Siemens war extrem großzügig.
-27:51 CLAIM     Ziel des Kuratoriums: Beweis, dass die Überlegungen von Konrad Zuse korrekt waren
-31:32 CLAIM     Programme waren unterschiedlich gefährlich für die Maschine
-34:28 CLAIM     Ca 3. Tage von CAD-Zeichnung bis Bleche geliefert wurden
-38:20 CLAIM     Eine Rechnung hat mehrere Minuten gedauert
-43:36 CLAIM     DIEMTAR hat einmal in Berlin die Maschine erfolgreich repariert
-48:33 CLAIM     Die originale Z1 wurde mit Konservendosen gebaut (Weißblech)
-49:45 CLAIM     DIETMAR hat LIESELOTTE nie kennengelernt.
-49:49 CLAIM     DIETMAR hat HORST und die jungste Tochter kennengelernt.
-51:57 CLAIM     Es waren ein paar Hundert Gäste auf der Festveranstaltung
-52:02 CLAIM     Es waren viele Prominente in der ersten Reihe
