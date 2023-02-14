@@ -1,0 +1,5348 @@
+1
+00:00:01,880 --> 00:00:04,200
+(Michael aplaude)
+
+2
+00:00:06,200 --> 00:00:09,880
+Y toma otro sorbo...
+
+3
+00:00:09,880 --> 00:00:25,780
+(Sonidos: persianas)
+
+4
+00:00:26,340 --> 00:00:43,400
+(Sonidos: monitor)
+
+5
+00:00:46,120 --> 00:00:48,240
+¡Entonces!
+
+6
+00:00:50,520 --> 00:00:54,080
+Primero inserto la tira de programa.
+
+7
+00:00:54,080 --> 00:00:58,980
+(Sonidos: lector de cintas de papel)
+
+8
+00:01:00,060 --> 00:01:02,520
+Ahora puede comenzar la lectura en el programa...
+
+9
+00:01:03,380 --> 00:01:04,200
+¡Hola Dietmar!
+
+10
+00:01:04,200 --> 00:01:05,720
+Hola Miguel, saludos!
+
+11
+00:01:05,720 --> 00:01:08,160
+¿Cómo surgió la idea de hacer una tesis de diploma juntos?
+
+12
+00:01:08,160 --> 00:01:11,280
+Muchos hicieron eso en nuestro curso en ese entonces.
+
+13
+00:01:11,280 --> 00:01:14,120
+Esto tiene un efecto simple: inicialmente solo está
+
+14
+00:01:14,120 --> 00:01:16,500
+buscando un trabajo que pueda hacer en pareja.
+
+15
+00:01:16,500 --> 00:01:18,200
+También puede hacer volúmenes más grandes: ¡
+
+16
+00:01:18,200 --> 00:01:21,180
+para que pueda escribir tesis de diploma más extensas!
+
+17
+00:01:21,180 --> 00:01:23,860
+Muchas disertaciones consistían en una parte práctica y otra teórica... ¡
+
+18
+00:01:23,860 --> 00:01:25,260
+Se puede dividir mejor!
+
+19
+00:01:25,260 --> 00:01:28,220
+A nosotros nos pasaba lo mismo, hasta cierto punto... ¡
+
+20
+00:01:28,480 --> 00:01:29,220
+Esa era la idea!
+
+21
+00:01:29,220 --> 00:01:31,340
+También hablamos con alumnos mayores
+
+22
+00:01:31,340 --> 00:01:34,260
+que ya habían realizado su tesis de grado... ¡Nuestros ingenieros de laboratorio también!
+
+23
+00:01:34,260 --> 00:01:36,500
+Eso no era inusual, algunas personas lo hicieron.
+
+24
+00:01:37,040 --> 00:01:40,320
+Y también el tema de la motivación, si tienes una percha, para dos...
+
+25
+00:01:40,560 --> 00:01:42,760
+El otro te puede dar una patada rápida en el culo, ¡en buen alemán!
+
+26
+00:01:42,760 --> 00:01:44,580
+¡Cuando estés atascado otra vez!
+
+27
+00:01:44,580 --> 00:01:47,140
+O escribiste algo y luego mal alemán...
+
+28
+00:01:47,140 --> 00:01:49,680
+O de alguna manera te dejaste llevar. ¿Te puede ayudar el segundo?
+
+29
+00:01:49,680 --> 00:01:51,720
+Así que nos dimos cuenta de que ya en la fase de aprendizaje, ¡
+
+30
+00:01:51,720 --> 00:01:54,180
+simplemente es mejor trabajar en equipo que solo!
+
+31
+00:01:54,740 --> 00:01:58,740
+Y luego el profesor Harth se acercó a nosotros y tuvo la idea: ¡
+
+32
+00:01:58,740 --> 00:02:00,220
+Gran trabajo para dos!
+
+33
+00:02:00,660 --> 00:02:04,400
+Y conocía nuestro "antecedente" de que ambos... no
+
+34
+00:02:04,400 --> 00:02:06,580
+solo... veníamos de la escuela secundaria y de las pasantías,
+
+35
+00:02:06,580 --> 00:02:07,620
+sino que realmente hicimos un aprendizaje.
+
+36
+00:02:07,720 --> 00:02:09,660
+Así que el aprendizaje de Uschi fue de tres años, o tres y medio... ¿
+
+37
+00:02:09,660 --> 00:02:10,740
+Hizo algo con la óptica?
+
+38
+00:02:10,740 --> 00:02:12,860
+Óptico, óptico debidamente formado.
+
+39
+00:02:13,280 --> 00:02:15,560
+Y el profesor sabía eso... Y creo que ese fue
+
+40
+00:02:15,560 --> 00:02:17,300
+también el trasfondo por el que nos contactaron:
+
+41
+00:02:17,300 --> 00:02:20,660
+porque, por supuesto, necesitaba a alguien, o ambos, con trasfondo práctico.
+
+42
+00:02:20,660 --> 00:02:22,220
+Porque sabía que el trabajo
+
+43
+00:02:22,860 --> 00:02:25,940
+consistiría en mucho... trabajo de montaje, esmerilado y taponado.
+
+44
+00:02:26,340 --> 00:02:28,080
+Tenía un compañero de estudios
+
+45
+00:02:28,080 --> 00:02:29,840
+que mientras tanto estaba en GMD:
+
+46
+00:02:29,840 --> 00:02:31,560
+el Dr. ¡Pastor!
+
+47
+00:02:31,560 --> 00:02:35,760
+GMD, ¡esa es la Sociedad de Matemáticas y Procesamiento de Datos!
+
+48
+00:02:35,760 --> 00:02:38,340
+Ya no existe en esa forma, ha sido renombrado.
+
+49
+00:02:38,840 --> 00:02:43,340
+Y así fue entonces, fue cerca de Colonia, Sankt Augustin cerca de Bonn.
+
+50
+00:02:43,940 --> 00:02:46,340
+Y nos consiguió una cita de inmediato, por teléfono.
+
+51
+00:02:46,340 --> 00:02:48,180
+Y luego fuimos allí por la tarde...
+
+52
+00:02:48,440 --> 00:02:51,660
+Y luego nos presentó el trabajo real, cómo funcionaría.
+
+53
+00:02:51,840 --> 00:02:55,340
+Y luego fue claro para nosotros: ¡Está bien, todo no tendrá lugar en Colonia!
+
+54
+00:02:55,980 --> 00:03:00,960
+Lleva al menos medio año, o tal vez ir en esa dirección.
+
+55
+00:03:01,140 --> 00:03:02,440
+¡Ya no sería corto!
+
+56
+00:03:02,880 --> 00:03:04,980
+Y también nos dieron un caramelo: ¡
+
+57
+00:03:04,980 --> 00:03:06,860
+Recibimos un salario básico determinado!
+
+58
+00:03:07,200 --> 00:03:09,880
+Y la vivienda es asumida por la ciudad de Hünfeld.
+
+59
+00:03:10,380 --> 00:03:12,440
+Y luego, el día que
+
+60
+00:03:12,440 --> 00:03:15,620
+fuimos a... Zuse, concertó citas con Zuse en Hünfeld.
+
+61
+00:03:15,620 --> 00:03:17,400
+¿Fuimos allí de nuevo?
+
+62
+00:03:17,400 --> 00:03:19,580
+¡Y entonces deberíamos decidir!
+
+63
+00:03:19,580 --> 00:03:22,120
+Y donde estuvimos allí y conocimos a Zuse...
+
+64
+00:03:22,120 --> 00:03:23,220
+Luego nos fuimos a Colonia...
+
+65
+00:03:23,220 --> 00:03:25,020
+En el camino de regreso ya lo pensamos: ¡
+
+66
+00:03:25,280 --> 00:03:27,720
+nos atrae! ¡tiene sentido! ¡Vamos a intentarlo! ¡Hacemos!
+
+67
+00:03:27,720 --> 00:03:30,100
+¡Y luego firmamos y nos pusimos a trabajar!
+
+68
+00:03:30,100 --> 00:03:32,640
+Bueno, ahora no eras un científico informático... Bueno, si yo...
+
+69
+00:03:32,640 --> 00:03:35,720
+Si hubiera tenido esta oportunidad como científico informático, no habría...
+
+70
+00:03:35,720 --> 00:03:38,180
+No habría dudado ni un segundo, yo lo hubiera hecho de inmediato!
+
+71
+00:03:38,660 --> 00:03:40,480
+Pero si no eres del campo,
+
+72
+00:03:40,480 --> 00:03:42,180
+entonces tal vez aún no estés allí... ¡
+
+73
+00:03:42,180 --> 00:03:45,320
+Exacto! Esa fue también mi preocupación de que no entendía todo el tema.
+
+74
+00:03:45,320 --> 00:03:47,780
+¡Y así fue durante las primeras semanas! Lo tenemos...
+
+75
+00:03:47,780 --> 00:03:49,280
+Bueno, ¡solo entendí la estación de tren!
+
+76
+00:03:49,280 --> 00:03:51,440
+¡No entendí la máquina cómo funciona esto!
+
+77
+00:03:51,840 --> 00:03:54,360
+El sistema dual me era completamente desconocido hasta entonces.
+
+78
+00:03:54,360 --> 00:03:56,200
+Sabía que consta de cero y uno...
+
+79
+00:03:56,200 --> 00:03:59,700
+Pero cómo sumar, restar, multiplicar digitalmente,
+
+80
+00:03:59,700 --> 00:04:01,620
+Solo lo aprendí en mi tesis de diploma.
+
+81
+00:04:02,280 --> 00:04:04,620
+Y todavía había algunos obstáculos que tuvimos que superar.
+
+82
+00:04:04,620 --> 00:04:05,600
+¡Tienes que decirlo muy claro!
+
+83
+00:04:05,600 --> 00:04:08,180
+Así que definitivamente trabajo interdisciplinario!
+
+84
+00:04:08,180 --> 00:04:09,620
+¡Sí definitivamente!
+
+85
+00:04:09,620 --> 00:04:12,320
+Y un trabajo donde no tienes referencias.
+
+86
+00:04:12,540 --> 00:04:14,760
+¡No había documentos, no encontrarás nada!
+
+87
+00:04:14,760 --> 00:04:18,260
+Bueno, en ese entonces no había Wikipedia, pero en el Mus...
+
+88
+00:04:18,260 --> 00:04:20,820
+No encontraste nada en la enciclopedia... ¡Estábamos en blanco!
+
+89
+00:04:20,820 --> 00:04:24,500
+En ese entonces, Zuse nos dio algunos documentos: ¿
+
+90
+00:04:24,500 --> 00:04:26,780
+Digo taquigrafía? Bueno, ¡lo aceptamos!
+
+91
+00:04:26,780 --> 00:04:28,900
+No pudimos hacer taquigrafía, la llevamos a la oficina de taquigrafía:
+
+92
+00:04:28,900 --> 00:04:30,660
+La señora dice nada más mirarla: ¡
+
+93
+00:04:30,800 --> 00:04:33,080
+Se la puede llevar! ¿Por qué Qué?
+
+94
+00:04:33,080 --> 00:04:35,580
+No hay steno estándar, ¡son signos diferentes!
+
+95
+00:04:35,640 --> 00:04:36,620
+Ahí están de vuelta al Zuse:
+
+96
+00:04:36,620 --> 00:04:39,500
+Tú, ¿qué tipo de taquigrafía es esa aquí? Sí, eso es...
+
+97
+00:04:39,500 --> 00:04:41,700
+La taquigrafía normal era suya... ¿Cómo lo dijo?
+
+98
+00:04:41,700 --> 00:04:44,100
+No lo suficientemente efectivo, cambió un poco la sintaxis.
+
+99
+00:04:44,100 --> 00:04:47,040
+¡Por supuesto que estaba muerto para nosotros! (Michael se ríe) ¡
+
+100
+00:04:47,040 --> 00:04:49,440
+Devolvimos la cosa, no podías hacer nada con ella!
+
+101
+00:04:49,440 --> 00:04:51,940
+Así que no teníamos ningún documento, ¡realmente empezamos de cero!
+
+102
+00:04:52,240 --> 00:04:54,240
+Y así fueron las primeras semanas:
+
+103
+00:04:54,700 --> 00:04:58,720
+trabajé al máximo y no conseguí nada sobre el papel.
+
+104
+00:04:58,720 --> 00:05:01,160
+¡Donde terminamos con el Diplomat, hice tres cruces!
+
+105
+00:05:01,160 --> 00:05:03,380
+Me alegré mucho de haber dejado atrás el problema.
+
+106
+00:05:03,380 --> 00:05:05,600
+Y luego el episodio, siete meses después,
+
+107
+00:05:05,600 --> 00:05:08,040
+donde estábamos involucrados en el trabajo, en la máquina...
+
+108
+00:05:08,660 --> 00:05:10,760
+No diré que fue más divertido ahora...
+
+109
+00:05:10,760 --> 00:05:12,560
+Fue divertido antes también. Pero...
+
+110
+00:05:12,560 --> 00:05:15,380
+Estaba esta carga de la tesis y tener que escribir esa noche... ¡
+
+111
+00:05:15,540 --> 00:05:16,620
+Se había ido!
+
+112
+00:05:16,620 --> 00:05:19,340
+Pudimos volver a hacer un poco de deporte por las tardes, salíamos de vez en cuando.
+
+113
+00:05:19,580 --> 00:05:21,000
+Antes de eso, simplemente nos agachábamos en la cabina...
+
+114
+00:05:21,000 --> 00:05:24,220
+Y por la noche escribíamos hasta quedar exhaustos, nos acostábamos... ¡
+
+115
+00:05:24,220 --> 00:05:28,100
+Y a la mañana siguiente nos "soltamos" y trabajábamos en la máquina de escribir!
+
+116
+00:05:28,620 --> 00:05:31,060
+¡Fue más fácil para nosotros después!
+
+117
+00:05:31,060 --> 00:05:33,700
+Konrad Zuse ya tenía setenta y ocho años en ese momento... ¡
+
+118
+00:05:33,700 --> 00:05:36,720
+Lo que también es notable es que todavía estás en forma!
+
+119
+00:05:36,720 --> 00:05:39,680
+¡Absolutamente notable! ¡Estaba súper en forma!
+
+120
+00:05:39,680 --> 00:05:42,320
+Así que no había ni un indicio de demencia que se notara.
+
+121
+00:05:42,320 --> 00:05:44,940
+O dificultades, o faltaban palabras...
+
+122
+00:05:44,940 --> 00:05:47,540
+También su forma de expresión... ¡Legendario!
+
+123
+00:05:47,540 --> 00:05:50,180
+¡Y te quedaste en la casa de huéspedes del pueblo!
+
+124
+00:05:50,180 --> 00:05:52,860
+Hünfeld obviamente tenía interés en eso... ¡
+
+125
+00:05:52,860 --> 00:05:53,740
+Sí!
+
+126
+00:05:53,840 --> 00:05:56,480
+Es un ciudadano honorario de Hünfeld, tienen un museo...
+
+127
+00:05:56,480 --> 00:05:59,220
+Y también conocimos al alcalde durante ese tiempo.
+
+128
+00:05:59,220 --> 00:06:01,420
+Y también estaban felices de que lo hiciéramos
+
+129
+00:06:01,420 --> 00:06:03,340
+e hicimos todo lo posible para
+
+130
+00:06:03,760 --> 00:06:05,300
+que nuestra estadía... ¡Agradable, tengo que decirlo!
+
+131
+00:06:05,300 --> 00:06:07,020
+La ciudad de Hünfeld: Mirando hacia atrás, ¡estoy muy agradecida!
+
+132
+00:06:07,020 --> 00:06:11,300
+Eso fue un... para nosotros una buena estadía, allí! ¡Teníamos espacio!
+
+133
+00:06:12,060 --> 00:06:13,620
+No estaba lujosamente amueblado...
+
+134
+00:06:13,620 --> 00:06:18,180
+Con el más simple de los muebles: mesas, armarios, una pequeña cocina.
+
+135
+00:06:18,180 --> 00:06:21,060
+¡Pero fue suficiente! Y fue gratis para nosotros.
+
+136
+00:06:21,480 --> 00:06:26,300
+Y fue en ese entonces como un estudiante que solo obtuvo BAföG en base a créditos...
+
+137
+00:06:26,300 --> 00:06:28,120
+Por supuesto que fue un regalo. ¡Tengo que decirlo muy claramente!
+
+138
+00:06:28,120 --> 00:06:29,960
+Muchos de nuestros compañeros de estudios...
+
+139
+00:06:29,960 --> 00:06:32,180
+Tuvieron que alquilar un apartamento en algún lugar de una ciudad extranjera...
+
+140
+00:06:32,180 --> 00:06:33,680
+Escribieron una tesis allí.
+
+141
+00:06:33,680 --> 00:06:35,300
+¡Requisitos financieros completamente diferentes!
+
+142
+00:06:35,300 --> 00:06:36,980
+Así fue... ¡Muy bien!
+
+143
+00:06:36,980 --> 00:06:39,140
+¿Puedo preguntar cuánto tienes allí?
+
+144
+00:06:39,140 --> 00:06:39,580
+¿Se te permite?
+
+145
+00:06:39,580 --> 00:06:41,720
+Te lo diría directamente si todavía lo supiera. ya no lo se
+
+146
+00:06:41,720 --> 00:06:43,180
+¡Pero era lucrativo!
+
+147
+00:06:43,180 --> 00:06:46,520
+Así que era un salario decente a precios de D-Mark... ¡
+
+148
+00:06:46,740 --> 00:06:47,980
+Creo que eran más de mil D-Mark!
+
+149
+00:06:47,980 --> 00:06:49,380
+¡Pero realmente ya no sé cuánto!
+
+150
+00:06:51,440 --> 00:06:54,720
+Había un consejo de administración: "Z1-Nachbau"
+
+151
+00:06:55,480 --> 00:06:57,780
+Ese tipo de...
+
+152
+00:06:57,780 --> 00:07:00,040
+se hizo cargo de la financiación y también...
+
+153
+00:07:00,460 --> 00:07:03,540
+no sé... dio el apoyo.
+
+154
+00:07:03,540 --> 00:07:06,080
+Estaba el GMD, que mencionamos anteriormente.
+
+155
+00:07:06,080 --> 00:07:11,460
+Luego Siemens, la empresa Siemens que se había hecho cargo de Zuse KG en ese entonces.
+
+156
+00:07:11,480 --> 00:07:12,260
+¡Exactamente!
+
+157
+00:07:12,620 --> 00:07:16,320
+Y el "Museo del Transporte y la Tecnología", hoy "Museo de la Tecnología"...
+
+158
+00:07:16,620 --> 00:07:18,660
+¡En Berlín! Esos eran los tres.
+
+159
+00:07:18,660 --> 00:07:23,180
+¿Tuviste contacto con alguna persona de estos tres grupos?
+
+160
+00:07:23,180 --> 00:07:26,400
+Sí, con los tres contactos, pero solo después del primer contacto con...
+
+161
+00:07:26,400 --> 00:07:29,580
+Profesor Dr. Schäfer (GMD), que nos organizó el trabajo.
+
+162
+00:07:30,000 --> 00:07:32,100
+Cuando firmamos allí, estábamos allí...
+
+163
+00:07:32,100 --> 00:07:35,420
+Luego nos dirigimos a Hersfeld (Siemens) para la visita inicial.
+
+164
+00:07:35,420 --> 00:07:37,020
+¡Conocí al gerente de la planta!
+
+165
+00:07:37,020 --> 00:07:39,200
+También estaba feliz y agradecido de que lo estuviéramos haciendo.
+
+166
+00:07:39,200 --> 00:07:41,460
+Porque tiene su...
+
+167
+00:07:41,460 --> 00:07:43,220
+trabajador calificado, empleado...
+
+168
+00:07:43,220 --> 00:07:45,020
+no sé, ¿era su nombre de pila Ernst o su apellido Ernst?
+
+169
+00:07:45,020 --> 00:07:47,160
+También lo olvidé después de 34 años.
+
+170
+00:07:47,160 --> 00:07:51,920
+Y también nos apoyó: entregó la chapa...
+
+171
+00:07:52,620 --> 00:07:55,560
+Tomó pedidos de nosotros de regreso a Bad Hersfeld.
+
+172
+00:07:55,740 --> 00:07:58,600
+¡Así que Siemens ya ha intervenido poderosamente para
+
+173
+00:07:58,600 --> 00:08:00,000
+garantizar que las cosas sigan adelante con la máquina!
+
+174
+00:08:00,200 --> 00:08:02,060
+Y luego también conocí al...
+
+175
+00:08:02,060 --> 00:08:04,020
+Ni siquiera recuerdo su nombre, profesor, este director
+
+176
+00:08:04,020 --> 00:08:06,820
+del museo y puede visitar Hünfeld algún día.
+
+177
+00:08:07,100 --> 00:08:09,340
+¡Y también nos dejó claro que la máquina se va a Berlín!
+
+178
+00:08:09,360 --> 00:08:10,980
+Porque Zuse es de Berlín.
+
+179
+00:08:10,980 --> 00:08:14,920
+Y si llegaba el momento, la máquina estaría involucrada...
+
+180
+00:08:14,920 --> 00:08:18,280
+Nos mudamos a Berlín, entonces nos invitaría a la inauguración.
+
+181
+00:08:18,480 --> 00:08:20,220
+¡Ya nos ha hecho todo sabroso!
+
+182
+00:08:20,460 --> 00:08:22,580
+También estuvo en Hünfeld varias veces, llegamos a conocerlo.
+
+183
+00:08:22,760 --> 00:08:24,900
+Y eso comenzó en 1988...
+
+184
+00:08:24,900 --> 00:08:29,200
+Sin embargo,
+
+185
+00:08:29,200 --> 00:08:33,360
+leí, por ejemplo, en el sitio web de Horst Zuse, el hijo de Konrad Zuse, que hubo un cierto tiempo de espera...
+
+186
+00:08:33,360 --> 00:08:38,400
+Mil novecientos... ¡Él escribe que comenzó en 1986!
+
+187
+00:08:39,080 --> 00:08:40,520
+No puedo juzgar, pero puede ser!
+
+188
+00:08:40,520 --> 00:08:42,440
+La máquina ya estaba allí cuando llegamos.
+
+189
+00:08:42,440 --> 00:08:43,620
+¿La máquina ya estaba allí?
+
+190
+00:08:43,620 --> 00:08:46,680
+Así que los andamios, los primeros niveles... ¿Oh qué?
+
+191
+00:08:46,680 --> 00:08:49,180
+¡Sí, entonces no estaba en cero! Eso también fue...
+
+192
+00:08:49,180 --> 00:08:52,380
+Zuse ya estaba trabajando en eso, también con este empleado de Siemens:
+
+193
+00:08:52,380 --> 00:08:55,880
+Herr Ernst, o Ernst como su primer nombre... ¡No puedo recordar!
+
+194
+00:08:55,880 --> 00:08:58,280
+Y los dos ya han hecho algo de trabajo.
+
+195
+00:08:58,280 --> 00:09:00,960
+¡Eso estaba claro, esta Junta de Síndicos ya estaba en funcionamiento!
+
+196
+00:09:00,960 --> 00:09:04,160
+¡Llegamos a eso más tarde! Porque nació la idea:
+
+197
+00:09:04,160 --> 00:09:06,740
+con dos estudiantes, por supuesto, tendría algunos trabajadores más.
+
+198
+00:09:06,740 --> 00:09:09,960
+También podrían documentar eso: ¡Ese era el punto detrás de esto!
+
+199
+00:09:10,280 --> 00:09:12,260
+¡Completamente comprensible desde la perspectiva actual!
+
+200
+00:09:12,260 --> 00:09:14,080
+También hicimos eso en la industria, hasta cierto punto.
+
+201
+00:09:14,080 --> 00:09:16,160
+Y cuando vinimos a este estudio por primera vez...
+
+202
+00:09:16,500 --> 00:09:20,240
+Entonces los pines ya estaban ahí, este marco con el motor al costado.
+
+203
+00:09:20,240 --> 00:09:22,640
+Y todas las copas con las partes individuales estaban allí.
+
+204
+00:09:22,640 --> 00:09:25,160
+Y nos quedamos asombrados, ¿se supone que esto es una computadora?
+
+205
+00:09:25,920 --> 00:09:27,260
+Bueno, así es, el trabajo preparatorio...
+
+206
+00:09:27,260 --> 00:09:30,860
+No sé si eso fue en 1986 o en 1987, Horst lo sabrá mejor...
+
+207
+00:09:30,860 --> 00:09:34,700
+A quien también conocimos en Berlín en ese entonces... ¡personalmente!
+
+208
+00:09:34,880 --> 00:09:36,540
+Eso puede ser cierto, eso es todo correcto!
+
+209
+00:09:36,540 --> 00:09:38,820
+Así que la máquina ya estaba en construcción, no hay duda al respecto.
+
+210
+00:09:38,820 --> 00:09:43,680
+Lo que vi en Munich es un modelo con memoria del Z1.
+
+211
+00:09:43,680 --> 00:09:45,960
+No sé si alguna vez... ¡No viste eso!
+
+212
+00:09:45,960 --> 00:09:48,700
+Estuve en Munich antes de escribir mi tesis de diploma, hasta ahora...
+
+213
+00:09:48,700 --> 00:09:51,140
+No he estado en el Deutsches Museum desde entonces, 30 años.
+
+214
+00:09:51,140 --> 00:09:52,260
+¡Absolutamente tengo que ir allí de nuevo!
+
+215
+00:09:52,260 --> 00:09:55,640
+Sí, sí, hay un modelo con la memoria y creo que
+
+216
+00:09:55,640 --> 00:09:59,180
+eso también fue un trabajo preparatorio para la réplica.
+
+217
+00:09:59,180 --> 00:10:01,340
+¡Pero tendría que investigarlo de nuevo!
+
+218
+00:10:01,340 --> 00:10:04,080
+Eso podría haber sido un trabajo preliminar.
+
+219
+00:10:04,080 --> 00:10:06,100
+¡Ahora está en el Deutsches Museum!
+
+220
+00:10:06,100 --> 00:10:09,500
+Y luego dices: Bien, en realidad han construido algo allí.
+
+221
+00:10:09,500 --> 00:10:11,540
+El marco se puso de pie. ¡Sí!
+
+222
+00:10:11,540 --> 00:10:13,860
+Curiosamente, el motor ya está encendido desde el principio...
+
+223
+00:10:13,860 --> 00:10:15,220
+(Michael se ríe) ¡Exacto!
+
+224
+00:10:15,220 --> 00:10:17,640
+Nunca entendí por qué la máquina tiene un motor.
+
+225
+00:10:17,640 --> 00:10:19,140
+Era fácil de girar a mano,
+
+226
+00:10:19,140 --> 00:10:22,280
+y si había un defecto en tu mano, simplemente sentías:
+
+227
+00:10:22,280 --> 00:10:23,060
+¡Uy, algo anda mal aquí!
+
+228
+00:10:23,060 --> 00:10:25,220
+Tirado hacia atrás antes de que la hoja de metal estuviera completamente doblada... ¡
+
+229
+00:10:25,500 --> 00:10:27,660
+Y el motor nunca lo habría sentido, se habría resbalado!
+
+230
+00:10:27,960 --> 00:10:29,800
+Se dijo que había un embrague deslizante, pero... ¡
+
+231
+00:10:29,800 --> 00:10:31,580
+No es tan sensible como un ser humano!
+
+232
+00:10:31,580 --> 00:10:32,900
+Bueno, pensé en el motor...
+
+233
+00:10:32,900 --> 00:10:34,080
+Nunca lo pusimos en funcionamiento tampoco.
+
+234
+00:10:34,080 --> 00:10:36,900
+No cuando estuvimos allí: ¡el motor ni siquiera estaba funcionando!
+
+235
+00:10:36,900 --> 00:10:38,880
+Pero justo al principio... ¡
+
+236
+00:10:38,880 --> 00:10:42,840
+Estaba pegado, por ambos lados! Gordo motor trifásico de ingeniería mecánica... ¡
+
+237
+00:10:42,840 --> 00:10:46,200
+Toda una locura! (Michael se ríe)
+
+238
+00:10:46,480 --> 00:10:48,620
+Sí y...
+
+239
+00:10:50,320 --> 00:10:50,800
+Exacto...
+
+240
+00:10:50,800 --> 00:10:58,600
+Entonces la... tesis se llamaba “GMD Paper 321”... ¡
+
+241
+00:10:59,040 --> 00:10:59,720
+Sí!
+
+242
+00:10:59,720 --> 00:11:06,020
+Principios de funcionamiento y construcción de la máquina calculadora mecánica controlada por programa “Z1”
+
+243
+00:11:06,020 --> 00:11:09,260
+Sí, porque el término computadora no se conocía en ese momento...
+
+244
+00:11:09,260 --> 00:11:11,360
+1936, cuando Zuse construyó la máquina.
+
+245
+00:11:11,360 --> 00:11:15,100
+Para él era una calculadora automática, ¡pero lo especial era que se podía
+
+246
+00:11:15,240 --> 00:11:17,820
+programar libremente! Eso significa...
+
+247
+00:11:17,820 --> 00:11:21,340
+que podría combinar las operaciones aritméticas en su propio orden.
+
+248
+00:11:21,920 --> 00:11:23,460
+¡Y en el sistema binario!
+
+249
+00:11:23,460 --> 00:11:27,120
+Pero el término computadora surgió más tarde. Por eso era uno para él: ¡
+
+250
+00:11:27,120 --> 00:11:31,140
+Máquina calculadora de libre programación! Eso está detrás.
+
+251
+00:11:31,980 --> 00:11:33,380
+Y...
+
+252
+00:11:33,380 --> 00:11:37,080
+tal vez entraría en la tecnología un poco más tarde...
+
+253
+00:11:37,200 --> 00:11:40,260
+Pero ahora tal vez primero volvamos al proceso, cómo se desarrolló.
+
+254
+00:11:40,260 --> 00:11:42,560
+Luego construiste esta máquina... ¡
+
+255
+00:11:42,560 --> 00:11:48,960
+Fue tedioso y en junio de 1989 estaba terminado!
+
+256
+00:11:49,140 --> 00:11:50,480
+¡Sí!
+
+257
+00:11:50,480 --> 00:11:51,360
+Y... ¿
+
+258
+00:11:51,600 --> 00:11:53,440
+Cuánto tiempo te tomó entonces en total?
+
+259
+00:11:53,440 --> 00:11:55,740
+¡Catorce meses! Catorce meses, entonces sí...
+
+260
+00:11:55,740 --> 00:11:58,220
+Sí, fue la tesis de grado, duró seis meses.
+
+261
+00:11:58,220 --> 00:11:59,920
+Superamos eso con...
+
+262
+00:11:59,920 --> 00:12:02,640
+No diría colgar y ahogar, pero logramos pasar en el último minuto
+
+263
+00:12:02,640 --> 00:12:04,100
+que mantuvimos hasta los seis meses.
+
+264
+00:12:04,100 --> 00:12:05,760
+Esa también era una fecha límite en la universidad en ese entonces.
+
+265
+00:12:05,760 --> 00:12:07,020
+Oh, ¿era un límite estricto?
+
+266
+00:12:07,020 --> 00:12:09,560
+Sí, teníamos tres meses para la tesis de diploma estándar real.
+
+267
+00:12:09,560 --> 00:12:12,160
+Luego obtuvimos una extensión de tres meses, que quedó clara bastante rápido.
+
+268
+00:12:12,720 --> 00:12:14,600
+Y estuvo cerca de cumplir con eso.
+
+269
+00:12:14,600 --> 00:12:17,900
+Realmente hemos estado trabajando día y noche durante las últimas semanas.
+
+270
+00:12:17,900 --> 00:12:20,640
+La hermana de Uschi luego leyó y corrigió.
+
+271
+00:12:20,640 --> 00:12:22,420
+También tuve algunos que corrigieron.
+
+272
+00:12:22,420 --> 00:12:23,940
+Y luego los entregamos...
+
+273
+00:12:23,940 --> 00:12:26,100
+Y ese fue el tema, se cumplieron los seis meses.
+
+274
+00:12:26,360 --> 00:12:31,140
+Y una pregunta rápida: quiero decir, aquí tenemos este documento GMD ahora... ¡
+
+275
+00:12:31,140 --> 00:12:33,100
+No, ese es el original! Oh, ¿es este el original aquí?
+
+276
+00:12:33,100 --> 00:12:34,840
+La tesis de diploma original...
+
+277
+00:12:34,840 --> 00:12:37,320
+Este es el papel GMD, ¡solo que más delgado!
+
+278
+00:12:37,520 --> 00:12:39,000
+Oh... ¡Pero este es el original!
+
+279
+00:12:39,000 --> 00:12:40,920
+Ah es el original? ¡Sí!
+
+280
+00:12:40,920 --> 00:12:43,100
+Y ya está, que es más grueso, el original...
+
+281
+00:12:43,100 --> 00:12:45,240
+Eso es porque los dibujos están doblados ahí.
+
+282
+00:12:45,240 --> 00:12:48,620
+Se pegan las fotos originales en blanco y negro, que por supuesto también se espesa... Se
+
+283
+00:12:50,180 --> 00:12:51,860
+toman ochenta gramos de papel y...
+
+284
+00:12:51,860 --> 00:12:55,680
+Este es un papel un poco más delgado y todo está impreso, ¡así que también es más delgado!
+
+285
+00:12:55,680 --> 00:12:59,780
+¿Se copia entonces la tesis de diploma uno a uno en el documento GMD,
+
+286
+00:12:59,780 --> 00:13:01,940
+o se volvió a trabajar?
+
+287
+00:13:01,940 --> 00:13:04,880
+Estos dibujos plegados que tenemos aquí... los saco...
+
+288
+00:13:05,420 --> 00:13:07,660
+Es DIN-A3, lo doblamos según DIN... ¡
+
+289
+00:13:07,660 --> 00:13:10,120
+Ahí no se muestran!
+
+290
+00:13:10,120 --> 00:13:13,520
+Por lo demás en términos de contenido: no creo que nadie haya corregido nada.
+
+291
+00:13:13,940 --> 00:13:16,980
+Prácticamente nadie puede corregirlo técnicamente, porque fue único.
+
+292
+00:13:16,980 --> 00:13:19,520
+Ese fue también el problema de nuestro profesor en el coloquio.
+
+293
+00:13:19,700 --> 00:13:21,560
+¿Qué está tratando de preguntarnos?
+
+294
+00:13:21,560 --> 00:13:24,080
+Puede hacernos preguntas, pero no puede...
+
+295
+00:13:24,080 --> 00:13:26,560
+Verifique nuestra respuesta para ver si es plausible.
+
+296
+00:13:26,560 --> 00:13:28,860
+¿Es cierto lo que nos dicen la señora Schweier y él, el señor Saupe?
+
+297
+00:13:29,280 --> 00:13:30,740
+¡Porque la cosa no estaba documentada!
+
+298
+00:13:30,740 --> 00:13:32,840
+También admitió que fue difícil para él.
+
+299
+00:13:32,840 --> 00:13:34,520
+¡Herr Zuse debería haber estado allí!
+
+300
+00:13:34,520 --> 00:13:37,160
+¡Por así decirlo, exactamente! Y él no habría hecho eso.
+
+301
+00:13:37,160 --> 00:13:38,720
+¡Qué absurdo! De acuerdo con el lema: ¡
+
+302
+00:13:38,720 --> 00:13:41,380
+Quiero construir la máquina y no escribir ningún trabajo aquí!
+
+303
+00:13:41,380 --> 00:13:43,560
+Ese es tu problema de la universidad.
+
+304
+00:13:43,560 --> 00:13:46,400
+Bueno, el coloquio fue divertido si mal no recuerdo, eso fue...
+
+305
+00:13:47,400 --> 00:13:49,860
+Les dijimos más de lo que podían preguntar.
+
+306
+00:13:51,000 --> 00:13:52,800
+¿Puedo preguntar qué calificación obtuvo?
+
+307
+00:13:52,800 --> 00:13:55,260
+Sí, puedes, era una A, ¡una suave! ¡Huevo! ¡Sí!
+
+308
+00:13:56,480 --> 00:13:59,400
+Y si escriben el artículo juntos, obtienen...
+
+309
+00:13:59,400 --> 00:14:01,380
+¿Ambos obtienen la misma calificación? ¡Sí, sí, definitivamente!
+
+310
+00:14:01,380 --> 00:14:04,520
+¡Así que aguanta, déjate atrapar! Así que si nos salió mal, o
+
+311
+00:14:04,520 --> 00:14:07,240
+cometimos errores graves y
+
+312
+00:14:07,240 --> 00:14:09,620
+sacamos un cuatro o un cinco, eso hubiera sido para los dos, ¡claro!
+
+313
+00:14:09,620 --> 00:14:12,440
+Pues eso es lo que tenéis que hacer... Estáis ahí como equipo...
+
+314
+00:14:12,440 --> 00:14:15,820
+O os lleváis los laureles o perdéis, ¡las dos cosas son posibles!
+
+315
+00:14:16,760 --> 00:14:20,340
+Pero quedamos relativamente satisfechos al final del trabajo
+
+316
+00:14:20,340 --> 00:14:22,400
+en cuanto a la documentación del sistema de almacenamiento:
+
+317
+00:14:22,400 --> 00:14:25,440
+también sabíamos que lo habíamos documentado correctamente.
+
+318
+00:14:26,340 --> 00:14:29,180
+Y teníamos dos correctores... Y entonces supimos: ¡
+
+319
+00:14:29,180 --> 00:14:30,720
+Vale, eso no está mal!
+
+320
+00:14:30,720 --> 00:14:33,040
+Pero también éramos conscientes de que está incompleto...
+
+321
+00:14:33,040 --> 00:14:35,780
+La mitad de la máquina está documentada, y esa es la parte más liviana.
+
+322
+00:14:36,360 --> 00:14:39,240
+Y eso ya quedó claro, después de eso todos nos hablaron: ¡
+
+323
+00:14:39,240 --> 00:14:41,720
+Hagan esta calculadora! Sí.
+
+324
+00:14:41,720 --> 00:14:43,480
+Y nos gusta: Sí, ¿cómo entonces y cuándo?
+
+325
+00:14:43,480 --> 00:14:45,840
+Volvemos a la máquina trabajando todo el día!
+
+326
+00:14:46,160 --> 00:14:47,500
+Y ambos teníamos...
+
+327
+00:14:48,200 --> 00:14:49,680
+Sí, tan hartos es la palabra equivocada...
+
+328
+00:14:49,680 --> 00:14:52,800
+Pero después de todo el trabajo, después de completar
+
+329
+00:14:52,800 --> 00:14:55,280
+la máquina, ¡sabíamos que queríamos entrar en la industria por nosotros!
+
+330
+00:14:55,280 --> 00:14:57,240
+¡Y los dos queríamos trabajar!
+
+331
+00:14:57,240 --> 00:15:01,280
+En trabajo normal! ¡Y eso no fue un problema para ninguno de nosotros!
+
+332
+00:15:02,060 --> 00:15:04,500
+Pero también está claro que si lo hubiésemos hecho allí...
+
+333
+00:15:05,540 --> 00:15:07,860
+Habríamos logrado documentar la unidad aritmética.
+
+334
+00:15:07,860 --> 00:15:09,960
+Si, por ejemplo,
+
+335
+00:15:10,700 --> 00:15:13,940
+hubiera sido posible un doctorado de la universidad de ciencias aplicadas y el GMD lo hubiera pagado... ¡
+
+336
+00:15:14,360 --> 00:15:15,680
+Creo que hubiera sido diferente!
+
+337
+00:15:15,680 --> 00:15:18,140
+¡Pero en ese momento se dijo que una universidad de ciencias aplicadas no puede hacer un doctorado!
+
+338
+00:15:18,660 --> 00:15:21,300
+Deberías haber hecho una Maestría en Ciencias en Inglaterra.
+
+339
+00:15:21,300 --> 00:15:23,660
+Y entonces dijimos enseguida: ¡No, vamos gente, que así sea!
+
+340
+00:15:24,120 --> 00:15:25,680
+¡Sí, de lo contrario probablemente lo habríamos hecho!
+
+341
+00:15:25,680 --> 00:15:26,720
+Al menos podía imaginar.
+
+342
+00:15:26,720 --> 00:15:30,680
+No sé cómo lo pensaría o lo habría pensado Uschi, pero...
+
+343
+00:15:31,620 --> 00:15:33,720
+Si hubiésemos ido también, ¿por qué no? Eso hubiera sido... ¡
+
+344
+00:15:33,720 --> 00:15:34,860
+Eso hubiera sido bueno!
+
+345
+00:15:35,460 --> 00:15:37,680
+Y también he visto la máquina varias veces:
+
+346
+00:15:37,680 --> 00:15:41,180
+parece súper complicada, así que... ¡también es complicada!
+
+347
+00:15:41,180 --> 00:15:43,500
+¡No lo parece, es complicado!
+
+348
+00:15:43,500 --> 00:15:46,100
+Y cuántas láminas de metal están en funcionamiento al mismo tiempo...
+
+349
+00:15:46,440 --> 00:15:49,280
+Y hay que seguir los ciclos, estos cuatro ciclos de la máquina...
+
+350
+00:15:50,100 --> 00:15:51,340
+Increíble, bueno....
+
+351
+00:15:51,340 --> 00:15:54,460
+Bueno, pensé en el medio: Boa, será ¡Nunca funcione, no funcionará!
+
+352
+00:15:54,460 --> 00:15:55,820
+¡En serio lo pensé!
+
+353
+00:15:55,820 --> 00:15:58,340
+No estaba seguro y Zuse también cometió algunos errores.
+
+354
+00:15:58,340 --> 00:16:00,840
+¡Uschi también los reconoció en algún momento!
+
+355
+00:16:00,840 --> 00:16:01,920
+Y luego pensé: ¡
+
+356
+00:16:01,920 --> 00:16:03,780
+Dios, si esto sigue así, nunca funcionará!
+
+357
+00:16:03,780 --> 00:16:06,240
+Y en algún momento ya no tenemos suficiente tiempo.
+
+358
+00:16:06,240 --> 00:16:08,880
+Entonces me preocupaba que alguna vez saldría del proyecto en algún momento.
+
+359
+00:16:09,720 --> 00:16:13,200
+También era una cuestión moral a la que apegarse hasta el final.
+
+360
+00:16:13,920 --> 00:16:15,360
+Y luego... ¡
+
+361
+00:16:15,360 --> 00:16:17,240
+Finalmente le cogimos el truco a los tres!
+
+362
+00:16:17,240 --> 00:16:18,740
+Y luego se puso mejor y mejor.
+
+363
+00:16:18,740 --> 00:16:21,540
+Los errores fueron cada vez menos y luego se ejecutó el primer cálculo de prueba...
+
+364
+00:16:21,540 --> 00:16:23,700
+Y he aquí: ¡finalmente funcionó!
+
+365
+00:16:23,700 --> 00:16:25,760
+¡Locura! Yo también dije que sí. ¡Locura!
+
+366
+00:16:25,760 --> 00:16:27,420
+¿O simplemente te quedaste allí con la boca abierta?
+
+367
+00:16:27,420 --> 00:16:28,000
+¡Sí!
+
+368
+00:16:28,160 --> 00:16:30,740
+Así que el día que funcionó por primera vez y el cálculo de prueba.
+
+369
+00:16:30,740 --> 00:16:32,820
+Y habíamos calculado nuestros resultados con calculadoras de bolsillo...
+
+370
+00:16:33,920 --> 00:16:36,680
+de antemano. Y giramos y arrancamos...
+
+371
+00:16:36,680 --> 00:16:38,400
+Y todo estaba bien desde el punto de vista del ruido.
+
+372
+00:16:38,400 --> 00:16:41,400
+Y algo al ralentí, mostrando resultados... Me acerco al marcador: ¡
+
+373
+00:16:41,400 --> 00:16:43,060
+era el número que esperábamos también!
+
+374
+00:16:43,060 --> 00:16:46,300
+¡Locura! Es como un milagro, ¿no?
+
+375
+00:16:46,300 --> 00:16:49,320
+Hoy uno diría: ¡Dame cinco! Algo así, ¿verdad?
+
+376
+00:16:49,320 --> 00:16:51,740
+¿No tienes algo con el Zuse... No, no lo tenemos!
+
+377
+00:16:51,740 --> 00:16:54,560
+Zuse tampoco era del tipo para eso, estaba emocionalmente con las manos en la espalda:
+
+378
+00:16:54,860 --> 00:16:56,060
+"Bueno, ¡entonces eso es bueno!"
+
+379
+00:16:56,060 --> 00:16:57,800
+Luego se fue de nuevo, con las manos en la espalda así.
+
+380
+00:16:57,800 --> 00:17:00,420
+Comentarios tan sobrios. ¡Él no era un tipo emocional!
+
+381
+00:17:00,420 --> 00:17:02,420
+¿No es un tipo emocional? ¡No no! el...
+
+382
+00:17:02,420 --> 00:17:04,940
+Estoy seguro de que habrá sido terriblemente feliz por dentro.
+
+383
+00:17:04,940 --> 00:17:10,060
+¡A él también se le ha quitado una carga! Porque él... trabajaba en la máquina todos los días...
+
+384
+00:17:10,060 --> 00:17:12,560
+Así que la teoría también: Bajó a su sala de estar...
+
+385
+00:17:12,560 --> 00:17:14,960
+No tomó un descanso y tomó café y leyó el periódico,
+
+386
+00:17:14,960 --> 00:17:16,740
+solo habló sobre los planes. colgado.
+
+387
+00:17:16,740 --> 00:17:20,680
+¡Y lo hizo el sábado y el domingo! Así que ese fue un trabajo integral para él.
+
+388
+00:17:21,060 --> 00:17:25,340
+Y hay que decir que también tuvo un infarto leve durante ese tiempo.
+
+389
+00:17:25,340 --> 00:17:27,320
+Bueno, se fue por unas semanas... ¡
+
+390
+00:17:27,320 --> 00:17:29,320
+Y ese hubiera sido el final de nuestro trabajo
+
+391
+00:17:29,320 --> 00:17:31,520
+si hubiera muerto ahora, para decirlo sin rodeos!
+
+392
+00:17:31,800 --> 00:17:34,580
+¿Qué debería haber documentado? ¡Ese habría sido el final del terreno!
+
+393
+00:17:34,580 --> 00:17:36,160
+¡No hubiera sido posible sin él!
+
+394
+00:17:36,920 --> 00:17:41,060
+Está claro que tiene el mérito de haberlo conseguido todo a esa edad... ¡
+
+395
+00:17:41,060 --> 00:17:43,340
+una locura! ¡Todavía lo admiro por eso hoy!
+
+396
+00:17:43,340 --> 00:17:45,180
+Pero tal vez tampoco habría funcionado sin ti...
+
+397
+00:17:45,180 --> 00:17:46,580
+Sí, algunas personas dijeron eso.
+
+398
+00:17:46,580 --> 00:17:50,080
+Le pusimos un poco más de "velocidad", documentado.
+
+399
+00:17:50,840 --> 00:17:54,000
+Porque el trabajador calificado o las otras personas involucradas
+
+400
+00:17:54,300 --> 00:17:56,960
+que todavía estaban trabajando en segundo plano habrían hecho eso... Nadie lo documentó.
+
+401
+00:17:56,960 --> 00:17:59,540
+Esa ya fue la tesis de diploma, ¡tengo que decirlo claramente!
+
+402
+00:18:00,020 --> 00:18:02,200
+Tal vez debieron agregarse dos más al mismo tiempo...
+
+403
+00:18:02,200 --> 00:18:05,000
+Estudiantes de doctorado que luego se habrían ocupado de la unidad aritmética.
+
+404
+00:18:05,000 --> 00:18:09,420
+También lo hemos calculado varias veces... informamos varias veces al Patronato
+
+405
+00:18:10,060 --> 00:18:13,140
+que la documentación de la calculadora actualmente es en vano.
+
+406
+00:18:13,700 --> 00:18:16,660
+No hay nadie allí y... Toda la máquina
+
+407
+00:18:17,800 --> 00:18:20,900
+vive en última instancia de nosotros tres desde la cabeza y la bandeja.
+
+408
+00:18:21,100 --> 00:18:24,680
+Además de esos planos que existen, pero no hay documentación adecuada.
+
+409
+00:18:24,680 --> 00:18:28,160
+Ponemos eso sin parar, también frente al museo.
+
+410
+00:18:28,520 --> 00:18:30,400
+Luego más tarde nos dieron un empleado.
+
+411
+00:18:30,400 --> 00:18:33,260
+Vino a nosotros en Hünfeld desde el museo...
+
+412
+00:18:33,920 --> 00:18:38,220
+Y también trabajó con nosotros. Ya era mayor colega.
+
+413
+00:18:38,600 --> 00:18:41,400
+Y no pudo compensar la ventaja que teníamos.
+
+414
+00:18:41,780 --> 00:18:45,260
+Eso significa que no adquirió este profundo conocimiento a tiempo.
+
+415
+00:18:45,860 --> 00:18:49,940
+Y es por eso que la máquina está ahí en el museo tal como está hoy.
+
+416
+00:18:50,640 --> 00:18:52,920
+¿Cómo funcionaba exactamente la calculadora?
+
+417
+00:18:52,920 --> 00:18:56,460
+Tampoco lo sabíamos en detalle, ese era el conocimiento de Zuse en su cabeza...
+
+418
+00:18:56,820 --> 00:18:58,780
+Mmh... ¡Y eso falta!
+
+419
+00:18:58,780 --> 00:19:02,380
+También es increíble para mí tener algo así en la cabeza...
+
+420
+00:19:02,380 --> 00:19:04,800
+Y luego también la traducción a la mecánica... ¡
+
+421
+00:19:04,800 --> 00:19:07,080
+Sí, y mantener siempre los cuatro compases!
+
+422
+00:19:07,080 --> 00:19:09,300
+Él tiene que hacer todo el... Tenemos un modelo aquí:
+
+423
+00:19:09,300 --> 00:19:11,480
+los impulsos correctos en el momento correcto.
+
+424
+00:19:11,480 --> 00:19:15,140
+Si eso no funciona y hace el impulso equivocado, el metal se agrietará.
+
+425
+00:19:15,160 --> 00:19:16,580
+¡Lo hemos visto con bastante frecuencia!
+
+426
+00:19:16,580 --> 00:19:18,080
+¡Él también tenía que tener eso en cuenta!
+
+427
+00:19:18,080 --> 00:19:19,940
+Eso significa no sólo trasladar la lógica,
+
+428
+00:19:19,940 --> 00:19:22,220
+sino también aplicar las mecánicas
+
+429
+00:19:22,220 --> 00:19:24,900
+para que lleguen con el impulso adecuado y en el momento adecuado.
+
+430
+00:19:25,080 --> 00:19:25,920
+¡Incomprensible!
+
+431
+00:19:25,920 --> 00:19:28,940
+Siempre notas un poco de juego aquí. ¡Exactamente!
+
+432
+00:19:29,340 --> 00:19:30,120
+Y...
+
+433
+00:19:30,120 --> 00:19:34,820
+Y eso fue un pequeño problema al final, porque... ¡
+
+434
+00:19:35,100 --> 00:19:36,300
+Los juegos suman!
+
+435
+00:19:36,300 --> 00:19:39,140
+Y cuando tienes una operación aritmética, dependiendo de lo compleja que sea,
+
+436
+00:19:39,140 --> 00:19:43,680
+tenías que pasar el impulso a través de una cantidad increíble de láminas de metal y alfileres.
+
+437
+00:19:43,680 --> 00:19:47,060
+Y si pierde algunas centésimas, digamos incluso décimas, en cada pulso.
+
+438
+00:19:47,060 --> 00:19:48,980
+No recuerdo exactamente cuántos eran.
+
+439
+00:19:48,980 --> 00:19:51,620
+Luego, al final solo llegaron dos milímetros en lugar de tres milímetros.
+
+440
+00:19:51,620 --> 00:19:54,600
+Y allí estaba el bolígrafo a mitad de camino. ¡Y esa fue la explosión!
+
+441
+00:19:55,060 --> 00:19:56,860
+Y si tenía suerte y terminaba una operación
+
+442
+00:19:56,860 --> 00:19:59,880
+o un cálculo que no requería tantos pulsos,
+
+443
+00:20:00,260 --> 00:20:02,720
+entonces la máquina funcionaba maravillosamente.
+
+444
+00:20:02,720 --> 00:20:05,120
+Esa fue también la razón por la que a veces iba súper bien
+
+445
+00:20:05,120 --> 00:20:08,280
+y otras veces estaba entrecortado. ¡Y este es el juego!
+
+446
+00:20:08,280 --> 00:20:11,220
+Se habría tenido que incorporar una especie de “booster”,
+
+447
+00:20:11,420 --> 00:20:14,520
+estandarizando cada movimiento, por así decirlo, llevándolo a un valor fijo.
+
+448
+00:20:15,200 --> 00:20:16,580
+Esa habría sido la mejora
+
+449
+00:20:16,580 --> 00:20:19,100
+si la máquina hubiera sido optimizada nuevamente.
+
+450
+00:20:19,100 --> 00:20:20,120
+Todavía no he entendido eso...
+
+451
+00:20:20,120 --> 00:20:23,120
+Así que tienes un impulso, ocho milímetros como ejemplo.
+
+452
+00:20:23,120 --> 00:20:25,180
+Entonces un impulso que empuja el metal ocho milímetros.
+
+453
+00:20:25,180 --> 00:20:28,380
+Exactamente, del movimiento circular a un movimiento de traslación.
+
+454
+00:20:29,000 --> 00:20:30,660
+Ya no sé la cantidad de milímetros...
+
+455
+00:20:30,660 --> 00:20:32,880
+Pero digamos que eran ocho milímetros.
+
+456
+00:20:32,880 --> 00:20:35,320
+Y debido al juego de pines individuales,
+
+457
+00:20:35,340 --> 00:20:37,880
+al final solo llegan 6,8 milímetros en lugar de ocho.
+
+458
+00:20:38,600 --> 00:20:39,980
+Luego pasa bien,
+
+459
+00:20:39,980 --> 00:20:43,220
+porque la pluma ya está a más de la mitad, sobre la siguiente hoja de impulso.
+
+460
+00:20:43,980 --> 00:20:46,260
+Y eso podría haberse evitado
+
+461
+00:20:47,060 --> 00:20:49,500
+normalizando siempre cada... cada movimiento a estos ocho milímetros.
+
+462
+00:20:49,500 --> 00:20:51,800
+¡Con una pluma, por así decirlo! Ay...
+
+463
+00:20:51,800 --> 00:20:53,840
+Que siempre los lleves hasta el final.
+
+464
+00:20:53,840 --> 00:20:56,220
+Que lo dejaste romper con un resorte, por así decirlo. ¡Exactamente!
+
+465
+00:20:56,220 --> 00:20:58,320
+Lo sé hoy por la tecnología de la bicicleta, lo hacen mucho.
+
+466
+00:20:59,060 --> 00:21:01,040
+Nuestro mecanismo de trinquete:
+
+467
+00:21:01,040 --> 00:21:03,580
+También hay un trinquete y para que vuelva a estar en contacto,
+
+468
+00:21:03,580 --> 00:21:06,620
+está equipado con un resorte y siempre tira de él hasta el tope.
+
+469
+00:21:06,620 --> 00:21:08,400
+Y eso podría haberse hecho aquí también. DE ACUERDO.
+
+470
+00:21:08,400 --> 00:21:11,240
+Lleve cada hoja de metal hasta el tope final con un resorte, por así decirlo,
+
+471
+00:21:11,240 --> 00:21:14,520
+para que los 8 milímetros reales estén en contacto, encienda brevemente...
+
+472
+00:21:14,920 --> 00:21:18,200
+Y luego lleve cada impulso a este tope final una y otra vez.
+
+473
+00:21:19,040 --> 00:21:22,680
+Lo llamaré un "refuerzo" o... subir a un valor estándar.
+
+474
+00:21:22,880 --> 00:21:25,020
+¡Entonces creo que habría sido mucho más estable!
+
+475
+00:21:25,020 --> 00:21:27,220
+¡Y el alto nivel de precisión que teníamos en ese entonces, todo estaba
+
+476
+00:21:27,220 --> 00:21:30,620
+erosionado con alambre a centésimas y eran súper precisos! Así que las máquinas de medir...
+
+477
+00:21:30,620 --> 00:21:32,420
+Si tuvieras ocho con un calibrador...
+
+478
+00:21:32,420 --> 00:21:35,960
+Eran exactamente ocho, era increíble la precisión con la que se erosionaban.
+
+479
+00:21:35,960 --> 00:21:40,020
+Y los pasadores eran pasadores de un cojinete de rodillos, por lo que eran pasadores de acero endurecido.
+
+480
+00:21:40,020 --> 00:21:43,680
+Tan erosionado, lo explicaste en tu presentación.
+
+481
+00:21:43,680 --> 00:21:46,460
+Tienes una especie de máquina de electroerosión por hilo allí... ¿O cómo se llamaba?
+
+482
+00:21:46,460 --> 00:21:46,960
+¡Sí!
+
+483
+00:21:46,960 --> 00:21:50,000
+Sí, se llama máquina de electroerosión por hilo. Básicamente, un cable de cobre
+
+484
+00:21:50,000 --> 00:21:52,320
+que corre largo y transporta electricidad.
+
+485
+00:21:52,320 --> 00:21:54,440
+Tiene un chorro de agua a su alrededor.
+
+486
+00:21:54,440 --> 00:21:56,760
+Y, como un proceso de soldadura, quema
+
+487
+00:21:57,300 --> 00:22:01,820
+las láminas de metal a procesar y luego continúa mientras tanto.
+
+488
+00:22:01,820 --> 00:22:05,500
+Entonces, este cable corre hacia abajo y el movimiento XY hace una máquina CNC.
+
+489
+00:22:05,500 --> 00:22:07,040
+Y así se cortaron las formas.
+
+490
+00:22:07,040 --> 00:22:08,820
+¿Se calienta el aparato?
+
+491
+00:22:08,820 --> 00:22:10,860
+No se calienta, pero el calor proviene del flujo de corriente.
+
+492
+00:22:10,860 --> 00:22:11,920
+¿Sí por el flujo de corriente? ¡Sí!
+
+493
+00:22:11,920 --> 00:22:13,560
+Ahí es cuando se calienta, el cable... ¡Se calienta, eso es!
+
+494
+00:22:13,560 --> 00:22:16,380
+Y para que no se rompa, se actualiza constantemente... ¡
+
+495
+00:22:16,380 --> 00:22:19,160
+Así es! Exacto, el alambre desgastado también estaba muy áspero...
+
+496
+00:22:19,160 --> 00:22:21,120
+No era tan grueso como al principio.
+
+497
+00:22:21,540 --> 00:22:23,780
+Y ese fue el desgaste de la máquina, por así decirlo.
+
+498
+00:22:23,780 --> 00:22:26,240
+Eso siempre fue un cable desgastado que se enrollaba.
+
+499
+00:22:26,660 --> 00:22:30,980
+Luego se llevaba a reciclar y el hilo original era, por así decirlo, el...
+
+500
+00:22:31,400 --> 00:22:34,560
+Como un hilo de soldar que pasa y se lleva material.
+
+501
+00:22:34,560 --> 00:22:36,120
+¿Has mirado eso, probablemente, verdad?
+
+502
+00:22:36,120 --> 00:22:38,820
+Sí, también se nos permitió escribir programas NC individuales.
+
+503
+00:22:38,820 --> 00:22:41,400
+Eso también fue parte de la tesis de diploma, ¡nos interesaba también!
+
+504
+00:22:41,700 --> 00:22:43,340
+¡Y el gerente de la planta fue súper amable! Luego también dijo: ¿
+
+505
+00:22:43,340 --> 00:22:45,540
+Quieres programarlo tú mismo, unas láminas de metal?
+
+506
+00:22:45,540 --> 00:22:46,200
+Y luego nos gusta: ¡Sí, por supuesto!
+
+507
+00:22:46,200 --> 00:22:48,000
+Y luego nos mostraron cómo hacerlo.
+
+508
+00:22:48,000 --> 00:22:49,700
+Nosotros mismos programamos algunas hojas.
+
+509
+00:22:50,100 --> 00:22:52,420
+Era un control de máquina con "código G"...
+
+510
+00:22:52,420 --> 00:22:55,640
+Recuerdo exactamente cómo funcionaban todos estos códigos individuales.
+
+511
+00:22:56,060 --> 00:22:56,840
+Y... ¡
+
+512
+00:22:57,600 --> 00:22:59,820
+La precisión fue sobresaliente! Y esa fue probablemente también
+
+513
+00:22:59,820 --> 00:23:02,260
+la razón por la que Zuse dijo que no necesitamos un refuerzo
+
+514
+00:23:02,260 --> 00:23:04,620
+ni ninguna parada, ¡pero la precisión es suficiente!
+
+515
+00:23:04,620 --> 00:23:06,380
+Debería ser suficiente, pero no fue suficiente...
+
+516
+00:23:06,680 --> 00:23:09,460
+Exactamente, porque simplemente hubo demasiados durante la ejecución...
+
+517
+00:23:09,460 --> 00:23:11,140
+Tal vez el pasador de acero endurecido también
+
+518
+00:23:11,140 --> 00:23:13,680
+obstruyó esta lámina de acero inoxidable, por lo que ya había muescas.
+
+519
+00:23:14,240 --> 00:23:16,920
+También puede ser que la chapa se haya desgastado.
+
+520
+00:23:16,920 --> 00:23:20,300
+Por supuesto, también era un par desigual de socios...
+
+521
+00:23:20,300 --> 00:23:23,780
+Acero endurecido versus... versus acero inoxidable, donde es blando.
+
+522
+00:23:23,780 --> 00:23:25,840
+¿Qué era el acero inoxidable y qué era el acero templado?
+
+523
+00:23:25,840 --> 00:23:29,480
+La chapa es de acero inoxidable. Muy normal, podrías editar con un archivo.
+
+524
+00:23:29,480 --> 00:23:30,580
+¡No oxidarse es la ventaja!
+
+525
+00:23:30,580 --> 00:23:32,140
+Y el pasador de acero que está ahí en el frente...
+
+526
+00:23:32,140 --> 00:23:33,620
+Tal vez puedas verlo en la cámara...
+
+527
+00:23:33,620 --> 00:23:35,900
+Es un pasador de acero endurecido de un cojinete de rodillos.
+
+528
+00:23:36,480 --> 00:23:38,960
+Y por supuesto está claro que el compañero siempre gana.
+
+529
+00:23:39,180 --> 00:23:41,240
+¿Porque es más difícil? Sí, claro, porque es más difícil... ¿
+
+530
+00:23:41,240 --> 00:23:44,120
+Y eso también fue un error? Si hubiera tal vez entonces...
+
+531
+00:23:44,120 --> 00:23:46,300
+No es un error en este sentido: en primer lugar, era barato,
+
+532
+00:23:46,300 --> 00:23:48,140
+hay grandes cantidades de esta pluma.
+
+533
+00:23:48,140 --> 00:23:49,580
+Siempre tiene las mismas dimensiones... ¡
+
+534
+00:23:50,180 --> 00:23:51,740
+Y yo también lo habría hecho!
+
+535
+00:23:51,740 --> 00:23:53,760
+Y aceptas el hecho de que es más difícil:
+
+536
+00:23:53,760 --> 00:23:56,800
+tienes que golpear miles antes de que el metal se detenga allí.
+
+537
+00:23:56,800 --> 00:24:00,080
+No sé cuántas veces el museo hizo funcionar la máquina.
+
+538
+00:24:00,080 --> 00:24:02,580
+Solo puedo adivinar, ¡no tengo idea!
+
+539
+00:24:02,580 --> 00:24:04,200
+Sí, eso... Me gustaría...
+
+540
+00:24:04,200 --> 00:24:06,720
+De hecho, quería pensar en esto más tarde, pero podemos hacerlo de inmediato.
+
+541
+00:24:06,720 --> 00:24:09,280
+Bueno, se convirtió en la máquina... Exactamente, se convirtió en...
+
+542
+00:24:09,280 --> 00:24:14,180
+Lo terminaste y luego fue transportado al...
+
+543
+00:24:14,720 --> 00:24:18,080
+"Museo de Transporte y Tecnología" a saber...
+
+544
+00:24:18,080 --> 00:24:19,620
+Estemos atentos por un momento:
+
+545
+00:24:19,920 --> 00:24:23,500
+Allí de alguna manera Lo obtuve del estudio con una
+
+546
+00:24:23,940 --> 00:24:28,500
+acción bastante... atrevida y luego con una... grúa de alguna manera...
+
+547
+00:24:28,500 --> 00:24:29,620
+Solo lo he visto en la película.
+
+548
+00:24:29,620 --> 00:24:32,060
+Y los dos ya estábamos sin trabajo... ¡Oh!
+
+549
+00:24:32,500 --> 00:24:35,600
+Creo que paramos en febrero, en febrero de 1989.
+
+550
+00:24:36,320 --> 00:24:39,060
+Ambos comenzamos nuestros trabajos por tercera vez.
+
+551
+00:24:39,360 --> 00:24:43,560
+Yo en el Daimler de Stuttgart. Y...
+
+552
+00:24:43,560 --> 00:24:46,700
+En ese momento estábamos fuera y la máquina estaba lista.
+
+553
+00:24:46,880 --> 00:24:49,760
+Y eso luego fue retirado en el transcurso del verano y luego
+
+554
+00:24:49,760 --> 00:24:53,640
+presentado al público en el museo en septiembre y entregado en una ceremonia.
+
+555
+00:24:54,080 --> 00:24:57,340
+Riesenhuber también estaba allí, junto con todos los científicos conocidos.
+
+556
+00:24:57,800 --> 00:25:00,980
+Y el transporte fue así: se sacó el panel del estudio.
+
+557
+00:25:00,980 --> 00:25:04,980
+No era giratorio, estaban fijos en un marco.
+
+558
+00:25:05,160 --> 00:25:08,020
+Fueron sacados usando una grúa sobre la casa...
+
+559
+00:25:08,280 --> 00:25:10,520
+Luego empujaron la máquina sobre un palé como ese.
+
+560
+00:25:10,520 --> 00:25:11,660
+Eso fue del otro lado... ¡Sí!
+
+561
+00:25:11,660 --> 00:25:13,700
+¿Eso no estaba en el lado de la calle? ¡Exactamente!
+
+562
+00:25:13,700 --> 00:25:16,140
+Pero el estudio estaba en la parte de atrás, frente al jardín,
+
+563
+00:25:16,140 --> 00:25:19,280
+jardín grande, afuera en la parte de atrás, tenía un prado con algunos árboles frutales.
+
+564
+00:25:19,280 --> 00:25:22,020
+Y luego la máquina fue izada y luego
+
+565
+00:25:22,360 --> 00:25:25,380
+colocada sobre el techo, en la calle, por así decirlo, en el transportador.
+
+566
+00:25:25,640 --> 00:25:27,840
+Solo lo vi en la película que hizo Mathias Knauer.
+
+567
+00:25:27,840 --> 00:25:30,800
+Este equipo de cine documental que filmó todo en ese entonces...
+
+568
+00:25:31,200 --> 00:25:33,020
+Y lo tuve claro: ¡Ay, así lo hicieron!
+
+569
+00:25:33,020 --> 00:25:34,040
+Porque siempre me he preguntado: ¿
+
+570
+00:25:34,040 --> 00:25:35,940
+Cómo van a sacar la máquina de aquí?
+
+571
+00:25:35,940 --> 00:25:37,860
+Porque la escalera era demasiado pequeña...
+
+572
+00:25:37,860 --> 00:25:40,020
+Ni siquiera sé cómo metieron la máquina allí.
+
+573
+00:25:40,220 --> 00:25:43,680
+Supongo que fue soldado en 1986/87.
+
+574
+00:25:44,240 --> 00:25:47,460
+También es una buena pregunta, no sé cómo se introdujo.
+
+575
+00:25:48,540 --> 00:25:49,920
+¡Simplemente se quedó allí! Probablemente...
+
+576
+00:25:49,920 --> 00:25:54,200
+¡Probablemente lo montaron allí! Sí, supongo que también, ¡sí, sí!
+
+577
+00:25:54,200 --> 00:25:58,460
+Exactamente, y luego fue entregado al Museo de Tecnología.
+
+578
+00:25:58,460 --> 00:26:02,080
+Y luego hubo una actuación, una especie de oficial...
+
+579
+00:26:02,080 --> 00:26:04,160
+Una celebración también, supongo... ¡Sí! ¿tú también estabas allí?
+
+580
+00:26:04,160 --> 00:26:06,560
+Sí, nos invitaron. ¡Fue una gran celebración!
+
+581
+00:26:06,560 --> 00:26:08,520
+En primer lugar, estuvimos en el museo unos días antes.
+
+582
+00:26:08,520 --> 00:26:13,100
+Vivíamos allí en su habitación de invitados porque desempacamos la máquina...
+
+583
+00:26:13,100 --> 00:26:16,200
+cuando fue transportada allí, por así decirlo,
+
+584
+00:26:16,380 --> 00:26:18,620
+configuramos todo, ¿funciona todo?
+
+585
+00:26:18,620 --> 00:26:22,500
+Y luego vino el equipo de filmación: Mathias Knauer y Emil Zopfi.
+
+586
+00:26:22,500 --> 00:26:24,480
+Y luego disparó el acto final.
+
+587
+00:26:24,480 --> 00:26:26,820
+Y también se rodaron algunas secuencias de películas en el museo...
+
+588
+00:26:27,200 --> 00:26:28,500
+Y nosotros también estuvimos allí.
+
+589
+00:26:28,500 --> 00:26:30,960
+Eso significa que eso también era parte de nuestro trabajo:
+
+590
+00:26:30,960 --> 00:26:35,200
+entregarlo al museo, hacer los cálculos de prueba, terminar la película...
+
+591
+00:26:35,420 --> 00:26:38,240
+Y luego vino la parte oficial con la ceremonia de entrega...
+
+592
+00:26:38,960 --> 00:26:41,280
+¿Hay una secuencia en la película también? donde entonces...
+
+593
+00:26:41,280 --> 00:26:44,640
+Creo que Riesenhuber estuvo allí y dio un discurso,
+
+594
+00:26:44,640 --> 00:26:47,940
+el mismo Zuse habló. Fue una entrega ceremonial.
+
+595
+00:26:47,940 --> 00:26:49,660
+Fue una gran ceremonia, tengo que decir.
+
+596
+00:26:50,060 --> 00:26:52,820
+Ministro de Educación Riesenhuber... ¿O cómo se llamaba?
+
+597
+00:26:52,820 --> 00:26:54,340
+Ministro de Investigación... ¡Ministro de Investigación!
+
+598
+00:26:54,340 --> 00:26:58,460
+¡Sí, con la pajarita! ¡Ah, sí, cierto! ¡El de entonces! ¡Sí!
+
+599
+00:26:58,460 --> 00:27:00,980
+Ah sí y... una vez escuché...
+
+600
+00:27:00,980 --> 00:27:05,600
+creo que el profesor Rojas lo escribió en alguna parte:
+
+601
+00:27:05,600 --> 00:27:09,980
+que el cálculo no funcionó durante la demostración.
+
+602
+00:27:10,620 --> 00:27:14,180
+Bueno, al menos yo no estaba allí. no se eso
+
+603
+00:27:14,180 --> 00:27:15,360
+Puede haber estado en el museo.
+
+604
+00:27:15,360 --> 00:27:17,760
+Pero usted estaba en el... en el... en este... en este...
+
+605
+00:27:17,760 --> 00:27:19,640
+La máquina también estaba funcionando durante la parte oficial...
+
+606
+00:27:19,640 --> 00:27:23,880
+¿Entonces la máquina estaba funcionando durante este acto oficial con el ministro?
+
+607
+00:27:23,940 --> 00:27:24,460
+Bueno...
+
+608
+00:27:24,500 --> 00:27:26,700
+Donde vino el ministro y dio el discurso,
+
+609
+00:27:26,700 --> 00:27:30,060
+no hicimos funcionar la máquina, sino días antes, ¡en el mismo museo!
+
+610
+00:27:30,060 --> 00:27:33,520
+Donde estaba el profesor... eh... el... el... el... director.
+
+611
+00:27:33,520 --> 00:27:35,620
+Para el equipo de filmación, lo hicimos...
+
+612
+00:27:35,860 --> 00:27:38,120
+Luego la máquina se cubrió con plexiglás nuevamente.
+
+613
+00:27:38,400 --> 00:27:41,560
+Y en la ceremonia misma, la máquina no se quedó funcionando.
+
+614
+00:27:41,560 --> 00:27:46,620
+Solo hubo charla, Zuses entregando al... al museo...
+
+615
+00:27:46,620 --> 00:27:48,200
+¿Y que dijo para cerrar?
+
+616
+00:27:48,200 --> 00:27:50,920
+¡Aprende a inventar una computadora donde no existe!
+
+617
+00:27:50,920 --> 00:27:54,540
+O algo así. Y ese fue el final de la ceremonia.
+
+618
+00:27:54,540 --> 00:27:56,780
+Y no hicimos ningún cálculo nosotros mismos.
+
+619
+00:27:56,780 --> 00:27:59,520
+Pero una cosa está clara, también durante el tiempo en Hünfeld...
+
+620
+00:28:00,180 --> 00:28:02,820
+Se atascó durante algunos cálculos de prueba.
+
+621
+00:28:02,820 --> 00:28:05,480
+No siempre pasaba. Ese también era nuestro...
+
+622
+00:28:06,020 --> 00:28:08,480
+miedo y preocupación de que cuando
+
+623
+00:28:08,900 --> 00:28:10,520
+venga el equipo de filmación, cuando se entregue al museo, vuelva a tener un problema
+
+624
+00:28:10,520 --> 00:28:12,260
+y luego tengamos que pasar horas dándole vueltas de nuevo.
+
+625
+00:28:12,740 --> 00:28:15,700
+Por eso no estaría en desacuerdo con esto... ¡Señor Rojas!
+
+626
+00:28:15,700 --> 00:28:19,020
+Puede ser que haya estado presente en un cálculo de prueba donde se adjunta.
+
+627
+00:28:19,640 --> 00:28:21,540
+¡Ese fue el destino del Z1!
+
+628
+00:28:21,540 --> 00:28:25,280
+En términos de precisión mecánica, no siempre funcionó sin problemas.
+
+629
+00:28:25,700 --> 00:28:26,520
+¡Una cosa está clara!
+
+630
+00:28:26,520 --> 00:28:30,000
+Si se ejecutó y dio un resultado, ¡el resultado nunca fue incorrecto!
+
+631
+00:28:30,540 --> 00:28:32,340
+Por lo tanto, no puede suponer que la...
+
+632
+00:28:32,340 --> 00:28:35,120
+Resta integrada de forma permanente en la unidad de cola, o...
+
+633
+00:28:35,120 --> 00:28:38,720
+Esta suma o resta, división... La combinación...
+
+634
+00:28:38,720 --> 00:28:40,640
+Que no dieron el resultado correcto... ¡
+
+635
+00:28:40,640 --> 00:28:42,780
+No teníamos esa experiencia! ¡Eso siempre fue cierto!
+
+636
+00:28:44,040 --> 00:28:46,100
+Sí, pero creo que es un gran resultado.
+
+637
+00:28:46,100 --> 00:28:49,920
+¡Que puedas manejar este complicado trabajo de tal manera
+
+638
+00:28:49,920 --> 00:28:52,220
+que básicamente funcione! ¡Exactamente!
+
+639
+00:28:52,220 --> 00:28:54,980
+Y ese fue también el propósito del consejo de administración: ¿
+
+640
+00:28:54,980 --> 00:28:58,040
+podemos demostrar ahora con medios modernos en 1988
+
+641
+00:28:58,040 --> 00:29:01,740
+que Zuse tenía razón con su idea en 1936? Esa era la idea básica.
+
+642
+00:29:01,740 --> 00:29:04,900
+Y definitivamente puedes decir que sí, ¡tenía razón con su teoría!
+
+643
+00:29:04,900 --> 00:29:08,500
+¡La máquina básicamente funcionó! fue así
+
+644
+00:29:08,500 --> 00:29:10,460
+¡Pero la mecánica está en el camino equivocado!
+
+645
+00:29:10,460 --> 00:29:13,140
+Me gustaría describir el caso en el que experimentamos un defecto
+
+646
+00:29:13,140 --> 00:29:16,380
+en la máquina durante la fase de construcción o más tarde en la fase de prueba:
+
+647
+00:29:18,440 --> 00:29:19,680
+Uschi o yo, rotamos...
+
+648
+00:29:19,680 --> 00:29:21,460
+Uno de nosotros giraba, el otro servía...
+
+649
+00:29:21,800 --> 00:29:23,320
+Y luego estaba un ruido extraño...
+
+650
+00:29:23,320 --> 00:29:24,560
+Y la persona en la manivela inmediatamente se dio cuenta:
+
+651
+00:29:24,560 --> 00:29:26,180
+¡ups, algo anda mal!
+
+652
+00:29:26,180 --> 00:29:28,320
+Luego comenzó, solución de problemas ... ¿Dónde está atascado?
+
+653
+00:29:28,320 --> 00:29:31,280
+Eso significa ir y venir en la hoja de metal, en el movimiento...
+
+654
+00:29:31,280 --> 00:29:32,940
+Y luego miré los niveles...
+
+655
+00:29:32,940 --> 00:29:35,420
+Observé dónde la hoja de metal se dobla en alguna parte...
+
+656
+00:29:36,380 --> 00:29:38,600
+Puedes ver que en la hoja de metal, comienzan para conseguir un salto tan alto.
+
+657
+00:29:38,600 --> 00:29:40,680
+Puedes ver eso aquí en el... En el modelo bastante bien:
+
+658
+00:29:40,680 --> 00:29:43,820
+Si hay tal fuerza aquí, ¡entonces todo sube!
+
+659
+00:29:44,160 --> 00:29:45,260
+¡Aaah!
+
+660
+00:29:45,260 --> 00:29:47,960
+Y luego primero tuvimos que averiguar en qué...
+
+661
+00:29:48,180 --> 00:29:50,580
+módulo está realmente el problema. Lo escuchaste por el ruido.
+
+662
+00:29:50,580 --> 00:29:53,040
+Entonces sabías, ya sea Speicherwerk, que ocurría con menos frecuencia... ¡
+
+663
+00:29:53,540 --> 00:29:55,240
+Había más errores en la unidad aritmética!
+
+664
+00:29:55,240 --> 00:29:56,640
+Bueno, entonces encontramos el bloque.
+
+665
+00:29:56,640 --> 00:29:58,540
+Ahora tiene que venir de aquí, tú también podrías sentirlo...
+
+666
+00:29:58,540 --> 00:30:00,300
+Entonces mira, ¿dónde? Ah, sí, aquí abajo, puedo verlo... ¡
+
+667
+00:30:00,300 --> 00:30:02,000
+La pluma se tambalea aquí! ¡Nivel tres!
+
+668
+00:30:02,360 --> 00:30:03,000
+¡DE ACUERDO!
+
+669
+00:30:03,720 --> 00:30:06,420
+Todo se paró: Sabíamos en qué ritmo iba todo...
+
+670
+00:30:06,900 --> 00:30:09,700
+Desatornillamos los tornillos, sacamos la bandeja...
+
+671
+00:30:09,700 --> 00:30:13,020
+Bajamos la bandeja, bajamos la primera bandeja, segunda, tercera bandeja...
+
+672
+00:30:13,740 --> 00:30:16,700
+No quiero exagerar : tomó horas hasta que estuviste allí... ¡
+
+673
+00:30:16,700 --> 00:30:19,480
+Así que hubo tres cuatro horas de descarte que no fue un problema en absoluto!
+
+674
+00:30:19,480 --> 00:30:22,680
+Porque hay que sacar cada parte, cada pasador, cada espaciador.
+
+675
+00:30:22,940 --> 00:30:24,580
+Y luego estás en el nivel y luego ves: ¡
+
+676
+00:30:24,580 --> 00:30:26,240
+Bien, el metal está atascado! ¿Por qué?
+
+677
+00:30:26,240 --> 00:30:28,340
+Y luego lo giramos ligeramente de nuevo:
+
+678
+00:30:28,340 --> 00:30:29,960
+O fue un error de pulso...
+
+679
+00:30:29,960 --> 00:30:32,360
+Cometimos errores en nuestro pensamiento o Zuse lo tenía... ¡
+
+680
+00:30:32,360 --> 00:30:35,240
+Construimos láminas de metal basándonos en los dibujos equivocados, por así decirlo!
+
+681
+00:30:35,840 --> 00:30:38,940
+O era otra vez un problema mecánico, porque los impulsos otra vez...
+
+682
+00:30:38,940 --> 00:30:42,620
+Bueno, el tema de agregar los impulsos... Había varias razones para esto.
+
+683
+00:30:42,620 --> 00:30:45,960
+Luego miré la chapa, examinada por un instalador: ¿
+
+684
+00:30:45,960 --> 00:30:48,200
+La deformación todavía está en el rango elástico?
+
+685
+00:30:48,200 --> 00:30:51,500
+¿O ya está plásticamente deformado, con una torcedura?
+
+686
+00:30:51,500 --> 00:30:54,060
+Luego, por supuesto, ¡consiga la chapa de nuevo!
+
+687
+00:30:54,060 --> 00:30:56,700
+Luego llamamos a Siemens: vino el colega Ernst...
+
+688
+00:30:56,700 --> 00:30:58,980
+Nos dieron la placa, quién sabía en qué programa estaba:
+
+689
+00:30:59,180 --> 00:31:03,480
+Deben haber tenido hordas de programas, en aquel entonces en Siemens en Bad Hersfeld.
+
+690
+00:31:03,900 --> 00:31:06,660
+El alambre erosionó la lámina de metal y la volvió a instalar.
+
+691
+00:31:07,640 --> 00:31:09,760
+Y como decía, hubo varios errores:
+
+692
+00:31:09,760 --> 00:31:12,480
+Un error lógico: que el impulso llegó en mal momento...
+
+693
+00:31:12,480 --> 00:31:13,440
+Luego lo corregimos:
+
+694
+00:31:13,800 --> 00:31:14,500
+¡Puntual!
+
+695
+00:31:15,040 --> 00:31:16,260
+En el modelo CAD!
+
+696
+00:31:16,580 --> 00:31:17,520
+¡En realidad!
+
+697
+00:31:17,720 --> 00:31:18,480
+¡Incorporado!
+
+698
+00:31:18,640 --> 00:31:19,420
+Continuar...
+
+699
+00:31:19,820 --> 00:31:22,700
+O el llamado error de cambio:
+
+700
+00:31:22,700 --> 00:31:25,140
+simplemente porque el impulso no fue lo suficientemente lejos, eso también sucedió.
+
+701
+00:31:25,140 --> 00:31:26,160
+¡Eran más difíciles, los casos,
+
+702
+00:31:26,160 --> 00:31:29,960
+porque sabías que podía volver! Entonces la idea era
+
+703
+00:31:29,960 --> 00:31:32,580
+evitar este tipo de operaciones aritméticas, o este tipo de...
+
+704
+00:31:32,580 --> 00:31:35,760
+Como dije, teníamos programas que eran más vulnerables que otros programas.
+
+705
+00:31:35,760 --> 00:31:38,360
+¡Este es simplemente el tema de la adición del juego!
+
+706
+00:31:39,140 --> 00:31:42,800
+Exacto, y ya que estamos en el tema...
+
+707
+00:31:43,680 --> 00:31:47,560
+Lo que me seguiría interesando sería el flujo de trabajo, básicamente:
+
+708
+00:31:47,560 --> 00:31:50,900
+Konrad Zuse tenía la lógica en la cabeza. ¡Sí!
+
+709
+00:31:50,900 --> 00:31:53,040
+Y lo envolvió en alguna sintaxis
+
+710
+00:31:53,040 --> 00:31:54,720
+que probablemente inventó él mismo, ¿no es así...?
+
+711
+00:31:54,720 --> 00:31:56,540
+¡Sí, debe hacerlo! No había nada en ese momento... ¿
+
+712
+00:31:56,540 --> 00:31:58,180
+Algún circuito lógico? ¡Exactamente!
+
+713
+00:31:58,180 --> 00:31:59,460
+Y... ¿
+
+714
+00:31:59,460 --> 00:32:01,400
+Entonces te los quitaron?
+
+715
+00:32:01,400 --> 00:32:03,820
+¿O de Uschi en ese caso, probablemente sobre todo entonces...?
+
+716
+00:32:03,820 --> 00:32:04,680
+¡Sí Sí!
+
+717
+00:32:04,680 --> 00:32:07,620
+Y se tradujeron en estos recortes de chapa... ¡
+
+718
+00:32:07,620 --> 00:32:09,540
+Exactamente! ¡Sí, puedes decirlo así!
+
+719
+00:32:09,540 --> 00:32:12,200
+¿Y Uschi de alguna manera aprendió a traducir eso?
+
+720
+00:32:12,840 --> 00:32:14,980
+Exacto, bueno, los dos estábamos pendientes de los planes...
+
+721
+00:32:14,980 --> 00:32:18,120
+Traté de entender, ¿qué quiere decir con eso? este simbolismo.
+
+722
+00:32:18,120 --> 00:32:19,740
+También describimos esto en nuestra tesis de diploma: ¿
+
+723
+00:32:19,740 --> 00:32:22,840
+Qué símbolo corresponde a qué placa de interruptor? ¡Ah bien!
+
+724
+00:32:22,840 --> 00:32:25,260
+También documentamos eso, ¡realmente está documentado!
+
+725
+00:32:25,920 --> 00:32:29,320
+Y derivado de eso... La dificultad siempre fue esta:
+
+726
+00:32:29,320 --> 00:32:32,880
+si vieras un diagrama de circuito así: ¿las barras son correctas?
+
+727
+00:32:32,880 --> 00:32:34,620
+¿Puede estar aquí en este momento...
+
+728
+00:32:34,620 --> 00:32:35,980
+Por ejemplo, ahora, ahora no es posible!
+
+729
+00:32:35,980 --> 00:32:38,100
+Solo cuando el metal está aquí funciona el proceso de cambio.
+
+730
+00:32:38,100 --> 00:32:40,260
+¡Y tienes que ver eso en los diagramas de circuito!
+
+731
+00:32:40,260 --> 00:32:43,540
+Porque siempre había números romanos: compás II, compás III, compás IV...
+
+732
+00:32:44,060 --> 00:32:47,180
+Y eso era complicado de reconocer en los diagramas de circuito:
+
+733
+00:32:47,180 --> 00:32:48,880
+¡ups, eso no puede funcionar en absoluto!
+
+734
+00:32:48,880 --> 00:32:50,240
+¡La chapa todavía está en el lateral!
+
+735
+00:32:50,900 --> 00:32:53,960
+Y eso... ¡Uschi lo hizo bien!
+
+736
+00:32:54,480 --> 00:32:57,560
+Y luego vino... Si tuviéramos eso, la lógica... ¡
+
+737
+00:32:57,560 --> 00:33:01,280
+Y también corregía errores! A Zuse se le ocurrió el nuevo plan... ¡
+
+738
+00:33:01,280 --> 00:33:04,560
+Luego derivamos la hoja de metal CAD de esto y lo diseñamos!
+
+739
+00:33:04,560 --> 00:33:06,580
+Así que ese sería el paso tres... ¡el paso tres!
+
+740
+00:33:06,580 --> 00:33:08,800
+Entonces, eso es lo que hiciste en papel primero, ¿verdad?
+
+741
+00:33:08,800 --> 00:33:10,220
+¡Sí, me quedaré en la computadora!
+
+742
+00:33:10,220 --> 00:33:12,640
+Luego me senté en la computadora con el programa CAD:
+
+743
+00:33:12,640 --> 00:33:15,220
+AutoCAD Versión 9 u 8. Ya no me acuerdo... ¡
+
+744
+00:33:15,220 --> 00:33:16,240
+Versión antigua!
+
+745
+00:33:16,740 --> 00:33:19,820
+Y luego le di estos dibujos a mi colega Ernst...
+
+746
+00:33:19,820 --> 00:33:22,480
+Y luego lo convirtieron en un programa de electroerosión por hilo.
+
+747
+00:33:22,480 --> 00:33:24,320
+Y luego las sábanas volvieron unos días después.
+
+748
+00:33:24,840 --> 00:33:25,920
+¡Ese era el flujo de trabajo!
+
+749
+00:33:25,920 --> 00:33:27,420
+De acuerdo, circuito lógico...
+
+750
+00:33:27,420 --> 00:33:29,080
+Circuito lógico Zuse...
+
+751
+00:33:29,080 --> 00:33:31,080
+Instancia correcta de Uschi...
+
+752
+00:33:31,520 --> 00:33:35,400
+Convert, ya estaba en el proceso de hacer dibujos a partir de él...
+
+753
+00:33:35,400 --> 00:33:38,320
+Dibujos creados en CAD, generalmente lo hacíamos por las tardes... O
+
+754
+00:33:38,520 --> 00:33:41,200
+el fin de semana. Y luego trazó este dibujo.
+
+755
+00:33:41,200 --> 00:33:43,640
+Teníamos un buen plotter de GMD con nosotros...
+
+756
+00:33:43,640 --> 00:33:46,160
+Y luego se lo dimos a nuestro colega y él...
+
+757
+00:33:46,740 --> 00:33:48,380
+hizo los programas de electroerosión por hilo con él.
+
+758
+00:33:48,380 --> 00:33:51,100
+Después fue así, ni siquiera tuvimos que apuntar las medidas...
+
+759
+00:33:51,100 --> 00:33:53,580
+Aquí está esta L... Este escote en L... ¡Estaba estandarizado!
+
+760
+00:33:53,580 --> 00:33:55,240
+También conocían la chapa:
+
+761
+00:33:55,240 --> 00:33:59,880
+había un ancho fijo, había esta forma, siempre era la misma.
+
+762
+00:34:00,140 --> 00:34:02,360
+Eso significa que fue relativamente fácil para nosotros y también para ellos.
+
+763
+00:34:02,840 --> 00:34:04,620
+Ya tenían estos programas individuales...
+
+764
+00:34:04,620 --> 00:34:05,700
+Y los acaba de duplicar: ¿
+
+765
+00:34:05,700 --> 00:34:07,040
+Cuántos agujeros necesitas? ¡Ocho piezas!
+
+766
+00:34:07,040 --> 00:34:08,880
+¿Él duplicó esas ocho veces?
+
+767
+00:34:09,880 --> 00:34:12,000
+¡Entonces la rutina entró en juego para todos nosotros!
+
+768
+00:34:12,000 --> 00:34:15,300
+Pero siempre fue lo mismo: Zuse, planos, dibujados a mano...
+
+769
+00:34:15,860 --> 00:34:19,640
+Implementado: programa CAD, programa NC...
+
+770
+00:34:19,640 --> 00:34:21,340
+¡Y luego vino la entrega de la chapa! Fue después...
+
+771
+00:34:21,340 --> 00:34:23,700
+Bueno, en el mejor de los casos, se fue en dos o tres días:
+
+772
+00:34:23,700 --> 00:34:28,100
+El compañero Ernst vino por la tarde con una caja y nos trajo una chapa nueva...
+
+773
+00:34:28,100 --> 00:34:32,200
+Lo dibujamos el lunes, lo trajimos el miércoles o jueves.
+
+774
+00:34:32,400 --> 00:34:33,760
+Y luego instalamos los viernes... ¡
+
+775
+00:34:34,440 --> 00:34:35,660
+Y ahí estábamos un paso más allá!
+
+776
+00:34:35,660 --> 00:34:36,800
+¿Hubo también tiempo de inactividad
+
+777
+00:34:36,800 --> 00:34:39,480
+en el que tuvo que esperar a que finalmente llegara la nueva chapa?
+
+778
+00:34:39,720 --> 00:34:42,440
+Ahh poco, así que eran súper, súper rápidos.
+
+779
+00:34:42,440 --> 00:34:44,960
+Digo que sí, ¡Siemens fue extremadamente generoso!
+
+780
+00:34:45,660 --> 00:34:46,620
+Bueno, eso...
+
+781
+00:34:46,620 --> 00:34:47,640
+no lo recuerdo...
+
+782
+00:34:47,640 --> 00:34:49,380
+Siempre estaban listos para nosotros y...
+
+783
+00:34:49,380 --> 00:34:51,640
+Incluso si se necesitaban materiales especiales...
+
+784
+00:34:51,640 --> 00:34:54,280
+Aluminio anodizado o resortes de algún tipo...
+
+785
+00:34:54,280 --> 00:34:55,720
+Justo en la parte superior de la tarjeta Lector...
+
+786
+00:34:56,120 --> 00:34:58,160
+Lo tienen todo hecho, ¡eso fue increíble!
+
+787
+00:34:58,160 --> 00:35:00,180
+Así que podías pedir lo que quisieras.
+
+788
+00:35:00,180 --> 00:35:03,540
+No, eso... ¡Realmente no teníamos tiempos muertos allí!
+
+789
+00:35:03,540 --> 00:35:05,400
+Los tiempos de inactividad se parecían más al hecho
+
+790
+00:35:05,400 --> 00:35:07,880
+de que volvíamos a descubrir un error y teníamos que borrarlo de nuevo.
+
+791
+00:35:07,880 --> 00:35:09,540
+¡Eran tiempos perdidos!
+
+792
+00:35:09,540 --> 00:35:12,300
+Así que construya un nivel hacia abajo, mire los errores, arréglelos...
+
+793
+00:35:13,040 --> 00:35:15,960
+haga que le hagan la chapa y reconstruya. Eso fue una semana en el medio!
+
+794
+00:35:16,920 --> 00:35:19,520
+De hecho, quería sacar el tema más adelante, pero...
+
+795
+00:35:19,520 --> 00:35:24,000
+Hoy en día puedes hacer mucho más en la computadora que antes...
+
+796
+00:35:24,000 --> 00:35:24,500
+Eso significa...
+
+797
+00:35:24,620 --> 00:35:27,680
+Eres un experto en CAD, sabes que lo mejor de todo, supongo. en.
+
+798
+00:35:28,100 --> 00:35:30,960
+Entonces, ¿cómo lo harías hoy?
+
+799
+00:35:31,600 --> 00:35:33,080
+Sí, hoy las chapas serían...
+
+800
+00:35:33,080 --> 00:35:35,940
+Cada chapa sería una parte aparte, una parte...
+
+801
+00:35:35,940 --> 00:35:38,360
+Estoy empezando con el programa CATIA.
+
+802
+00:35:38,360 --> 00:35:41,600
+¡Y luego haría tal ensamblaje usando una estructura de producto!
+
+803
+00:35:41,600 --> 00:35:44,000
+Y luego también podrías dejar que se ejecute la cinemática real.
+
+804
+00:35:44,600 --> 00:35:46,260
+Eso significa que, en teoría, podríamos... ¡
+
+805
+00:35:46,260 --> 00:35:49,700
+Lo que estoy haciendo aquí en chapa podría simularse!
+
+806
+00:35:49,700 --> 00:35:52,260
+Si pudieras hacer eso, básicamente podrías:
+
+807
+00:35:52,260 --> 00:35:57,220
+implementar tu teoría en CAD, verificar si funciona con cinemática...
+
+808
+00:35:57,220 --> 00:35:59,300
+Eso sería muy complejo, porque...
+
+809
+00:35:59,300 --> 00:36:02,000
+Como dije, se usaron cientos de láminas de metal al tornear.
+
+810
+00:36:02,000 --> 00:36:03,860
+Así que sería una computadora realmente buena
+
+811
+00:36:03,860 --> 00:36:06,000
+que podría hacerlo con un programa CAD como ese.
+
+812
+00:36:06,000 --> 00:36:08,920
+Pero si pudieras hacerlo, tendrías la certeza: ¡
+
+813
+00:36:08,920 --> 00:36:12,220
+Así es como funciona! ¡Y la computadora no conoce el juego!
+
+814
+00:36:12,220 --> 00:36:13,700
+Si dice ocho milímetros de cinemática,
+
+815
+00:36:13,700 --> 00:36:17,180
+te dará 8. 0 0 0, ¡a la milésima!
+
+816
+00:36:18,000 --> 00:36:19,100
+¡Eso sería genial!
+
+817
+00:36:19,100 --> 00:36:21,680
+Entonces, años después, también pensé en dónde estaba en mi trabajo
+
+818
+00:36:21,680 --> 00:36:24,140
+y conocí el programa CAD y su cinemática:
+
+819
+00:36:25,020 --> 00:36:27,980
+donde pusimos en marcha un motor Wankel completo como ejercicio,
+
+820
+00:36:27,980 --> 00:36:29,840
+con su forma elíptica y sus engranajes.
+
+821
+00:36:29,840 --> 00:36:31,380
+¡Eso funcionó maravillosamente!
+
+822
+00:36:31,380 --> 00:36:34,800
+O un reloj normal, un reloj analógico con segundero, minutero...
+
+823
+00:36:35,180 --> 00:36:39,140
+Tuvimos que hacer un programa como ejercicio en los cursos de CAD.
+
+824
+00:36:39,140 --> 00:36:41,820
+Fue entonces cuando pensé: ¡Boa, deberías haber tenido eso en la época de Zuse!
+
+825
+00:36:41,820 --> 00:36:44,180
+Habría sido un trabajo increíble
+
+826
+00:36:44,180 --> 00:36:45,740
+establecer todo teóricamente.
+
+827
+00:36:45,840 --> 00:36:47,500
+¡Y luego también sería documentado!
+
+828
+00:36:47,500 --> 00:36:50,440
+Hablando de documentación,
+
+829
+00:36:50,760 --> 00:36:53,220
+la película puede ser breve:
+
+830
+00:36:53,220 --> 00:36:56,020
+Mathias Knauer, ya lo hemos mencionado un par de veces...
+
+831
+00:36:56,820 --> 00:36:58,560
+Un cineasta de Suiza.
+
+832
+00:36:59,160 --> 00:37:00,740
+Extrañamente...?
+
+833
+00:37:00,740 --> 00:37:02,820
+Por qué los suizos consiguieron el trabajo...
+
+834
+00:37:02,820 --> 00:37:04,260
+No sé quién los contrató.
+
+835
+00:37:04,260 --> 00:37:06,380
+No sé cómo se produjo el contacto.
+
+836
+00:37:06,660 --> 00:37:08,940
+La película empieza cuando vas en coche a Hünfeld...
+
+837
+00:37:09,500 --> 00:37:10,820
+Y también da la fecha:
+
+838
+00:37:10,820 --> 00:37:12,440
+Quiero decir, era 1987...
+
+839
+00:37:14,240 --> 00:37:16,960
+Habría que preguntarle a Mathias... ¡Todavía está en Zúrich!
+
+840
+00:37:16,960 --> 00:37:18,620
+Cómo llegó al proyecto.
+
+841
+00:37:19,140 --> 00:37:21,840
+Ha estado con nosotros desde el principio. Entonces otra vez el tema:
+
+842
+00:37:21,840 --> 00:37:25,020
+Ellos estaban en el inicio antes, entrevistaron a Zuse, donde empezó el trabajo...
+
+843
+00:37:25,440 --> 00:37:27,480
+Se dieron cuenta de que nos integrábamos como una tesis de diploma...
+
+844
+00:37:27,480 --> 00:37:30,540
+Luego nos visitaron, también entrevistaron... Películas, secuencias. .. Y
+
+845
+00:37:30,540 --> 00:37:31,220
+estaban...
+
+846
+00:37:31,220 --> 00:37:34,580
+Había veces que estábamos allí varias veces a la semana o varias veces al mes... ¡
+
+847
+00:37:35,400 --> 00:37:36,540
+Y hasta el final!
+
+848
+00:37:37,220 --> 00:37:39,120
+Incluso cuando todavía estaba trabajando,
+
+849
+00:37:39,120 --> 00:37:43,100
+doblaba las grabaciones de sonido en mi casa en Sindelfingen.
+
+850
+00:37:43,460 --> 00:37:45,200
+Así que estuvieron trabajando en la película durante mucho tiempo.
+
+851
+00:37:45,200 --> 00:37:48,120
+Creo que se necesitaron más de tres años para hacer la película.
+
+852
+00:37:49,260 --> 00:37:51,760
+Y es también... Entonces eso es lo que...
+
+853
+00:37:51,760 --> 00:37:56,400
+La curadora actual, Eva Kudrass, dijo una vez...
+
+854
+00:37:56,400 --> 00:37:59,960
+Desde su punto de vista, la única...
+
+855
+00:37:59,960 --> 00:38:02,480
+La única documentación cinematográfica que existe,
+
+856
+00:38:02,480 --> 00:38:05,240
+donde también se puede ver el Z1 en realidad ve correr!
+
+857
+00:38:05,240 --> 00:38:07,280
+¡Sí Sí! Yo también estoy feliz por eso,
+
+858
+00:38:07,280 --> 00:38:09,520
+porque los críticos que no lo crean lo pueden ver ahí.
+
+859
+00:38:09,520 --> 00:38:10,160
+Sí.
+
+860
+00:38:10,160 --> 00:38:11,000
+Y...
+
+861
+00:38:11,000 --> 00:38:13,580
+Por supuesto que deberíamos haber documentado mucho más el cálculo...
+
+862
+00:38:14,060 --> 00:38:16,280
+Ahora estamos haciendo el siguiente cálculo, los números tienen que estar incluidos... ¡
+
+863
+00:38:16,620 --> 00:38:18,080
+Entonces hubiera sido aún más prueba!
+
+864
+00:38:18,260 --> 00:38:20,000
+El equipo de filmación no tenía paciencia entonces... ¡
+
+865
+00:38:20,000 --> 00:38:22,840
+Porque el cálculo realmente tomó varios minutos!
+
+866
+00:38:23,180 --> 00:38:24,060
+Entonces...
+
+867
+00:38:24,060 --> 00:38:25,580
+Por las muchas visitas que teníamos...
+
+868
+00:38:25,580 --> 00:38:27,320
+Había revistas de informática también.
+
+869
+00:38:27,660 --> 00:38:29,440
+Mathias filmó mucho...
+
+870
+00:38:29,440 --> 00:38:31,920
+Lo tenía claro: ¡Basta, la prueba!
+
+871
+00:38:31,920 --> 00:38:33,540
+También teníamos a Siemens en el tablero...
+
+872
+00:38:33,540 --> 00:38:34,800
+Nos arrojaron números:
+
+873
+00:38:34,800 --> 00:38:36,180
+los programamos, los dejamos correr: ¡
+
+874
+00:38:36,320 --> 00:38:37,820
+el resultado es correcto!
+
+875
+00:38:37,820 --> 00:38:40,180
+Eso fue suficiente para mí y estaba completamente claro para mí que...
+
+876
+00:38:41,240 --> 00:38:42,020
+Todo...
+
+877
+00:38:42,740 --> 00:38:44,760
+Estaba claro para todos, estaba claro para mí también...
+
+878
+00:38:45,120 --> 00:38:48,340
+Pero tienes razón, no fue capturado de esa manera en la película. ...
+
+879
+00:38:48,340 --> 00:38:50,100
+Deberías haber filmado tu propia secuencia...
+
+880
+00:38:50,280 --> 00:38:53,100
+Completa la media hora donde la máquina está funcionando, donde estamos filmando...
+
+881
+00:38:53,100 --> 00:38:56,580
+Camina alrededor de la máquina... ¡Documenta todo por completo!
+
+882
+00:38:56,580 --> 00:39:00,840
+¿Quizás incluso dejaste correr la película y simplemente la cortaste?
+
+883
+00:39:00,840 --> 00:39:02,780
+¡No! Entonces, dónde estábamos...
+
+884
+00:39:02,780 --> 00:39:06,060
+En el museo, tomó las fotos completas de la factura completa.
+
+885
+00:39:06,540 --> 00:39:08,840
+Con la pista alrededor y la iluminación...
+
+886
+00:39:08,840 --> 00:39:10,860
+Está completo, porque entonces... ¡No, no, despacio!
+
+887
+00:39:10,860 --> 00:39:14,160
+Ya nos dijo que no podíamos mostrarlo todo...
+
+888
+00:39:14,160 --> 00:39:17,620
+Y ahí fue cuando rodamos, ¡la cámara estaba apagada! Brevemente sobre el resultado...
+
+889
+00:39:17,620 --> 00:39:19,720
+Y luego dijo: ¡Enciéndelo de nuevo ahora! Y luego vino el resultado...
+
+890
+00:39:19,720 --> 00:39:20,840
+Ah, apagaron las cámaras... ¡Vale!
+
+891
+00:39:20,840 --> 00:39:23,420
+¡Exactamente porque era demasiado largo para él! Tiene razón, por supuesto:
+
+892
+00:39:23,420 --> 00:39:26,220
+tenía un objetivo de cuánto tiempo podría durar una película así.
+
+893
+00:39:26,580 --> 00:39:29,360
+Y no puede mostrar un billete de media hora en el que la gente arranca.
+
+894
+00:39:29,360 --> 00:39:31,640
+¡Eso habría sido aburrido para la audiencia!
+
+895
+00:39:31,640 --> 00:39:34,700
+Querían saber algo sobre el Zuse, sobre la réplica...
+
+896
+00:39:34,700 --> 00:39:35,800
+Por un lado, entiendo.
+
+897
+00:39:36,100 --> 00:39:39,560
+Y en el medio, por supuesto, estuvo en nuestro estudio...
+
+898
+00:39:39,840 --> 00:39:43,020
+También vio los cálculos de prueba y vio que funcionaba.
+
+899
+00:39:43,320 --> 00:39:45,620
+Hay que decir que no siempre tenía la cámara encendida.
+
+900
+00:39:45,620 --> 00:39:47,960
+También tenía su cuaderno con él y lo anotó.
+
+901
+00:39:48,260 --> 00:39:50,900
+Simplemente rellenó el material según lo necesario para su película.
+
+902
+00:39:51,500 --> 00:39:54,280
+Pero incluso entonces, nadie dudó de que no funcionaría.
+
+903
+00:39:54,280 --> 00:39:57,220
+Debido a que los cálculos de prueba se estaban ejecutando, estaba claro para todos: ¡
+
+904
+00:39:57,220 --> 00:39:58,880
+Bien, la máquina básicamente funciona!
+
+905
+00:39:59,720 --> 00:40:04,000
+Y para mí sigue siendo casi un milagro, porque...
+
+906
+00:40:04,000 --> 00:40:06,380
+Según lo que leas...
+
+907
+00:40:06,380 --> 00:40:11,220
+Por ejemplo, en la página de Horst Zuse dice que debería haber 30.000 piezas individuales!
+
+908
+00:40:11,220 --> 00:40:14,880
+También leí el número. Nunca conté, conté.
+
+909
+00:40:14,880 --> 00:40:18,620
+Por alguna razón, nadie lo pidió. ¡Hubiera sido una locura también!
+
+910
+00:40:19,320 --> 00:40:20,080
+Pero...
+
+911
+00:40:20,300 --> 00:40:23,640
+Puede ser correcto, no tiene que ser correcto. ¿También la papelera? ¡Ni idea!
+
+912
+00:40:24,240 --> 00:40:26,940
+Había decenas de miles de hojas, ¡eso es definitivamente cierto!
+
+913
+00:40:26,940 --> 00:40:29,920
+Quizás lo extrapoló. Y bolígrafos... Y bolígrafos.
+
+914
+00:40:29,920 --> 00:40:32,120
+Quizás lo extrapoló, Horst. No sé si viene el número.
+
+915
+00:40:32,120 --> 00:40:34,360
+No puedo negarlo, pero tampoco puedo negarlo:
+
+916
+00:40:34,360 --> 00:40:35,660
+puede ser cierto, ¡pero no tiene por qué serlo!
+
+917
+00:40:36,260 --> 00:40:38,120
+Desde mi punto de vista tampoco es tan importante:
+
+918
+00:40:38,120 --> 00:40:40,840
+Que fueran 30.000, 32.000, 40.000...
+
+919
+00:40:40,900 --> 00:40:42,180
+(Dietmar se encoge de hombros)
+
+920
+00:40:42,180 --> 00:40:44,960
+Sí, los números a veces fascinan a la gente.
+
+921
+00:40:44,960 --> 00:40:47,820
+Sí... Como dije, nadie preguntó...
+
+922
+00:40:49,400 --> 00:40:51,840
+Pero también sería muy tedioso: Bueno, cuando pienso en ello...
+
+923
+00:40:51,840 --> 00:40:54,120
+Si tomas cada pieza, incluidos estos pines de transmisión...
+
+924
+00:40:54,120 --> 00:40:56,640
+Estos pequeños latón bloques, tornillos prisioneros en ellos.
+
+925
+00:40:57,120 --> 00:40:59,280
+Por el amor de Dios, esos son... Esos son números, eso... ¡
+
+926
+00:40:59,580 --> 00:41:03,760
+Solo puedes calcularlo, pero realmente no puedes contarlo!
+
+927
+00:41:03,760 --> 00:41:05,600
+Sería detención contar la cosa.
+
+928
+00:41:07,380 --> 00:41:09,920
+Bueno, entonces tengo unas cuantas dudas más sobre el funcionamiento:
+
+929
+00:41:09,920 --> 00:41:12,420
+Ya dijimos que eran dos bielas...
+
+930
+00:41:13,340 --> 00:41:15,740
+Y hay que sincronizarlas de alguna forma... ¡Por supuesto que sí!
+
+931
+00:41:15,740 --> 00:41:17,320
+Ellos también estaban conectados... ¡
+
+932
+00:41:17,320 --> 00:41:18,980
+Incluso estaban conectados!
+
+933
+00:41:18,980 --> 00:41:20,620
+Había dos bielas porque
+
+934
+00:41:20,620 --> 00:41:23,520
+construimos y probamos ambos movimientos por separado.
+
+935
+00:41:23,520 --> 00:41:27,660
+Eso significa que tenías una manivela para la memoria: dirección, pon números, ¡funciona!
+
+936
+00:41:28,020 --> 00:41:31,180
+Calculadora: Operación, el bolígrafo tiene que salir, ¡vale!
+
+937
+00:41:31,480 --> 00:41:33,060
+En algún momento se unirán...
+
+938
+00:41:33,480 --> 00:41:35,160
+Luego, las unidades también se acoplarán.
+
+939
+00:41:35,520 --> 00:41:37,760
+Estas eran pequeñas bridas atornilladas en el medio.
+
+940
+00:41:37,760 --> 00:41:40,100
+Y luego tienes, cuando giraste una manivela, la otra se fue con ella.
+
+941
+00:41:40,500 --> 00:41:42,120
+Para que la carga no pase por encima de la barra,
+
+942
+00:41:42,120 --> 00:41:44,860
+por supuesto dijimos que íbamos a arrancar los dos sincrónicamente.
+
+943
+00:41:44,860 --> 00:41:45,900
+¡Ese fue el motivo!
+
+944
+00:41:45,900 --> 00:41:48,400
+Es como andar en tándem hoy cuando montas en tándem.
+
+945
+00:41:48,400 --> 00:41:49,420
+¿No sabes si alguna vez has montado en tándem?
+
+946
+00:41:49,420 --> 00:41:51,320
+¿Están las cadenas firmemente conectadas?
+
+947
+00:41:51,320 --> 00:41:54,300
+Teóricamente, puedes viajar solo en un tándem, la manivela en la parte trasera también gira.
+
+948
+00:41:54,660 --> 00:41:56,640
+Pero claro, es más cómodo cuando ambos pedalean sincronizados.
+
+949
+00:41:56,640 --> 00:41:58,240
+¡Era lo mismo con esta máquina!
+
+950
+00:41:58,240 --> 00:41:59,880
+Dijiste que sí, entonces...
+
+951
+00:41:59,880 --> 00:42:02,600
+Si no tenías cuidado, en realidad se doblaban así.
+
+952
+00:42:02,600 --> 00:42:04,640
+Ahí es donde entran en juego las fuerzas. ¡Sí!
+
+953
+00:42:04,640 --> 00:42:07,140
+Así que tiene que haber un poco de apalancamiento en alguna parte...
+
+954
+00:42:07,140 --> 00:42:08,540
+o... o ¿cómo se hizo eso?
+
+955
+00:42:08,540 --> 00:42:11,120
+Tenías una manivela de, solo puedo estimar,
+
+956
+00:42:11,120 --> 00:42:13,920
+tenía 20 centímetros de longitud de manivela. Era...
+
+957
+00:42:13,920 --> 00:42:18,560
+A partir de un movimiento de rotación, se hacían movimientos de empuje hacia abajo a través de una excéntrica.
+
+958
+00:42:19,680 --> 00:42:21,480
+¡Y estos movimientos de empuje eran un camino definido!
+
+959
+00:42:21,480 --> 00:42:23,940
+Ya no me sé de memoria la cantidad de milímetros, cuántos milímetros eran.
+
+960
+00:42:24,140 --> 00:42:26,840
+Y fueron introducidos en la máquina a través de ángulos.
+
+961
+00:42:27,080 --> 00:42:30,140
+Y luego agregó sobre pasadores, hasta la última lámina de metal.
+
+962
+00:42:30,740 --> 00:42:34,040
+Y ya había mucha fricción que tenías que superar...
+
+963
+00:42:34,500 --> 00:42:36,780
+Y es por eso que el poder era correspondientemente grande.
+
+964
+00:42:37,020 --> 00:42:39,380
+Y, sin embargo, notabas cuando algo se atascaba...
+
+965
+00:42:39,740 --> 00:42:41,940
+Y si eras bueno y lo soltabas de inmediato...
+
+966
+00:42:41,940 --> 00:42:44,200
+En algún momento, Uschi y yo tuvimos un presentimiento...
+
+967
+00:42:44,200 --> 00:42:47,740
+Luego logramos detenernos antes de que se rompiera.
+
+968
+00:42:48,040 --> 00:42:50,200
+Y si la gente hubiera llegado allí ahora...
+
+969
+00:42:50,820 --> 00:42:52,800
+Y girado la manivela sin sentir... ¡
+
+970
+00:42:52,800 --> 00:42:54,320
+Claro que lo habrían aplastado todo!
+
+971
+00:42:54,320 --> 00:42:57,520
+O peor aún, conectar el motor... ¡Ese habría sido el final!
+
+972
+00:42:57,520 --> 00:42:58,760
+Bueno, no sé si eso pasó en el museo...
+
+973
+00:42:58,760 --> 00:43:01,020
+No quiero insinuar nada, yo no estaba allí...
+
+974
+00:43:01,020 --> 00:43:03,400
+Pero había que girar con cuidado, ¡eso era importante!
+
+975
+00:43:04,800 --> 00:43:05,480
+Y...
+
+976
+00:43:05,480 --> 00:43:09,120
+Ya dijiste que también hubo fricción con la chapa... ¿
+
+977
+00:43:09,120 --> 00:43:12,160
+Ahí usaste algún tipo de aceite, verdad...?
+
+978
+00:43:12,160 --> 00:43:15,220
+No usamos aceite por miedo a que se pegue.
+
+979
+00:43:15,220 --> 00:43:17,640
+También es la fuerza adhesiva de un aceite:
+
+980
+00:43:17,640 --> 00:43:19,940
+si dos líquidos sobre una superficie desnuda... lo sabes... ¡
+
+981
+00:43:19,940 --> 00:43:23,260
+puedes levantarlo! Y ahí también tienes ese poder adhesivo.
+
+982
+00:43:23,260 --> 00:43:25,840
+Así que usamos un polvo por un tiempo.
+
+983
+00:43:25,840 --> 00:43:29,000
+Quiero decir que habría sido un spray de teflón, algún tipo de lubricante.
+
+984
+00:43:29,000 --> 00:43:30,180
+Eso también trajo un bissl qué!
+
+985
+00:43:30,180 --> 00:43:31,640
+¡Eso fue un poco más fácil!
+
+986
+00:43:32,580 --> 00:43:34,580
+Sí exactamente. Y luego...
+
+987
+00:43:34,580 --> 00:43:37,480
+Bueno, lo del museo de tecnología, ya no lo seguías mucho.
+
+988
+00:43:37,480 --> 00:43:40,420
+¿Estuviste... dijiste que estuviste allí una vez, reparaste algo? ¡Exactamente!
+
+989
+00:43:40,420 --> 00:43:43,640
+Empecé en Daimler el 1 de marzo de 1989...
+
+990
+00:43:44,260 --> 00:43:48,360
+Conseguí el trabajo rápidamente... Estaba involucrado en CAD...
+
+991
+00:43:48,360 --> 00:43:50,260
+También di cursos, relativamente rápido.
+
+992
+00:43:50,660 --> 00:43:53,940
+Y luego hubo una llamada del museo, y otra vez por la noche del director: ¡
+
+993
+00:43:54,780 --> 00:43:56,840
+Señor Saupe, tiene que ayudarnos, la máquina se ha parado!
+
+994
+00:43:56,840 --> 00:43:58,940
+¡Hemos estado tratando de arreglarlo, no podemos resolverlo!
+
+995
+00:43:58,940 --> 00:44:00,240
+Tal vez podrías intervenir de nuevo.
+
+996
+00:44:00,240 --> 00:44:02,480
+Y luego volé allí de nuevo: ¡
+
+997
+00:44:02,480 --> 00:44:05,480
+el fin de semana, el viernes por la tarde a Berlín!
+
+998
+00:44:05,480 --> 00:44:08,100
+Pagaron el vuelo y también me acomodaron en el museo.
+
+999
+00:44:08,460 --> 00:44:10,520
+¡Arreglé la máquina una vez!
+
+1000
+00:44:11,580 --> 00:44:14,460
+Volvió a funcionar, volvió a ser un tráiler clásico.
+
+1001
+00:44:15,140 --> 00:44:16,680
+Y volví a manejar...
+
+1002
+00:44:16,680 --> 00:44:18,740
+Y luego, unas semanas más tarde, volvió a llamar:
+
+1003
+00:44:18,740 --> 00:44:20,720
+Y luego le dije: "No, ¡ahora realmente ya no funciona!"
+
+1004
+00:44:20,720 --> 00:44:23,980
+Estaba totalmente metido en el trabajo y después de cinco días... Y también me di cuenta:
+
+1005
+00:44:23,980 --> 00:44:25,820
+también me estaba despidiendo mentalmente de la máquina cada vez más.
+
+1006
+00:44:25,820 --> 00:44:28,060
+Ya me había dado cuenta la última vez que estuve allí:
+
+1007
+00:44:28,060 --> 00:44:29,940
+Dios mío, ¿dónde fue eso otra vez, cómo fue eso otra vez?
+
+1008
+00:44:31,620 --> 00:44:34,240
+Con tu nuevo trabajo, tienes la cabeza para algo completamente diferente...
+
+1009
+00:44:34,240 --> 00:44:36,780
+Y pasó más de un año entre...
+
+1010
+00:44:37,160 --> 00:44:39,500
+O medio año entre cuando estaba trabajando con la máquina.
+
+1011
+00:44:40,400 --> 00:44:41,720
+Entonces me quedó claro, ya no quieres eso, ¡
+
+1012
+00:44:41,720 --> 00:44:43,220
+y en algún momento tampoco podrás!
+
+1013
+00:44:43,220 --> 00:44:45,140
+Y entonces él también lo vio.
+
+1014
+00:44:45,140 --> 00:44:47,420
+También intentaron robarme desde el principio.
+
+1015
+00:44:47,420 --> 00:44:49,580
+Querían que fuera al museo.
+
+1016
+00:44:49,580 --> 00:44:52,580
+¡Claro, habría sido ideal para ellos! Puedo entender eso desde su punto de vista.
+
+1017
+00:44:52,980 --> 00:44:55,880
+Pero a los 27 años yo no quería trabajar en un museo, entonces...
+
+1018
+00:44:55,880 --> 00:44:59,440
+Le dije eso así: Dile, no, pues con todo mi amor, ¡yo no quiero eso!
+
+1019
+00:44:59,880 --> 00:45:01,160
+¿Él también aceptó?
+
+1020
+00:45:01,160 --> 00:45:04,200
+Estuve allí una vez, eso es cierto! Lo hice funcionar...
+
+1021
+00:45:04,200 --> 00:45:05,900
+Y la próxima vez me fui.
+
+1022
+00:45:05,900 --> 00:45:08,400
+Y si ya estaba allí o más tarde, ¡no lo sé!
+
+1023
+00:45:08,820 --> 00:45:12,240
+Ahora es realmente difícil hacer que la máquina vuelva a funcionar, así que...
+
+1024
+00:45:12,440 --> 00:45:15,960
+Creo que incluso si lo pensara de nuevo... ¡
+
+1025
+00:45:16,400 --> 00:45:18,960
+Tantas cosas que se han hecho después del hecho
+
+1026
+00:45:18,960 --> 00:45:20,980
+hacen que sea extremadamente difícil de arreglar!
+
+1027
+00:45:20,980 --> 00:45:23,140
+Sería más fácil arreglar el sistema de almacenamiento.
+
+1028
+00:45:23,140 --> 00:45:26,360
+Porque eso era de alguna manera más sistemático, eso era más lógico.
+
+1029
+00:45:26,360 --> 00:45:28,660
+No hubo tanta adición de empujes.
+
+1030
+00:45:28,860 --> 00:45:29,900
+Siempre fue así:
+
+1031
+00:45:29,900 --> 00:45:33,640
+una gran varilla de empuje atravesó todos los acumuladores y se extrajeron algunos pasadores.
+
+1032
+00:45:33,640 --> 00:45:35,460
+Arriba y atrás otra vez.
+
+1033
+00:45:35,460 --> 00:45:37,340
+Era mucho más complicado en la unidad aritmética:
+
+1034
+00:45:37,340 --> 00:45:41,060
+los movimientos también bajaban de nivel y volvían a subir a la siguiente unidad.
+
+1035
+00:45:41,060 --> 00:45:42,840
+¡Había una gran cantidad de bloques involucrados!
+
+1036
+00:45:43,040 --> 00:45:45,260
+Pero para reparar completamente la máquina...
+
+1037
+00:45:45,260 --> 00:45:48,120
+Que pueda comenzar estos cálculos de prueba, esta prueba hoy...
+
+1038
+00:45:48,940 --> 00:45:50,060
+Uf... ¡
+
+1039
+00:45:50,060 --> 00:45:52,820
+Me quito el sombrero, si alguien quiere ponerse a trabajar, se necesita mucha paciencia y tiempo!
+
+1040
+00:45:53,300 --> 00:45:55,620
+Y debes tener una obstinada...
+
+1041
+00:45:55,620 --> 00:45:59,340
+Tener una voluntad obstinada y no ser disuadido.
+
+1042
+00:45:59,340 --> 00:46:02,280
+Y de vuelta al último nivel, desmontar en once piezas.
+
+1043
+00:46:02,280 --> 00:46:04,180
+¡Este es un trabajo terrible!
+
+1044
+00:46:04,460 --> 00:46:06,240
+No quieres hacerle eso a nadie, pero...
+
+1045
+00:46:06,240 --> 00:46:08,340
+La máquina estaba configurada así, ¡no teníamos otra opción!
+
+1046
+00:46:08,340 --> 00:46:09,960
+¡Tenía que funcionar de esa manera!
+
+1047
+00:46:10,520 --> 00:46:12,800
+Aún así, ¡me alegro de que lo hayas hecho!
+
+1048
+00:46:12,800 --> 00:46:13,940
+¡Sí, yo también después!
+
+1049
+00:46:13,940 --> 00:46:16,780
+Pero en ese entonces, cuando estaba haciendo mi tesis de diploma, no pensé que fuera tan especial.
+
+1050
+00:46:16,780 --> 00:46:20,560
+Me había acostumbrado a Zuse, a la máquina, a todo este proceso.
+
+1051
+00:46:20,560 --> 00:46:23,420
+Esa era la vida cotidiana para los dos, ¡también hablo por Uschi ahora!
+
+1052
+00:46:24,140 --> 00:46:27,860
+Estaba en Daimler y mi tesis de diploma fue marcada y olvidada.
+
+1053
+00:46:28,240 --> 00:46:30,900
+No fue hasta años después, cuando ya me había decidido...
+
+1054
+00:46:31,660 --> 00:46:33,040
+Era Navidad en el departamento...
+
+1055
+00:46:33,040 --> 00:46:35,100
+¿Alguien tiene una idea de lo que podríamos hacer, Navidad?
+
+1056
+00:46:35,640 --> 00:46:38,160
+Ahí fue cuando tuve la idea: ¡Sí, realmente podrías dar una conferencia de Zuse!
+
+1057
+00:46:38,160 --> 00:46:41,520
+Me senté frente a la computadora en privado, saqué fotos antiguas...
+
+1058
+00:46:41,720 --> 00:46:44,540
+y preparé una conferencia de mi tesis de grado.
+
+1059
+00:46:45,200 --> 00:46:46,000
+Y fue entonces cuando yo...
+
+1060
+00:46:46,000 --> 00:46:48,320
+Donde lo presenté en la fiesta de Navidad...
+
+1061
+00:46:48,860 --> 00:46:51,880
+Me di cuenta por primera vez: ¡Boa, eso fue algo especial!
+
+1062
+00:46:52,000 --> 00:46:54,680
+Fue solo entonces que realmente me di cuenta de ello, ¡años después!
+
+1063
+00:46:55,300 --> 00:46:57,020
+Donde yo estaba...
+
+1064
+00:46:57,020 --> 00:46:59,520
+Sí, me importaba, quiero mi... ¡mi título!
+
+1065
+00:46:59,520 --> 00:47:00,920
+¡Tengo mi diploma en el bolsillo!
+
+1066
+00:47:00,920 --> 00:47:02,680
+¡Y luego quiero entrar en la industria y ganar dinero!
+
+1067
+00:47:02,680 --> 00:47:05,000
+Esa fue mi motivación, ¡lógico!
+
+1068
+00:47:05,540 --> 00:47:08,500
+Pero este orgullo y también haber conocido a Zuse...
+
+1069
+00:47:08,500 --> 00:47:10,580
+Haber trabajado en esta pieza, en la máquina...
+
+1070
+00:47:11,300 --> 00:47:13,760
+Ser parte, un poco de la historia de las computadoras...
+
+1071
+00:47:14,060 --> 00:47:15,620
+En retrospectiva, ¡es algo especial!
+
+1072
+00:47:15,620 --> 00:47:17,820
+Pero en ese momento no lo era, ¡lo diré francamente!
+
+1073
+00:47:17,820 --> 00:47:20,440
+Así que fue solo hoy que me di cuenta de ello.
+
+1074
+00:47:20,680 --> 00:47:24,160
+Ahora que ya hemos discutido la réplica con gran detalle,
+
+1075
+00:47:24,860 --> 00:47:27,820
+me gustaría preguntar un poco más sobre el Z1 original.
+
+1076
+00:47:29,820 --> 00:47:30,820
+Es decir...
+
+1077
+00:47:30,820 --> 00:47:35,320
+Se puede ver en la película del Sr. Knauer, en parte también a través de testigos contemporáneos,
+
+1078
+00:47:35,320 --> 00:47:38,560
+que muestran un poco cómo se hacía entonces:
+
+1079
+00:47:38,560 --> 00:47:44,320
+Así que realmente con una sierra de vaivén manual y con un taladro y así sucesivamente.
+
+1080
+00:47:45,040 --> 00:47:46,800
+Y...
+
+1081
+00:47:47,600 --> 00:47:51,620
+¿Konrad Zuse dijo algo sobre cómo era entonces?
+
+1082
+00:47:52,540 --> 00:47:56,060
+No personalmente a nosotros. También lo sé por la película...
+
+1083
+00:47:56,520 --> 00:47:59,820
+Y de vez en cuando le preguntaba cómo era en la vieja máquina.
+
+1084
+00:47:59,820 --> 00:48:01,220
+Y le dio una respuesta corta.
+
+1085
+00:48:01,220 --> 00:48:02,960
+Pero no dijo mucho sobre sí mismo.
+
+1086
+00:48:02,960 --> 00:48:05,620
+Porque al principio todavía creía que la réplica...
+
+1087
+00:48:06,140 --> 00:48:09,220
+Esta reconstrucción del Z1 era una réplica original.
+
+1088
+00:48:09,560 --> 00:48:12,020
+Hasta que me sacó el diente: ¡No, no, Herr Saupe!
+
+1089
+00:48:12,020 --> 00:48:13,960
+No se trata de la apariencia de la máquina original.
+
+1090
+00:48:13,960 --> 00:48:17,420
+Se trata del principio, el principio del cálculo. ¡Eso es lo importante!
+
+1091
+00:48:17,420 --> 00:48:19,720
+Porque me había dado libertad constructiva en el medio.
+
+1092
+00:48:19,720 --> 00:48:21,500
+Y luego dije: ¡No puedo decidir eso por mí mismo!
+
+1093
+00:48:21,500 --> 00:48:23,480
+¡Eso debe adaptarse a la vieja máquina!
+
+1094
+00:48:24,300 --> 00:48:25,460
+Y luego me sacó el diente:
+
+1095
+00:48:25,460 --> 00:48:28,740
+Eso no es lo que sugirió la Junta de Fideicomisarios de Z1.
+
+1096
+00:48:28,740 --> 00:48:32,820
+Es prueba de que mis consideraciones teóricas... funcionaron.
+
+1097
+00:48:32,820 --> 00:48:34,560
+¡Era solo la precisión de las hojas!
+
+1098
+00:48:35,080 --> 00:48:37,440
+Y eso es lo que una vez dijo con palabras: ¡
+
+1099
+00:48:37,440 --> 00:48:40,520
+Que en ese entonces, como puedes imaginar, la precisión era mala!
+
+1100
+00:48:40,520 --> 00:48:42,920
+Porque, en primer lugar, trabajaba con hojalata...
+
+1101
+00:48:42,920 --> 00:48:46,200
+Bueno, aplanaba latas... ¡Increíble!
+
+1102
+00:48:46,880 --> 00:48:47,840
+¡Diferentes espesores!
+
+1103
+00:48:47,840 --> 00:48:50,840
+No siempre obtienes la misma chapa con el mismo grosor.
+
+1104
+00:48:50,840 --> 00:48:54,440
+Al martillar, martillaste algunos bultos.
+
+1105
+00:48:54,440 --> 00:48:56,180
+Traes tensión a tal hoja de metal.
+
+1106
+00:48:56,680 --> 00:49:00,560
+Y luego, por supuesto, el calado: Incluso si se usa la lima... ¡
+
+1107
+00:49:00,560 --> 00:49:03,100
+Estamos hablando de varias décimas de desviación!
+
+1108
+00:49:03,100 --> 00:49:06,280
+Tan realmente increíble que incluso comenzaron a trabajar... ¡
+
+1109
+00:49:06,560 --> 00:49:07,220
+Puede!
+
+1110
+00:49:07,220 --> 00:49:07,900
+¡No lo sé!
+
+1111
+00:49:09,500 --> 00:49:11,500
+Pero estaba tan convencido de sus convicciones teóricas
+
+1112
+00:49:11,500 --> 00:49:16,100
+y explicaciones teóricas que dijo: ¡
+
+1113
+00:49:16,100 --> 00:49:19,000
+Haremos la réplica y funcionará!
+
+1114
+00:49:19,000 --> 00:49:20,000
+Es decir...
+
+1115
+00:49:20,000 --> 00:49:22,120
+Pero por lo demás no contó mucho sobre la vieja máquina...
+
+1116
+00:49:23,420 --> 00:49:27,220
+Que tuvo lugar en el salón de los padres, lo que me sigue pareciendo increíble.
+
+1117
+00:49:27,220 --> 00:49:29,680
+Los padres cedieron la sala de estar durante dos años.
+
+1118
+00:49:30,220 --> 00:49:31,300
+era financiero...
+
+1119
+00:49:31,900 --> 00:49:34,460
+terminó en un callejón sin salida porque se bajó en Henschel.
+
+1120
+00:49:34,460 --> 00:49:38,360
+Eso significa que no tenía apoyo financiero para poder construir la máquina.
+
+1121
+00:49:38,740 --> 00:49:40,940
+No podía pagar a sus alumnos y compañeros de estudios,
+
+1122
+00:49:40,940 --> 00:49:43,100
+que trabajaban voluntariamente en su tiempo libre.
+
+1123
+00:49:43,400 --> 00:49:45,320
+Y su hermana lo apoyó económicamente.
+
+1124
+00:49:45,820 --> 00:49:47,180
+¿La Lieselotte? ¡Sí!
+
+1125
+00:49:47,180 --> 00:49:49,220
+Los has conocido ¡no! no ¡no!
+
+1126
+00:49:49,360 --> 00:49:52,600
+Solo conocí a Horst y a la hija menor.
+
+1127
+00:49:53,240 --> 00:49:56,840
+Y la Sra. Zuse, por supuesto, que era *super* agradable, así que tengo que decirlo de nuevo... La
+
+1128
+00:49:57,700 --> 00:50:00,680
+Sra. Zuse siempre fue muy amable con nosotros...
+
+1129
+00:50:00,680 --> 00:50:02,560
+De vez en cuando nos traía café, pastel.
+
+1130
+00:50:02,560 --> 00:50:03,980
+No creo que Konrad Zuse quisiera eso.
+
+1131
+00:50:03,980 --> 00:50:05,620
+Se lo ha insinuado un par de veces a ella.
+
+1132
+00:50:05,620 --> 00:50:07,880
+Escuché algunos fragmentos de palabras.
+
+1133
+00:50:07,880 --> 00:50:08,760
+¿Él no quería eso?
+
+1134
+00:50:08,760 --> 00:50:11,060
+No, él no quería que ella nos mimara demasiado.
+
+1135
+00:50:11,500 --> 00:50:13,760
+¡Realmente es! Y...
+
+1136
+00:50:14,300 --> 00:50:16,000
+Nos tomamos la libertad
+
+1137
+00:50:16,000 --> 00:50:17,960
+de llevar a nuestros amigos con nosotros de vez en cuando, Uschi y yo.
+
+1138
+00:50:17,960 --> 00:50:20,780
+Cada vez que teníamos visitas en Hünfeld, preguntábamos
+
+1139
+00:50:20,780 --> 00:50:22,540
+si podíamos venir los sábados para mostrar la máquina.
+
+1140
+00:50:22,540 --> 00:50:24,840
+Porque la gente quería ver cómo se ve la máquina en vivo.
+
+1141
+00:50:25,100 --> 00:50:28,520
+Y hubo una fase en el verano en la que a menudo teníamos visitas.
+
+1142
+00:50:28,700 --> 00:50:31,820
+Tanto Uschi, su novio y mi Claudia o...
+
+1143
+00:50:32,480 --> 00:50:35,940
+Sus padres estaban conmigo. Mi madre visitó una vez Hünfeld.
+
+1144
+00:50:36,280 --> 00:50:37,580
+Y luego Zuse también dijo:
+
+1145
+00:50:37,580 --> 00:50:39,540
+Eso sería demasiado para él ahora, ya no quería eso.
+
+1146
+00:50:39,540 --> 00:50:41,800
+Y también nos mostró claramente los límites, que...
+
+1147
+00:50:42,880 --> 00:50:45,520
+Probablemente se sintió como si estuviera en un museo.
+
+1148
+00:50:45,520 --> 00:50:47,660
+Lo entiendo en retrospectiva, ¡él también tiene razón!
+
+1149
+00:50:47,660 --> 00:50:49,820
+Así que tal vez nos excedimos a veces...
+
+1150
+00:50:51,100 --> 00:50:51,640
+Sí.
+
+1151
+00:50:51,640 --> 00:50:54,800
+Y has visto a Horst un par de veces, Horst Zuse...
+
+1152
+00:50:54,800 --> 00:50:57,520
+Profesor Dr. Horst Zuse, lo conociste un par de veces.
+
+1153
+00:50:57,520 --> 00:51:00,200
+También se ha metido un poco en la máquina, ¿no?
+
+1154
+00:51:00,200 --> 00:51:02,480
+No, solo lo conocimos en Berlín...
+
+1155
+00:51:02,480 --> 00:51:03,340
+Solo en Berlín entonces. ¡Sí!
+
+1156
+00:51:03,340 --> 00:51:05,920
+Sabíamos de dónde veníamos al museo, en ese entonces, Uschi y yo...
+
+1157
+00:51:05,920 --> 00:51:08,380
+Sobre la construcción de la máquina y esta documentación fílmica...
+
+1158
+00:51:08,860 --> 00:51:10,080
+Sabíamos que él vivía allí...
+
+1159
+00:51:10,340 --> 00:51:14,040
+Y nos habíamos dado la dirección de antemano de su permiso de madre, de Horst.
+
+1160
+00:51:14,040 --> 00:51:17,080
+Y luego lo contactamos y lo conocimos.
+
+1161
+00:51:17,740 --> 00:51:19,700
+De ahí el contacto. Ese fue el único contacto.
+
+1162
+00:51:19,700 --> 00:51:21,620
+Así que no estaba en Hünfeld en ese momento.
+
+1163
+00:51:21,620 --> 00:51:24,360
+Lo cual también me sorprende, por qué en realidad... ¡No lo sé!
+
+1164
+00:51:24,360 --> 00:51:26,220
+Tal vez estaba ocupado con el trabajo.
+
+1165
+00:51:26,680 --> 00:51:28,300
+Tal vez no tenía tan buena relación con su padre... ¡
+
+1166
+00:51:28,300 --> 00:51:30,900
+No sé nada! Pero...
+
+1167
+00:51:31,460 --> 00:51:33,280
+Cuando lo conocimos, me quedó claro
+
+1168
+00:51:33,280 --> 00:51:35,720
+que también tenía algo que ver con las matemáticas y la informática.
+
+1169
+00:51:36,200 --> 00:51:37,400
+Y también me di cuenta: ¡
+
+1170
+00:51:37,400 --> 00:51:39,360
+Se parecía mucho a su padre! Y yo también...
+
+1171
+00:51:39,360 --> 00:51:41,160
+De la filmación de hoy, ¡he notado
+
+1172
+00:51:41,160 --> 00:51:42,680
+que todavía se parece mucho a su padre hoy!
+
+1173
+00:51:42,680 --> 00:51:46,100
+Así que ya nació su primer hijo, el hijo mayor.
+
+1174
+00:51:46,460 --> 00:51:48,460
+¡Y el parecido es sorprendente!
+
+1175
+00:51:48,460 --> 00:51:51,040
+Pero aparte de eso, no lo vimos muy a menudo, creo que solo una vez.
+
+1176
+00:51:52,120 --> 00:51:54,480
+Aunque, ¿estuvo presente en la entrega?
+
+1177
+00:51:54,980 --> 00:51:57,680
+Tengo que admitir que estaba muy nervioso en la entrega oficial.
+
+1178
+00:51:57,680 --> 00:51:59,540
+Solo miré hacia atrás a cuántas personas estaban sentadas allí.
+
+1179
+00:51:59,540 --> 00:52:02,020
+¡Había unos cientos! Y...
+
+1180
+00:52:02,020 --> 00:52:03,760
+Muchas celebridades en primera fila.
+
+1181
+00:52:03,760 --> 00:52:05,020
+Ya no miré a todos...
+
+1182
+00:52:05,020 --> 00:52:07,180
+No sé si Horst Zuse estaba allí o no.
+
+1183
+00:52:07,420 --> 00:52:09,980
+¡La Sra. Zuse definitivamente también estaba allí!
+
+1184
+00:52:11,680 --> 00:52:12,460
+Sí...
+
+1185
+00:52:12,620 --> 00:52:16,280
+Y de nuevo de vuelta a los originales. Entonces, como dije, eran
+
+1186
+00:52:17,480 --> 00:52:22,800
+medios relativamente... simples y mucho más difíciles que lo que hiciste allí.
+
+1187
+00:52:22,800 --> 00:52:24,400
+¡Increíble, increíble!
+
+1188
+00:52:24,400 --> 00:52:27,880
+Y, sin embargo, Konrad Zuse dijo:
+
+1189
+00:52:27,880 --> 00:52:30,020
+fue la primera computadora que incluso
+
+1190
+00:52:30,020 --> 00:52:33,160
+pudo realizar cálculos controlados por programa,
+
+1191
+00:52:33,440 --> 00:52:37,640
+incluso si todavía tenía varias deficiencias técnicas en ese momento.
+
+1192
+00:52:37,640 --> 00:52:42,060
+Pero él dijo: ¡Se podrían realizar cálculos!
+
+1193
+00:52:42,060 --> 00:52:43,340
+¡Uno solo puede creer eso ahora!
+
+1194
+00:52:43,340 --> 00:52:46,280
+¡Hay incluso menos testigos contemporáneos que con nuestra reconstrucción!
+
+1195
+00:52:46,280 --> 00:52:50,480
+Solo puedes creer eso y es difícil de creer, creo...
+
+1196
+00:52:50,480 --> 00:52:53,460
+Sí, estoy de acuerdo contigo, según los hallazgos
+
+1197
+00:52:53,460 --> 00:52:55,900
+de la reconstrucción, que fue súper precisa en la lámina de metal.
+
+1198
+00:52:56,020 --> 00:52:58,280
+Y siempre tuvimos inconvenientes y dificultades...
+
+1199
+00:52:58,660 --> 00:53:01,400
+Ni siquiera puedo imaginar cómo debe haber sido para él.
+
+1200
+00:53:02,200 --> 00:53:06,300
+Tal vez lo empujó con la mano mientras disparaba para mostrar que estaban corriendo... ¡
+
+1201
+00:53:06,300 --> 00:53:09,920
+No sé, es solo una suposición! Por supuesto, no vivíamos en 1936.
+
+1202
+00:53:09,920 --> 00:53:12,880
+Y los testigos que hay son aún menos.
+
+1203
+00:53:13,060 --> 00:53:15,400
+Además, estos eran los tiempos justo antes de la guerra.
+
+1204
+00:53:15,520 --> 00:53:17,840
+Un año después estalló la guerra.
+
+1205
+00:53:17,840 --> 00:53:20,140
+¡Es todo muy difícil de entender!
+
+1206
+00:53:20,600 --> 00:53:25,820
+Pero su condena, 1987 a 1989 durante el período de reconstrucción...
+
+1207
+00:53:25,820 --> 00:53:28,580
+Su condena: ¡lo haremos!
+
+1208
+00:53:28,580 --> 00:53:30,240
+¡La máquina eventualmente también funcionará!
+
+1209
+00:53:30,560 --> 00:53:32,780
+Eso me demostró que estaba seguro de su causa.
+
+1210
+00:53:32,780 --> 00:53:34,000
+¿Cómo puede estar seguro?
+
+1211
+00:53:34,360 --> 00:53:38,860
+Tal vez corriendo 86... 1936,37,38!
+
+1212
+00:53:39,140 --> 00:53:41,360
+¡Puedes creerle! Porque...
+
+1213
+00:53:42,020 --> 00:53:43,780
+Si la máquina no hubiera estado funcionando...
+
+1214
+00:53:43,780 --> 00:53:46,180
+Si hubiera tenido la fuerza para decir 50 años después: ¡
+
+1215
+00:53:46,180 --> 00:53:47,980
+La reconstruiré ahora, funcionará!
+
+1216
+00:53:47,980 --> 00:53:50,020
+¡No creo! ¡Y el coraje! Y el coraje.
+
+1217
+00:53:50,140 --> 00:53:52,900
+Así que tenía algo que perder.
+
+1218
+00:53:52,900 --> 00:53:54,160
+Si la réplica no hubiera funcionado,
+
+1219
+00:53:54,160 --> 00:53:56,900
+todos habrían dicho, ¡oh mira, esa cosa no era nada!
+
+1220
+00:53:57,920 --> 00:54:00,360
+Por eso puedes creerle que la máquina estaba funcionando.
+
+1221
+00:54:00,360 --> 00:54:02,120
+Tal vez realmente lo hizo...
+
+1222
+00:54:02,260 --> 00:54:03,620
+También trabajó de manera muy diferente:
+
+1223
+00:54:03,620 --> 00:54:05,420
+Lo tenemos en la máquina, lo recuerdas en el museo...
+
+1224
+00:54:05,420 --> 00:54:07,340
+Todas las láminas de metal corren a la altura [15 cm].
+
+1225
+00:54:07,340 --> 00:54:09,080
+Su máquina en la foto:
+
+1226
+00:54:09,080 --> 00:54:12,040
+tenía más de un metro de altura, todos esos procesos de trabajo...
+
+1227
+00:54:12,820 --> 00:54:14,980
+Eso significa que tiene mucho más espacio en el medio.
+
+1228
+00:54:14,980 --> 00:54:17,260
+Tal vez eso fue más inteligente y tuvo mucho mejor
+
+1229
+00:54:17,260 --> 00:54:18,860
+acceso a estas imperfecciones, a los niveles.
+
+1230
+00:54:18,860 --> 00:54:20,380
+Tal vez podría arreglarlo más rápido...
+
+1231
+00:54:20,380 --> 00:54:21,880
+Eso es solo una suposición de mi parte, pero...
+
+1232
+00:54:23,420 --> 00:54:25,820
+Puedes creerle. ¡Y él no era el mentiroso!
+
+1233
+00:54:25,820 --> 00:54:28,380
+Entonces también podría admitir debilidades. Zuse dijo una vez:
+
+1234
+00:54:28,600 --> 00:54:31,360
+Sí, en ese entonces con mi empresa, hice muchas cosas mal.
+
+1235
+00:54:32,000 --> 00:54:33,200
+Hoy haría las cosas de manera diferente.
+
+1236
+00:54:33,200 --> 00:54:36,180
+También era un tipo que sabía cuándo algo no iba bien.
+
+1237
+00:54:36,580 --> 00:54:38,420
+Y no diría que era un mentiroso.
+
+1238
+00:54:38,420 --> 00:54:40,820
+Y si él dice que la máquina funcionó entonces... ¡
+
+1239
+00:54:41,500 --> 00:54:43,960
+Me inclinaría a creerle!
+
+1240
+00:54:45,340 --> 00:54:48,760
+Sí, eso... definitivamente sería bueno... ¡Sí!
+
+1241
+00:54:48,760 --> 00:54:51,280
+También para Alemania me refiero. ¡Sí, también para Alemania!
+
+1242
+00:54:51,280 --> 00:54:53,780
+Estoy de acuerdo contigo, ¡eso habría sido tres años antes!
+
+1243
+00:54:53,780 --> 00:54:55,660
+Bueno, porque eso es... Quiero decir...
+
+1244
+00:54:55,660 --> 00:54:57,840
+Los alemanes siempre tenemos un pequeño problema con el orgullo nacional...
+
+1245
+00:54:57,840 --> 00:55:00,980
+Pero eso... sería bueno... ¡Sí, absolutamente!
+
+1246
+00:55:00,980 --> 00:55:04,040
+Por cierto, no estoy en absoluto en contra del orgullo.
+
+1247
+00:55:04,040 --> 00:55:08,060
+Y estoy terriblemente orgulloso de nosotros los alemanes, ¡especialmente cuando se trata de inventos!
+
+1248
+00:55:08,300 --> 00:55:12,220
+Cuando comencé en KHD, en el primer año de mi aprendizaje, fuimos
+
+1249
+00:55:12,220 --> 00:55:15,060
+al edificio original donde se encontraba el primer motor original de Nikolaus Otto.
+
+1250
+00:55:15,800 --> 00:55:16,300
+Y...
+
+1251
+00:55:17,320 --> 00:55:21,380
+Ese fue básicamente el núcleo de los motores de gasolina allí...
+
+1252
+00:55:21,500 --> 00:55:23,720
+O sea, lo que pasó después en nuestros autos.
+
+1253
+00:55:23,720 --> 00:55:26,620
+Luego llegué a Daimler, el inventor del automóvil.
+
+1254
+00:55:27,260 --> 00:55:28,460
+¡Podemos estar terriblemente orgullosos de eso!
+
+1255
+00:55:28,460 --> 00:55:31,700
+En nuestra sociedad, en nuestra ciencia, realmente
+
+1256
+00:55:31,700 --> 00:55:33,860
+teníamos buenas mentes que eran muy, muy tempranas.
+
+1257
+00:55:33,860 --> 00:55:35,740
+¡Y gran parte de la prosperidad que tenemos hoy
+
+1258
+00:55:35,740 --> 00:55:38,060
+también se debe a estos inventos!
+
+1259
+00:55:38,820 --> 00:55:41,560
+Por supuesto que no estamos orgullosos de lo que pasó durante la era nazi...
+
+1260
+00:55:41,840 --> 00:55:43,940
+No quiero negarlo... ¡Terrible!
+
+1261
+00:55:43,940 --> 00:55:45,320
+Y también creo que es bueno que estemos
+
+1262
+00:55:45,320 --> 00:55:47,600
+documentando todo para que no se nos olvide.
+
+1263
+00:55:48,160 --> 00:55:51,080
+Pero tampoco debemos olvidarnos... También un Felix Wankel... ¡
+
+1264
+00:55:51,860 --> 00:55:53,100
+Todos los inventos!
+
+1265
+00:55:53,100 --> 00:55:57,520
+¡Los alemanes hemos hecho mucho! Y estoy orgulloso de eso también, lo diré con toda franqueza...
+
+1266
+00:55:57,520 --> 00:56:01,700
+Uno también puede tener un buen orgullo sin ser empujado hacia la esquina correcta.
+
+1267
+00:56:01,700 --> 00:56:04,560
+¡Pero estoy orgulloso de estas cabezas y de nuestros inventores!
+
+1268
+00:56:05,440 --> 00:56:06,980
+Buen tema para el final...
+
+1269
+00:56:06,980 --> 00:56:08,520
+No sé quién lo escribió...
+
+1270
+00:56:08,520 --> 00:56:09,900
+Tal vez podrías decir algo más, pero... ¿
+
+1271
+00:56:11,920 --> 00:56:12,640
+Sí?
+
+1272
+00:56:12,640 --> 00:56:17,500
+Tengo que leer la oración yo mismo o leerla...
+
+1273
+00:56:17,500 --> 00:56:19,360
+Sí, ¿o la lees tú? ¡Sí!
+
+1274
+00:56:19,360 --> 00:56:20,700
+Entonces al...
+
+1275
+00:56:20,700 --> 00:56:25,620
+Al final de la tesis de diploma hay algo interesante, también con respecto a...
+
+1276
+00:56:26,520 --> 00:56:28,740
+Sí, casi una pregunta filosófica...
+
+1277
+00:56:32,060 --> 00:56:39,040
+Cómo la tecnología nos puede influir. ¡Sí, hasta el día de hoy, así es!
+
+1278
+00:56:39,040 --> 00:56:44,000
+¡Definitivamente encontrarás el final! ¡Dame un segundo!
+
+1279
+00:56:44,000 --> 00:56:48,540
+Eso comienza con: El pasado y el presente nos muestran...
+
+1280
+00:56:49,000 --> 00:56:53,020
+(Dietmar hojea las páginas)
+
+1281
+00:56:53,020 --> 00:56:54,580
+Ja, oh sí, los dibujos son...
+
+1282
+00:56:54,580 --> 00:56:56,800
+Apéndice, está bien... Tengo que ir antes del apéndice.
+
+1283
+00:56:56,800 --> 00:56:58,100
+Hace tiempo que no lo leo, ¿eh?
+
+1284
+00:56:58,100 --> 00:57:03,420
+No, así es, sí, así es, no no, ¡pero sí!
+
+1285
+00:57:03,540 --> 00:57:05,180
+¡Palabra de cierre! ¡Palabra de cierre!
+
+1286
+00:57:05,500 --> 00:57:08,000
+Hace 50 años Konrad Zuse comenzó el desarrollo y así sucesivamente... ¿
+
+1287
+00:57:08,400 --> 00:57:08,980
+Es eso todo?
+
+1288
+00:57:08,980 --> 00:57:11,420
+No, el pasado está en el final, creo.
+
+1289
+00:57:11,420 --> 00:57:13,060
+Así que esa es la última palabra, así que... ¡
+
+1290
+00:57:13,060 --> 00:57:14,780
+Busca el pasado y el presente!
+
+1291
+00:57:14,780 --> 00:57:17,380
+El pasado y el presente nos muestran
+
+1292
+00:57:17,380 --> 00:57:20,900
+que, lamentablemente, no pocas veces se abusa del progreso técnico
+
+1293
+00:57:20,900 --> 00:57:23,560
+y se perjudica a las personas en lugar de ayudarlas.
+
+1294
+00:57:24,140 --> 00:57:25,480
+Probablemente eso sea cierto...
+
+1295
+00:57:25,640 --> 00:57:28,340
+Por lo tanto, el desarrollo de la computadora trae
+
+1296
+00:57:28,340 --> 00:57:31,700
+consigo una gran responsabilidad, especialmente hacia las generaciones futuras.
+
+1297
+00:57:31,700 --> 00:57:33,960
+Es de esperar que la computadora se use de
+
+1298
+00:57:33,960 --> 00:57:35,900
+la manera que el inventor pretendía.
+
+1299
+00:57:36,560 --> 00:57:38,120
+Porque Zuse era lo que lo impulsaba...
+
+1300
+00:57:39,200 --> 00:57:43,060
+Esos cálculos indescriptibles como ingeniero, que le resultaban tediosos...
+
+1301
+00:57:43,060 --> 00:57:44,540
+Quería presentar un resultado.
+
+1302
+00:57:44,540 --> 00:57:47,600
+El proyecto de ley era sólo un medio para un fin. Que quería automatizar!
+
+1303
+00:57:47,600 --> 00:57:51,440
+Es decir, esta computadora debería ayudarlo a dar el paso real.
+
+1304
+00:57:52,560 --> 00:57:55,500
+Tiene cosas, visiones, como máquinas que se reproducen a sí mismas...
+
+1305
+00:57:55,500 --> 00:57:58,820
+Lo que Kuka está haciendo hoy con los robots se ha hecho realidad.
+
+1306
+00:57:58,820 --> 00:58:02,800
+¡Quería hacerlo en 1936! Y ese fue su motor.
+
+1307
+00:58:03,280 --> 00:58:05,240
+Que la computadora es mal utilizada en muchos sentidos...
+
+1308
+00:58:05,240 --> 00:58:07,160
+Y eso es lo que estamos viviendo hoy en la era de Internet.
+
+1309
+00:58:07,160 --> 00:58:11,320
+Y escribir algunos bots, programas hacker...
+
+1310
+00:58:11,320 --> 00:58:12,680
+¡Se hace exactamente lo contrario!
+
+1311
+00:58:12,680 --> 00:58:14,840
+Solo se usa mal para hacer algunas tonterías.
+
+1312
+00:58:15,500 --> 00:58:16,700
+¡Eso no era lo que él quería!
+
+1313
+00:58:16,700 --> 00:58:19,600
+Y reconoció desde el principio que esto podría suceder:
+
+1314
+00:58:19,600 --> 00:58:22,400
+que esta gran oportunidad informática también representaba un peligro.
+
+1315
+00:58:22,600 --> 00:58:25,060
+Y eso es lo que quería decir. Creo que fue suya, esa frase.
+
+1316
+00:58:25,060 --> 00:58:28,020
+Ya no puedo decir quién de nosotros formuló esta frase...
+
+1317
+00:58:28,460 --> 00:58:29,740
+Si fue su última palabra,
+
+1318
+00:58:29,740 --> 00:58:31,600
+si fue Uschi o yo, ¡ya no lo sé!
+
+1319
+00:58:31,600 --> 00:58:33,740
+Eso sería una mentira, pero es una oración hermosa.
+
+1320
+00:58:33,740 --> 00:58:35,680
+Hace mucho que no leo eso tampoco...
+
+1321
+00:58:36,260 --> 00:58:40,360
+Y hoy en día demuestra lo... ¡Qué actual está!
+
+1322
+00:58:40,360 --> 00:58:43,800
+¡Más relevante que nunca! ¡No estaba tan actualizado en 1988!
+
+1323
+00:58:44,060 --> 00:58:45,900
+¡Los verdaderos abusos vinieron después de eso!
+
+1324
+00:58:46,640 --> 00:58:48,620
+Terrible, ¿no? Sí... ¡
+
+1325
+00:58:48,620 --> 00:58:49,940
+Yo era parte de eso!
+
+1326
+00:58:50,000 --> 00:58:50,940
+Sí... Oh, ei, ei...
+
+1327
+00:58:50,940 --> 00:58:52,280
+Sí...
+
+1328
+00:58:53,380 --> 00:58:56,520
+Sí, entonces Dietmar, super genial que te hayas tomado el tiempo!
+
+1329
+00:58:56,520 --> 00:58:58,620
+¡Fue realmente genial!
+
+1330
+00:58:58,620 --> 00:59:00,460
+Para mí fue un viaje en el tiempo.
+
+1331
+00:59:00,460 --> 00:59:04,680
+También noto emocionalmente lo que hicimos en ese entonces y... ¡
+
+1332
+00:59:05,020 --> 00:59:06,500
+Fue lindo hablar contigo sobre eso!
+
+1333
+00:59:06,500 --> 00:59:08,020
+¡Y a alguien le interesó!
+
+1334
+00:59:08,020 --> 00:59:10,660
+Porque a nadie le interesó durante muchos años: ¡Nuestra tesis de grado!
+
+1335
+00:59:11,060 --> 00:59:12,680
+En ese sentido, me gustaría darle las gracias también!
+
+1336
+00:59:12,680 --> 00:59:13,180
+Sí.
+
+1337
+00:59:13,440 --> 00:59:19,860
+(Aplausos)
+
