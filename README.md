@@ -6,6 +6,7 @@ Informationen zum Interview mit Dietmar Saupe:
 
 ## Projekt Inhalt
 
+- [Analyse](https://github.com/michael-holzheu/Arbeitspapier-321/tree/main/Analysis/Analysis-de.md)
 - [Quellenangabe](https://github.com/michael-holzheu/Arbeitspapier-321/tree/main/Attribution/Attribution.txt)
 - [Beschreibung](https://github.com/michael-holzheu/Viewsonic-M2W/tree/main/Description)
 - [Transkript](https://github.com/michael-holzheu/Arbeitspapier-321/tree/main/Transcript)
