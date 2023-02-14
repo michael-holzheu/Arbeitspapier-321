@@ -25,7 +25,7 @@
  ||EN |It’s was all Greek to me |
 | **[03:52](https://youtu.be/VZlg9eeFgiw?t=3m52s)**| **WORD**| **Duales System**|
  ||LINK |[https://de.wikipedia.org/wiki/Dualsystem](https://de.wikipedia.org/wiki/Dualsystem) |
- ||EN |Binary System |
+ ||EN |Binary system |
  ||JA |二進法 |
  ||RO |Sistem binar |
 | **[04:20](https://youtu.be/VZlg9eeFgiw?t=4m20s)**| **DIALECT**| **Wir waren ja “blank”**|
