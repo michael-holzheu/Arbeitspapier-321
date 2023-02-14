@@ -26,6 +26,7 @@
 |   [03:52](https://youtu.be/VZlg9eeFgiw?t=3m52s)| WORD| Duales System|
  ||LINK |[https://de.wikipedia.org/wiki/Dualsystem](https://de.wikipedia.org/wiki/Dualsystem) |
  ||EN |Binary System |
+ ||RO |Sistem binar |
 |   [04:20](https://youtu.be/VZlg9eeFgiw?t=4m20s)| DIALECT| Wir waren ja “blank”|
  ||EN |We did not have anything. |
 |   [04:20](https://youtu.be/VZlg9eeFgiw?t=4m20s)| TOC| Unterlagen in "Zuse-Steno"|
@@ -41,9 +42,9 @@
  ||EN |For us that was “Game over!” |
 |   [04:49](https://youtu.be/VZlg9eeFgiw?t=4m49s)| SAYING| Wir haben wirklich bei “Null” angefangen|
  ||EN |We really started from scratch |
-|   [04:58](https://youtu.be/VZlg9eeFgiw?t=4m58s)| TOC| Die Last der Diplomarbeit|
 |   [04:58](https://youtu.be/VZlg9eeFgiw?t=4m58s)| SAYING| Ich habe “drei Kreuze” gemacht|
  ||EN |I made three crosses |
+|   [04:58](https://youtu.be/VZlg9eeFgiw?t=4m58s)| TOC| Die Last der Diplomarbeit|
 |   [05:01](https://youtu.be/VZlg9eeFgiw?t=5m1s)| SAYING| Das Thema hinter sich bringen|
  ||EN |To get the issue over with |
 |   [05:04](https://youtu.be/VZlg9eeFgiw?t=5m4s)| DIALECT| Folge-Sieben-Monate|
@@ -295,18 +296,18 @@
 |   [22:51](https://youtu.be/VZlg9eeFgiw?t=22m51s)| WORD| G-Code|
  ||LINK |[https://en.wikipedia.org/wiki/G-code](https://en.wikipedia.org/wiki/G-code) |
  ||EN |G-code |
+|   [23:10](https://youtu.be/VZlg9eeFgiw?t=23m10s)| TOC| Theorie, dass gehärtete Stahlstifte die Edelstahlbleche beschädigen könnten|
 |   [23:10](https://youtu.be/VZlg9eeFgiw?t=23m10s)| WORD| Gehärteter Stahl:|
  ||LINK |[https://de.wikipedia.org/wiki/H%C3%A4rten_(Eisenwerkstoff)](https://de.wikipedia.org/wiki/H%C3%A4rten_(Eisenwerkstoff)) |
  ||EN |Hardened steel |
-|   [23:10](https://youtu.be/VZlg9eeFgiw?t=23m10s)| TOC| Theorie, dass gehärtete Stahlstifte die Edelstahlbleche beschädigen könnten|
 |   [23:11](https://youtu.be/VZlg9eeFgiw?t=23m11s)| WORD| Edelstahl|
  ||LINK |[https://de.wikipedia.org/wiki/Edelstahl](https://de.wikipedia.org/wiki/Edelstahl) |
  ||EN |Stainless steel |
 |   [23:19](https://youtu.be/VZlg9eeFgiw?t=23m19s)| WORD| Schaltblech|
  ||EN |Switch plate |
 |   [24:07](https://youtu.be/VZlg9eeFgiw?t=24m7s)| TOC| Transport der Maschine ins Museum für Verkehr und Technik|
-|   [24:32](https://youtu.be/VZlg9eeFgiw?t=24m32s)| CLAIM| DIETMAR und USCHI haben am 1. März 89 mit dem Job angefangen|
 |   [24:32](https://youtu.be/VZlg9eeFgiw?t=24m32s)| CLAIM| Im Februar 89 aufgehört mit der Arbeit|
+|   [24:32](https://youtu.be/VZlg9eeFgiw?t=24m32s)| CLAIM| DIETMAR und USCHI haben am 1. März 89 mit dem Job angefangen|
 |   [24:49](https://youtu.be/VZlg9eeFgiw?t=24m49s)| CLAIM| Am 14.9.1989 Einweihung (11 Uhr)|
 |   [24:54](https://youtu.be/VZlg9eeFgiw?t=24m54s)| CLAIM| Bildungsminister Riesenhuber war anwesend|
 |   [25:10](https://youtu.be/VZlg9eeFgiw?t=25m10s)| CLAIM| Das Atelier war auf der anderen Seite|
@@ -322,9 +323,9 @@
  ||INFO |RAUL: Im Buch? |
 |   [28:21](https://youtu.be/VZlg9eeFgiw?t=28m21s)| CLAIM| Der Nachbau hat immer richtig / nie falsch gerechnet|
 |   [28:26](https://youtu.be/VZlg9eeFgiw?t=28m26s)| TOC| Aussage: Wenn die Z1 durchlief und hat ein Ergebnis geliefert, war das Ergebnis nie falsch|
+|   [28:32](https://youtu.be/VZlg9eeFgiw?t=28m32s)| CLAIM| Fest eingebaute Subtraktion im Leitwerk|
 |   [28:32](https://youtu.be/VZlg9eeFgiw?t=28m32s)| WORD| Leitwerk|
  ||EN |Control unit?? |
-|   [28:32](https://youtu.be/VZlg9eeFgiw?t=28m32s)| CLAIM| Fest eingebaute Subtraktion im Leitwerk|
 |   [29:04](https://youtu.be/VZlg9eeFgiw?t=29m4s)| CLAIM| Die Maschine hat im Grund genommen funktioninert!|
 |   [29:11](https://youtu.be/VZlg9eeFgiw?t=29m11s)| TOC| Mühsames Reparieren von Verbiegungen|
 |   [29:19](https://youtu.be/VZlg9eeFgiw?t=29m19s)| CLAIM| Die Maschine ist am besten mit zwei Personen zu bedienen. Einer kurbelt, einer bedient.|
@@ -332,9 +333,9 @@
 |   [30:22](https://youtu.be/VZlg9eeFgiw?t=30m22s)| WORD| Distanzhülse|
  ||LINK |[https://de.wikipedia.org/wiki/Distanzring](https://de.wikipedia.org/wiki/Distanzring) |
  ||EN |Spacing sleeve |
+|   [30:28](https://youtu.be/VZlg9eeFgiw?t=30m28s)| CLAIM| Drei Fehlerarten: Impulsfehler, Überlegungsfehler (Logik), Schiebefehler|
 |   [30:28](https://youtu.be/VZlg9eeFgiw?t=30m28s)| WORD| Impulsfehler (Definition Dietmar)|
  ||EN |Pulse error |
-|   [30:28](https://youtu.be/VZlg9eeFgiw?t=30m28s)| CLAIM| Drei Fehlerarten: Impulsfehler, Überlegungsfehler (Logik), Schiebefehler|
 |   [30:36](https://youtu.be/VZlg9eeFgiw?t=30m36s)| WORD| Elastische Verformung|
  ||LINK |[ttps://de.wikipedia.org/wiki/Verformung#Reversible_elastische_Verformung](ttps://de.wikipedia.org/wiki/Verformung#Reversible_elastische_Verformung) |
  ||EN |Elastic deformation |
@@ -358,11 +359,11 @@
  ||EN |Logic circuit |
 |   [32:38](https://youtu.be/VZlg9eeFgiw?t=32m38s)| WORD| Schaltplan (Definition Dietmar)|
  ||EN |Circuit diagram |
-|   [33:02](https://youtu.be/VZlg9eeFgiw?t=33m2s)| WORD| CAD-Blech (Definition Dietmar)|
- ||EN |CAD sheet |
 |   [33:02](https://youtu.be/VZlg9eeFgiw?t=33m2s)| WORD| CAD|
  ||LINK |[https://de.wikipedia.org/wiki/Computerized_Numerical_Control](https://de.wikipedia.org/wiki/Computerized_Numerical_Control) |
  ||EN |CAD |
+|   [33:02](https://youtu.be/VZlg9eeFgiw?t=33m2s)| WORD| CAD-Blech (Definition Dietmar)|
+ ||EN |CAD sheet |
 |   [33:19](https://youtu.be/VZlg9eeFgiw?t=33m19s)| WORD| Drahterodierprogramm|
  ||LINK |[33:46](https://youtu.be/VZlg9eeFgiw?t=33m46s) |
  ||LINK |[https://de.wikipedia.org/wiki/Drahterodieren](https://de.wikipedia.org/wiki/Drahterodieren) |
@@ -432,12 +433,12 @@
  ||EN |Adhesion force |
 |   [43:35](https://youtu.be/VZlg9eeFgiw?t=43m35s)| TOC| Dietmar repariert die Z1 einmal in Berlin|
 |   [43:36](https://youtu.be/VZlg9eeFgiw?t=43m36s)| CLAIM| DIEMTAR hat einmal in Berlin die Maschine erfolgreich repariert|
-|   [43:46](https://youtu.be/VZlg9eeFgiw?t=43m46s)| WORD| Gleitmittel|
- ||LINK |[https://de.wikipedia.org/wiki/Gleitmittel](https://de.wikipedia.org/wiki/Gleitmittel) |
- ||EN |Lubricant |
 |   [43:46](https://youtu.be/VZlg9eeFgiw?t=43m46s)| WORD| Teflonspray|
  ||LINK |[https://de.wikipedia.org/wiki/Polytetrafluorethylen](https://de.wikipedia.org/wiki/Polytetrafluorethylen) |
  ||EN |Teflon spray |
+|   [43:46](https://youtu.be/VZlg9eeFgiw?t=43m46s)| WORD| Gleitmittel|
+ ||LINK |[https://de.wikipedia.org/wiki/Gleitmittel](https://de.wikipedia.org/wiki/Gleitmittel) |
+ ||EN |Lubricant |
 |   [44:11](https://youtu.be/VZlg9eeFgiw?t=44m11s)| WORD| Nee!|
  ||EN |Nah! |
 |   [44:11](https://youtu.be/VZlg9eeFgiw?t=44m11s)| DIALECT| Klassischer Hänger|
@@ -446,9 +447,9 @@
  ||EN |Job |
 |   [44:55](https://youtu.be/VZlg9eeFgiw?t=44m55s)| SAYING| Bei aller Liebe|
  ||EN |By any stretch of the imagination |
-|   [45:09](https://youtu.be/VZlg9eeFgiw?t=45m9s)| TOC| Wie bekommen wir die Z1 wieder ans Laufen?|
 |   [45:09](https://youtu.be/VZlg9eeFgiw?t=45m9s)| DIALECT| Es ist jetzt “sauschwehr”|
  ||EN |It's now super hard |
+|   [45:09](https://youtu.be/VZlg9eeFgiw?t=45m9s)| TOC| Wie bekommen wir die Z1 wieder ans Laufen?|
 |   [45:26](https://youtu.be/VZlg9eeFgiw?t=45m26s)| WORD| Schub|
  ||EN |Movement |
 |   [45:29](https://youtu.be/VZlg9eeFgiw?t=45m29s)| WORD| Schubstange|
