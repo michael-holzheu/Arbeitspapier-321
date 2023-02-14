@@ -1,6 +1,8 @@
 # Arbeitspapier 321
 
-Informationen zum Interview mit Dietmar Saupe.
+Informationen zum Interview mit Dietmar Saupe:
+
+[![Arbeitspapier 321](https://github.com/michael-holzheu/Arbeitspapier-321/raw/main/Pictures/Arbeitspapier-321-4-3.jpg)](https://youtu.be/VZlg9eeFgiw)
 
 ## Projekt Inhalt
 
