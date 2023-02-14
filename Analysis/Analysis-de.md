@@ -307,7 +307,7 @@
 | **[23:19](https://youtu.be/VZlg9eeFgiw?t=23m19s)**| **WORD**| **Schaltblech**|
  ||EN |Switch plate |
 | **[24:07](https://youtu.be/VZlg9eeFgiw?t=24m7s)**| **TOC**| **Transport der Maschine ins Museum für Verkehr und Technik**|
-| **[24:32](https://youtu.be/VZlg9eeFgiw?t=24m32s)**| **CLAIM**| **Im Februar 89 aufgehört mit der Arbeit**|
+| **[24:32](https://youtu.be/VZlg9eeFgiw?t=24m32s)**| **CLAIM**| **Im Februar 1989 aufgehört mit der Arbeit**|
 | **[24:32](https://youtu.be/VZlg9eeFgiw?t=24m32s)**| **CLAIM**| **DIETMAR und USCHI haben am 1. März 89 mit dem Job angefangen**|
 | **[24:49](https://youtu.be/VZlg9eeFgiw?t=24m49s)**| **CLAIM**| **Am 14.9.1989 Einweihung (11 Uhr)**|
 | **[24:54](https://youtu.be/VZlg9eeFgiw?t=24m54s)**| **CLAIM**| **Bildungsminister Riesenhuber war anwesend**|

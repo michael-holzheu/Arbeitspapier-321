@@ -335,7 +335,7 @@ Log
 23:19 WORD      Schaltblech
                 EN: Switch plate
 24:07 TOC       Transport der Maschine ins Museum für Verkehr und Technik
-24:32 CLAIM     Im Februar 89 aufgehört mit der Arbeit
+24:32 CLAIM     Im Februar 1989 aufgehört mit der Arbeit
 24:32 CLAIM     DIETMAR und USCHI haben am 1. März 89 mit dem Job angefangen
 24:49 CLAIM     Am 14.9.1989 Einweihung (11 Uhr)
 24:54 CLAIM     Bildungsminister Riesenhuber war anwesend
