@@ -1,140 +1,5 @@
 |Time|Type|Description|
 |----------|:-------------|:------|
-| **[00:51](https://youtu.be/VZlg9eeFgiw?t=0m51s)**| **WORD**| **Programmstreifen**|
- ||LINK |[https://de.wikipedia.org/wiki/Lochstreifen](https://de.wikipedia.org/wiki/Lochstreifen) |
- ||EN |Punched Tape |
- ||HI |छिद्रित टेप |
-| **[00:54](https://youtu.be/VZlg9eeFgiw?t=0m54s)**| **WORD**| **Lochstreifenleser**|
- ||LINK |[https://de.wikipedia.org/wiki/Lochstreifen](https://de.wikipedia.org/wiki/Lochstreifen) |
- ||EN |Paper Tape Reader |
-| **[01:02](https://youtu.be/VZlg9eeFgiw?t=1m2s)**| **TOC**| **Warum Diplomarbeit zu zweit?**|
-| **[01:33](https://youtu.be/VZlg9eeFgiw?t=1m33s)**| **WORD**| **Laboringenieur**|
- ||LINK |[https://www.uni-bielefeld.de/themen/career-service/job-shadowing/angebote/Job-Shadowing_HARTING_Laboringenieur.pdf](https://www.uni-bielefeld.de/themen/career-service/job-shadowing/angebote/Job-Shadowing_HARTING_Laboringenieur.pdf) |
- ||EN |Lab Engineer |
-| **[01:37](https://youtu.be/VZlg9eeFgiw?t=1m37s)**| **DIALECT**| **Wenn du mal einen “Hänger” hast**|
- ||LINK |[https://www.openthesaurus.de/synonyme/%28einen%29%20H%C3%A4nger%20haben](https://www.openthesaurus.de/synonyme/%28einen%29%20H%C3%A4nger%20haben) |
-| **[01:39](https://youtu.be/VZlg9eeFgiw?t=1m39s)**| **DIALECT**| **Der andere kann einem kurz einen “Arschtritt” geben**|
- ||LINK |[https://www.openthesaurus.de/synonyme/edit/40021](https://www.openthesaurus.de/synonyme/edit/40021) |
-| **[01:54](https://youtu.be/VZlg9eeFgiw?t=1m54s)**| **TOC**| **Prof. Dr. Wolfgang Harth schlägt Diplomarbeit vor**|
-| **[02:01](https://youtu.be/VZlg9eeFgiw?t=2m1s)**| **WORD**| **Background**|
- ||EN |Background |
-| **[02:25](https://youtu.be/VZlg9eeFgiw?t=2m25s)**| **TOC**| **Termin bei Dr. Schäfer von der GMD**|
-| **[03:03](https://youtu.be/VZlg9eeFgiw?t=3m3s)**| **DIALECT**| **Uns ein “Bonbon” mitgegeben**|
-| **[03:48](https://youtu.be/VZlg9eeFgiw?t=3m48s)**| **DIALECT**| **Also ich habe nur Bahnhof verstanden**|
- ||LINK |[https://de.pons.com/%C3%BCbersetzung/deutsch-englisch/ich+verstehe+nur+Bahnhof](https://de.pons.com/%C3%BCbersetzung/deutsch-englisch/ich+verstehe+nur+Bahnhof) |
- ||EN |It’s was all Greek to me |
-| **[03:52](https://youtu.be/VZlg9eeFgiw?t=3m52s)**| **WORD**| **Duales System**|
- ||LINK |[https://de.wikipedia.org/wiki/Dualsystem](https://de.wikipedia.org/wiki/Dualsystem) |
- ||EN |Binary system |
- ||JA |二進法 |
- ||RO |Sistem binar |
-| **[04:20](https://youtu.be/VZlg9eeFgiw?t=4m20s)**| **DIALECT**| **Wir waren ja “blank”**|
- ||EN |We did not have anything. |
-| **[04:20](https://youtu.be/VZlg9eeFgiw?t=4m20s)**| **TOC**| **Unterlagen in "Zuse-Steno"**|
-| **[04:25](https://youtu.be/VZlg9eeFgiw?t=4m25s)**| **WORD**| **Steno**|
- ||LINK |[https://de.wikipedia.org/wiki/Stenografie](https://de.wikipedia.org/wiki/Stenografie) |
- ||EN |Shorthand |
-| **[04:36](https://youtu.be/VZlg9eeFgiw?t=4m36s)**| **CLAIM**| **Zuse hat eigenes (besseres?) Steno erfunden**|
-| **[04:42](https://youtu.be/VZlg9eeFgiw?t=4m42s)**| **WORD**| **Syntax**|
- ||LINK |[31:51](https://youtu.be/VZlg9eeFgiw?t=31m51s) |
- ||LINK |[https://de.wikipedia.org/wiki/Syntax](https://de.wikipedia.org/wiki/Syntax) |
- ||EN |Syntax |
-| **[04:44](https://youtu.be/VZlg9eeFgiw?t=4m44s)**| **DIALECT**| **War für uns natürlich tot**|
- ||EN |For us that was “Game over!” |
-| **[04:49](https://youtu.be/VZlg9eeFgiw?t=4m49s)**| **SAYING**| **Wir haben wirklich bei “Null” angefangen**|
- ||EN |We really started from scratch |
-| **[04:58](https://youtu.be/VZlg9eeFgiw?t=4m58s)**| **SAYING**| **Ich habe “drei Kreuze” gemacht**|
- ||EN |I made three crosses |
-| **[04:58](https://youtu.be/VZlg9eeFgiw?t=4m58s)**| **TOC**| **Die Last der Diplomarbeit**|
-| **[05:01](https://youtu.be/VZlg9eeFgiw?t=5m1s)**| **SAYING**| **Das Thema hinter sich bringen**|
- ||EN |To get the issue over with |
-| **[05:04](https://youtu.be/VZlg9eeFgiw?t=5m4s)**| **DIALECT**| **Folge-Sieben-Monate**|
- ||DE |Die folgenden sieben Monate |
- ||EN |And then the following seven months later |
-| **[05:19](https://youtu.be/VZlg9eeFgiw?t=5m19s)**| **DIALECT**| **In der “Bude” gehockt**|
- ||EN |Sat in the digs |
-| **[05:24](https://youtu.be/VZlg9eeFgiw?t=5m24s)**| **DIALECT**| **Am nächsten Morgen wieder “losgerammelt”**|
- ||EN |And the next morning we started early again |
-| **[05:31](https://youtu.be/VZlg9eeFgiw?t=5m31s)**| **TOC**| **Konrad Zuse war mit 78 immer noch geistig fit**|
-| **[05:39](https://youtu.be/VZlg9eeFgiw?t=5m39s)**| **SAYING**| **Kein Hauch von Demenz**|
- ||EN |Not a hint of dementia |
-| **[05:41](https://youtu.be/VZlg9eeFgiw?t=5m41s)**| **WORD**| **Demenz**|
- ||LINK |[https://de.wikipedia.org/wiki/Demenz](https://de.wikipedia.org/wiki/Demenz) |
- ||EN |Dementia |
-| **[05:47](https://youtu.be/VZlg9eeFgiw?t=5m47s)**| **TOC**| **Unterbringung im Gästehaus Hünfeld**|
-| **[05:53](https://youtu.be/VZlg9eeFgiw?t=5m53s)**| **WORD**| **Ehrenbürger**|
- ||LINK |[https://de.wikipedia.org/wiki/Ehrenb%C3%BCrger](https://de.wikipedia.org/wiki/Ehrenb%C3%BCrger) |
- ||EN |Honorary citizen |
-| **[06:26](https://youtu.be/VZlg9eeFgiw?t=6m26s)**| **WORD**| **BAföG**|
- ||LINK |[https://de.wikipedia.org/wiki/Bundesausbildungsf%C3%B6rderungsgesetz](https://de.wikipedia.org/wiki/Bundesausbildungsf%C3%B6rderungsgesetz) |
- ||EN |BAföG |
-| **[06:28](https://youtu.be/VZlg9eeFgiw?t=6m28s)**| **WORD**| **Kommilitonen**|
- ||LINK |[https://de.wikipedia.org/wiki/Kommilitone](https://de.wikipedia.org/wiki/Kommilitone) |
- ||EN |Fellow students |
-| **[06:37](https://youtu.be/VZlg9eeFgiw?t=6m37s)**| **TOC**| **Finanzielle Vergütung der Diplomarbeit**|
-| **[06:45](https://youtu.be/VZlg9eeFgiw?t=6m45s)**| **SAYING**| **Give me five!**|
- ||EN |Give me five! |
-| **[06:45](https://youtu.be/VZlg9eeFgiw?t=6m45s)**| **WORD**| **D-Mark**|
- ||LINK |[https://de.wikipedia.org/wiki/Deutsche_Mark](https://de.wikipedia.org/wiki/Deutsche_Mark) |
- ||EN |D-Mark |
-| **[06:49](https://youtu.be/VZlg9eeFgiw?t=6m49s)**| **TOC**| **Das Kuratorium Z1-Nachbau: GMD, Siemens, Museum für Verkehr und Technik**|
-| **[06:51](https://youtu.be/VZlg9eeFgiw?t=6m51s)**| **WORD**| **Kuratorium**|
- ||LINK |[08:58](https://youtu.be/VZlg9eeFgiw?t=8m58s) |
- ||LINK |[18:05](https://youtu.be/VZlg9eeFgiw?t=18m5s) |
- ||LINK |[https://de.wikipedia.org/wiki/Kuratorium](https://de.wikipedia.org/wiki/Kuratorium) |
- ||EN |Curatorship |
-| **[07:23](https://youtu.be/VZlg9eeFgiw?t=7m23s)**| **TOC**| **GMD: Prof. Schäfer**|
-| **[07:29](https://youtu.be/VZlg9eeFgiw?t=7m29s)**| **TOC**| **Siemens: Werksleiter und Facharbeiter Herr Reinhard Ernst**|
-| **[07:30](https://youtu.be/VZlg9eeFgiw?t=7m30s)**| **SAYING**| **Und wir waren dort vor Ort**|
- ||EN |And then were on site |
-| **[07:32](https://youtu.be/VZlg9eeFgiw?t=7m32s)**| **WORD**| **Antrittsbesuch**|
- ||LINK |[https://de.wiktionary.org/wiki/Antrittsbesuch](https://de.wiktionary.org/wiki/Antrittsbesuch) |
- ||EN |Inaugural visit |
-| **[07:35](https://youtu.be/VZlg9eeFgiw?t=7m35s)**| **WORD**| **Werksleiter**|
- ||EN |Plant manager |
-| **[07:41](https://youtu.be/VZlg9eeFgiw?t=7m41s)**| **WORD**| **Facharbeiter**|
- ||LINK |[17:50](https://youtu.be/VZlg9eeFgiw?t=17m50s) |
- ||LINK |[https://de.wikipedia.org/wiki/Facharbeiter](https://de.wikipedia.org/wiki/Facharbeiter) |
- ||EN |Skilled worker |
-| **[07:47](https://youtu.be/VZlg9eeFgiw?t=7m47s)**| **WORD**| **Bleche**|
- ||LINK |[https://de.wikipedia.org/wiki/Blech](https://de.wikipedia.org/wiki/Blech) |
- ||EN |Metal sheets |
-| **[08:00](https://youtu.be/VZlg9eeFgiw?t=8m0s)**| **TOC**| **Museum: Prof. Günther Gottmann**|
-| **[08:10](https://youtu.be/VZlg9eeFgiw?t=8m10s)**| **SAYING**| **Wenn es soweit ist**|
- ||EN |When the time comes |
-| **[08:14](https://youtu.be/VZlg9eeFgiw?t=8m14s)**| **WORD**| **Einweihung**|
- ||EN |Inauguration |
-| **[08:18](https://youtu.be/VZlg9eeFgiw?t=8m18s)**| **SAYING**| **Hat er uns alles schon schmackhaft gemacht!**|
- ||EN |Has he already made everything palatable for us! |
-| **[08:22](https://youtu.be/VZlg9eeFgiw?t=8m22s)**| **TOC**| **Vorarbeiten an der Z1 bis zur Diplomarbeit**|
-| **[08:29](https://youtu.be/VZlg9eeFgiw?t=8m29s)**| **WORD**| **Vorlauf**|
- ||EN |Lead time |
-| **[08:43](https://youtu.be/VZlg9eeFgiw?t=8m43s)**| **SAYING**| **Ach was?**|
- ||EN |Ah what? |
-| **[08:43](https://youtu.be/VZlg9eeFgiw?t=8m43s)**| **WORD**| **Gerüst**|
- ||EN |Scaffolding |
-| **[08:46](https://youtu.be/VZlg9eeFgiw?t=8m46s)**| **SAYING**| **Die war nicht bei Null!**|
- ||EN |It wasn't at zero! |
-| **[08:55](https://youtu.be/VZlg9eeFgiw?t=8m55s)**| **SAYING**| **Arbeit leisten**|
- ||EN |Carry out work |
-| **[09:01](https://youtu.be/VZlg9eeFgiw?t=9m1s)**| **SAYING**| **Die Idee war geboren**|
- ||EN |The idea was born |
-| **[09:06](https://youtu.be/VZlg9eeFgiw?t=9m6s)**| **SAYING**| **Das war so der Sinn dahinter**|
- ||EN |That was the meaning behind it |
-| **[09:15](https://youtu.be/VZlg9eeFgiw?t=9m15s)**| **WORD**| **Atelier**|
- ||EN |Studio |
-| **[09:24](https://youtu.be/VZlg9eeFgiw?t=9m24s)**| **WORD**| **Rechner**|
- ||EN |Computer |
- ||EN |Calculating machine |
-| **[09:39](https://youtu.be/VZlg9eeFgiw?t=9m39s)**| **TOC**| **Z1 Speichermodell vom Deutschen Museum**|
-| **[09:55](https://youtu.be/VZlg9eeFgiw?t=9m55s)**| **WORD**| **Vorarbeit**|
- ||EN |Preparatory work |
-| **[10:06](https://youtu.be/VZlg9eeFgiw?t=10m6s)**| **TOC**| **Der Motor war (fast) nie in Betrieb**|
-| **[10:22](https://youtu.be/VZlg9eeFgiw?t=10m22s)**| **WORD**| **Hoppla!**|
- ||EN |Oops! |
-| **[10:28](https://youtu.be/VZlg9eeFgiw?t=10m28s)**| **WORD**| **Rutschkupplung**|
- ||LINK |[https://de.wikipedia.org/wiki/Rutschkupplung](https://de.wikipedia.org/wiki/Rutschkupplung) |
- ||EN |Torque limiter |
 | **[10:41](https://youtu.be/VZlg9eeFgiw?t=10m41s)**| **WORD**| **Maschinenbau-Drehstrommotor**|
  ||LINK |[ttps://de.wikipedia.org/wiki/Drehstrommaschine](ttps://de.wikipedia.org/wiki/Drehstrommaschine) |
  ||EN |Mechanical engineering three-phase motor |
@@ -338,7 +203,7 @@
 | **[30:28](https://youtu.be/VZlg9eeFgiw?t=30m28s)**| **WORD**| **Impulsfehler (Definition Dietmar)**|
  ||EN |Pulse error |
 | **[30:36](https://youtu.be/VZlg9eeFgiw?t=30m36s)**| **WORD**| **Elastische Verformung**|
- ||LINK |[ttps://de.wikipedia.org/wiki/Verformung#Reversible_elastische_Verformung](ttps://de.wikipedia.org/wiki/Verformung#Reversible_elastische_Verformung) |
+ ||LINK |[https://de.wikipedia.org/wiki/Verformung#Reversible_elastische_Verformung](https://de.wikipedia.org/wiki/Verformung#Reversible_elastische_Verformung) |
  ||EN |Elastic deformation |
 | **[30:37](https://youtu.be/VZlg9eeFgiw?t=30m37s)**| **WORD**| **Plastische Verformung**|
  ||LINK |[https://de.wikipedia.org/wiki/Verformung#Irreversible_plastische_Verformung](https://de.wikipedia.org/wiki/Verformung#Irreversible_plastische_Verformung) |
@@ -508,3 +373,138 @@
  ||EN |Bot |
 | **[58:10](https://youtu.be/VZlg9eeFgiw?t=58m10s)**| **WORD**| **Hacker Programm**|
  ||LINK |[https://de.wikipedia.org/wiki/Hacker](https://de.wikipedia.org/wiki/Hacker) |
+| **[00:51](https://youtu.be/VZlg9eeFgiw?t=0m51s)**| **WORD**| **Programmstreifen**|
+ ||LINK |[https://de.wikipedia.org/wiki/Lochstreifen](https://de.wikipedia.org/wiki/Lochstreifen) |
+ ||EN |Punched Tape |
+ ||HI |छिद्रित टेप |
+| **[00:54](https://youtu.be/VZlg9eeFgiw?t=0m54s)**| **WORD**| **Lochstreifenleser**|
+ ||LINK |[https://de.wikipedia.org/wiki/Lochstreifen](https://de.wikipedia.org/wiki/Lochstreifen) |
+ ||EN |Paper Tape Reader |
+| **[01:02](https://youtu.be/VZlg9eeFgiw?t=1m2s)**| **TOC**| **Warum Diplomarbeit zu zweit?**|
+| **[01:33](https://youtu.be/VZlg9eeFgiw?t=1m33s)**| **WORD**| **Laboringenieur**|
+ ||LINK |[https://www.uni-bielefeld.de/themen/career-service/job-shadowing/angebote/Job-Shadowing_HARTING_Laboringenieur.pdf](https://www.uni-bielefeld.de/themen/career-service/job-shadowing/angebote/Job-Shadowing_HARTING_Laboringenieur.pdf) |
+ ||EN |Lab Engineer |
+| **[01:37](https://youtu.be/VZlg9eeFgiw?t=1m37s)**| **DIALECT**| **Wenn du mal einen “Hänger” hast**|
+ ||LINK |[https://www.openthesaurus.de/synonyme/%28einen%29%20H%C3%A4nger%20haben](https://www.openthesaurus.de/synonyme/%28einen%29%20H%C3%A4nger%20haben) |
+| **[01:39](https://youtu.be/VZlg9eeFgiw?t=1m39s)**| **DIALECT**| **Der andere kann einem kurz einen “Arschtritt” geben**|
+ ||LINK |[https://www.openthesaurus.de/synonyme/edit/40021](https://www.openthesaurus.de/synonyme/edit/40021) |
+| **[01:54](https://youtu.be/VZlg9eeFgiw?t=1m54s)**| **TOC**| **Prof. Dr. Wolfgang Harth schlägt Diplomarbeit vor**|
+| **[02:01](https://youtu.be/VZlg9eeFgiw?t=2m1s)**| **WORD**| **Background**|
+ ||EN |Background |
+| **[02:25](https://youtu.be/VZlg9eeFgiw?t=2m25s)**| **TOC**| **Termin bei Dr. Schäfer von der GMD**|
+| **[03:03](https://youtu.be/VZlg9eeFgiw?t=3m3s)**| **DIALECT**| **Uns ein “Bonbon” mitgegeben**|
+| **[03:48](https://youtu.be/VZlg9eeFgiw?t=3m48s)**| **DIALECT**| **Also ich habe nur Bahnhof verstanden**|
+ ||LINK |[https://de.pons.com/%C3%BCbersetzung/deutsch-englisch/ich+verstehe+nur+Bahnhof](https://de.pons.com/%C3%BCbersetzung/deutsch-englisch/ich+verstehe+nur+Bahnhof) |
+ ||EN |It’s was all Greek to me |
+| **[03:52](https://youtu.be/VZlg9eeFgiw?t=3m52s)**| **WORD**| **Duales System**|
+ ||LINK |[https://de.wikipedia.org/wiki/Dualsystem](https://de.wikipedia.org/wiki/Dualsystem) |
+ ||EN |Binary system |
+ ||JA |二進法 |
+ ||RO |Sistem binar |
+| **[04:20](https://youtu.be/VZlg9eeFgiw?t=4m20s)**| **DIALECT**| **Wir waren ja “blank”**|
+ ||EN |We did not have anything. |
+| **[04:20](https://youtu.be/VZlg9eeFgiw?t=4m20s)**| **TOC**| **Unterlagen in "Zuse-Steno"**|
+| **[04:25](https://youtu.be/VZlg9eeFgiw?t=4m25s)**| **WORD**| **Steno**|
+ ||LINK |[https://de.wikipedia.org/wiki/Stenografie](https://de.wikipedia.org/wiki/Stenografie) |
+ ||EN |Shorthand |
+| **[04:36](https://youtu.be/VZlg9eeFgiw?t=4m36s)**| **CLAIM**| **Zuse hat eigenes (besseres?) Steno erfunden**|
+| **[04:42](https://youtu.be/VZlg9eeFgiw?t=4m42s)**| **WORD**| **Syntax**|
+ ||LINK |[31:51](https://youtu.be/VZlg9eeFgiw?t=31m51s) |
+ ||LINK |[https://de.wikipedia.org/wiki/Syntax](https://de.wikipedia.org/wiki/Syntax) |
+ ||EN |Syntax |
+| **[04:44](https://youtu.be/VZlg9eeFgiw?t=4m44s)**| **DIALECT**| **War für uns natürlich tot**|
+ ||EN |For us that was “Game over!” |
+| **[04:49](https://youtu.be/VZlg9eeFgiw?t=4m49s)**| **SAYING**| **Wir haben wirklich bei “Null” angefangen**|
+ ||EN |We really started from scratch |
+| **[04:58](https://youtu.be/VZlg9eeFgiw?t=4m58s)**| **SAYING**| **Ich habe “drei Kreuze” gemacht**|
+ ||EN |I made three crosses |
+| **[04:58](https://youtu.be/VZlg9eeFgiw?t=4m58s)**| **TOC**| **Die Last der Diplomarbeit**|
+| **[05:01](https://youtu.be/VZlg9eeFgiw?t=5m1s)**| **SAYING**| **Das Thema hinter sich bringen**|
+ ||EN |To get the issue over with |
+| **[05:04](https://youtu.be/VZlg9eeFgiw?t=5m4s)**| **DIALECT**| **Folge-Sieben-Monate**|
+ ||DE |Die folgenden sieben Monate |
+ ||EN |And then the following seven months later |
+| **[05:19](https://youtu.be/VZlg9eeFgiw?t=5m19s)**| **DIALECT**| **In der “Bude” gehockt**|
+ ||EN |Sat in the digs |
+| **[05:24](https://youtu.be/VZlg9eeFgiw?t=5m24s)**| **DIALECT**| **Am nächsten Morgen wieder “losgerammelt”**|
+ ||EN |And the next morning we started early again |
+| **[05:31](https://youtu.be/VZlg9eeFgiw?t=5m31s)**| **TOC**| **Konrad Zuse war mit 78 immer noch geistig fit**|
+| **[05:39](https://youtu.be/VZlg9eeFgiw?t=5m39s)**| **SAYING**| **Kein Hauch von Demenz**|
+ ||EN |Not a hint of dementia |
+| **[05:41](https://youtu.be/VZlg9eeFgiw?t=5m41s)**| **WORD**| **Demenz**|
+ ||LINK |[https://de.wikipedia.org/wiki/Demenz](https://de.wikipedia.org/wiki/Demenz) |
+ ||EN |Dementia |
+| **[05:47](https://youtu.be/VZlg9eeFgiw?t=5m47s)**| **TOC**| **Unterbringung im Gästehaus Hünfeld**|
+| **[05:53](https://youtu.be/VZlg9eeFgiw?t=5m53s)**| **WORD**| **Ehrenbürger**|
+ ||LINK |[https://de.wikipedia.org/wiki/Ehrenb%C3%BCrger](https://de.wikipedia.org/wiki/Ehrenb%C3%BCrger) |
+ ||EN |Honorary citizen |
+| **[06:26](https://youtu.be/VZlg9eeFgiw?t=6m26s)**| **WORD**| **BAföG**|
+ ||LINK |[https://de.wikipedia.org/wiki/Bundesausbildungsf%C3%B6rderungsgesetz](https://de.wikipedia.org/wiki/Bundesausbildungsf%C3%B6rderungsgesetz) |
+ ||EN |BAföG |
+| **[06:28](https://youtu.be/VZlg9eeFgiw?t=6m28s)**| **WORD**| **Kommilitonen**|
+ ||LINK |[https://de.wikipedia.org/wiki/Kommilitone](https://de.wikipedia.org/wiki/Kommilitone) |
+ ||EN |Fellow students |
+| **[06:37](https://youtu.be/VZlg9eeFgiw?t=6m37s)**| **TOC**| **Finanzielle Vergütung der Diplomarbeit**|
+| **[06:45](https://youtu.be/VZlg9eeFgiw?t=6m45s)**| **SAYING**| **Give me five!**|
+ ||EN |Give me five! |
+| **[06:45](https://youtu.be/VZlg9eeFgiw?t=6m45s)**| **WORD**| **D-Mark**|
+ ||LINK |[https://de.wikipedia.org/wiki/Deutsche_Mark](https://de.wikipedia.org/wiki/Deutsche_Mark) |
+ ||EN |D-Mark |
+| **[06:49](https://youtu.be/VZlg9eeFgiw?t=6m49s)**| **TOC**| **Das Kuratorium Z1-Nachbau: GMD, Siemens, Museum für Verkehr und Technik**|
+| **[06:51](https://youtu.be/VZlg9eeFgiw?t=6m51s)**| **WORD**| **Kuratorium**|
+ ||LINK |[08:58](https://youtu.be/VZlg9eeFgiw?t=8m58s) |
+ ||LINK |[18:05](https://youtu.be/VZlg9eeFgiw?t=18m5s) |
+ ||LINK |[https://de.wikipedia.org/wiki/Kuratorium](https://de.wikipedia.org/wiki/Kuratorium) |
+ ||EN |Curatorship |
+| **[07:23](https://youtu.be/VZlg9eeFgiw?t=7m23s)**| **TOC**| **GMD: Prof. Schäfer**|
+| **[07:29](https://youtu.be/VZlg9eeFgiw?t=7m29s)**| **TOC**| **Siemens: Werksleiter und Facharbeiter Herr Reinhard Ernst**|
+| **[07:30](https://youtu.be/VZlg9eeFgiw?t=7m30s)**| **SAYING**| **Und wir waren dort vor Ort**|
+ ||EN |And then were on site |
+| **[07:32](https://youtu.be/VZlg9eeFgiw?t=7m32s)**| **WORD**| **Antrittsbesuch**|
+ ||LINK |[https://de.wiktionary.org/wiki/Antrittsbesuch](https://de.wiktionary.org/wiki/Antrittsbesuch) |
+ ||EN |Inaugural visit |
+| **[07:35](https://youtu.be/VZlg9eeFgiw?t=7m35s)**| **WORD**| **Werksleiter**|
+ ||EN |Plant manager |
+| **[07:41](https://youtu.be/VZlg9eeFgiw?t=7m41s)**| **WORD**| **Facharbeiter**|
+ ||LINK |[17:50](https://youtu.be/VZlg9eeFgiw?t=17m50s) |
+ ||LINK |[https://de.wikipedia.org/wiki/Facharbeiter](https://de.wikipedia.org/wiki/Facharbeiter) |
+ ||EN |Skilled worker |
+| **[07:47](https://youtu.be/VZlg9eeFgiw?t=7m47s)**| **WORD**| **Bleche**|
+ ||LINK |[https://de.wikipedia.org/wiki/Blech](https://de.wikipedia.org/wiki/Blech) |
+ ||EN |Metal sheets |
+| **[08:00](https://youtu.be/VZlg9eeFgiw?t=8m0s)**| **TOC**| **Museum: Prof. Günther Gottmann**|
+| **[08:10](https://youtu.be/VZlg9eeFgiw?t=8m10s)**| **SAYING**| **Wenn es soweit ist**|
+ ||EN |When the time comes |
+| **[08:14](https://youtu.be/VZlg9eeFgiw?t=8m14s)**| **WORD**| **Einweihung**|
+ ||EN |Inauguration |
+| **[08:18](https://youtu.be/VZlg9eeFgiw?t=8m18s)**| **SAYING**| **Hat er uns alles schon schmackhaft gemacht!**|
+ ||EN |Has he already made everything palatable for us! |
+| **[08:22](https://youtu.be/VZlg9eeFgiw?t=8m22s)**| **TOC**| **Vorarbeiten an der Z1 bis zur Diplomarbeit**|
+| **[08:29](https://youtu.be/VZlg9eeFgiw?t=8m29s)**| **WORD**| **Vorlauf**|
+ ||EN |Lead time |
+| **[08:43](https://youtu.be/VZlg9eeFgiw?t=8m43s)**| **SAYING**| **Ach was?**|
+ ||EN |Ah what? |
+| **[08:43](https://youtu.be/VZlg9eeFgiw?t=8m43s)**| **WORD**| **Gerüst**|
+ ||EN |Scaffolding |
+| **[08:46](https://youtu.be/VZlg9eeFgiw?t=8m46s)**| **SAYING**| **Die war nicht bei Null!**|
+ ||EN |It wasn't at zero! |
+| **[08:55](https://youtu.be/VZlg9eeFgiw?t=8m55s)**| **SAYING**| **Arbeit leisten**|
+ ||EN |Carry out work |
+| **[09:01](https://youtu.be/VZlg9eeFgiw?t=9m1s)**| **SAYING**| **Die Idee war geboren**|
+ ||EN |The idea was born |
+| **[09:06](https://youtu.be/VZlg9eeFgiw?t=9m6s)**| **SAYING**| **Das war so der Sinn dahinter**|
+ ||EN |That was the meaning behind it |
+| **[09:15](https://youtu.be/VZlg9eeFgiw?t=9m15s)**| **WORD**| **Atelier**|
+ ||EN |Studio |
+| **[09:24](https://youtu.be/VZlg9eeFgiw?t=9m24s)**| **WORD**| **Rechner**|
+ ||EN |Computer |
+ ||EN |Calculating machine |
+| **[09:39](https://youtu.be/VZlg9eeFgiw?t=9m39s)**| **TOC**| **Z1 Speichermodell vom Deutschen Museum**|
+| **[09:55](https://youtu.be/VZlg9eeFgiw?t=9m55s)**| **WORD**| **Vorarbeit**|
+ ||EN |Preparatory work |
+| **[10:06](https://youtu.be/VZlg9eeFgiw?t=10m6s)**| **TOC**| **Der Motor war (fast) nie in Betrieb**|
+| **[10:22](https://youtu.be/VZlg9eeFgiw?t=10m22s)**| **WORD**| **Hoppla!**|
+ ||EN |Oops! |
+| **[10:28](https://youtu.be/VZlg9eeFgiw?t=10m28s)**| **WORD**| **Rutschkupplung**|
+ ||LINK |[https://de.wikipedia.org/wiki/Rutschkupplung](https://de.wikipedia.org/wiki/Rutschkupplung) |
+ ||EN |Torque limiter |

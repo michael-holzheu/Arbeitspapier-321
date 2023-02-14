@@ -366,7 +366,7 @@ Log
 30:28 WORD      Impulsfehler (Definition Dietmar)
                 EN: Pulse error
 30:36 WORD      Elastische Verformung
-                LINK: ttps://de.wikipedia.org/wiki/Verformung#Reversible_elastische_Verformung
+                LINK: https://de.wikipedia.org/wiki/Verformung#Reversible_elastische_Verformung
                 EN: Elastic deformation
 30:37 WORD      Plastische Verformung
                 LINK: https://de.wikipedia.org/wiki/Verformung#Irreversible_plastische_Verformung
