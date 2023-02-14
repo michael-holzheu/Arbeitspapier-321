@@ -157,7 +157,7 @@
 | **[13:02](https://youtu.be/VZlg9eeFgiw?t=13m2s)**| **WORD**| **Faltzeichnungen**|
  ||DE |Gefaltete Zeichnungen |
  ||EN |Folded drawing |
-| **[13:06](https://youtu.be/VZlg9eeFgiw?t=13m6s)**| **WORD**| **DIN **|
+| **[13:06](https://youtu.be/VZlg9eeFgiw?t=13m6s)**| **WORD**| **DIN**|
  ||EN |DIN |
 | **[13:43](https://youtu.be/VZlg9eeFgiw?t=13m43s)**| **WORD**| **Kolloquium**|
  ||EN |Colloquium |

@@ -185,7 +185,7 @@ Log
 13:02 WORD      Faltzeichnungen
                 DE: Gefaltete Zeichnungen
                 EN: Folded drawing
-13:06 WORD      DIN 
+13:06 WORD      DIN
                 EN: DIN
 13:43 WORD      Kolloquium
                 EN: Colloquium
