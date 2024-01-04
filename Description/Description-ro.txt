@@ -1,0 +1,88 @@
+Zuse Z1: Arbeitspapier 321
+
+Astăzi sunt invitatul lui Dietmar Saupe, care l-a ajutat pe Konrad Zuse să-și reconstruiască legendara mașină de calcul Z1 între 1988 și 1989.
+
+Blog despre interviu:
+
+- Document de lucru 321: https://www.holzheu.de/arbeitspapier-321
+
+Semne de carte:
+
+01:02 Bine ați venit
+01:02 De ce să scriem o lucrare de diplomă în perechi?
+01:54 Prof. Dr. Wolfgang Harth propune lucrarea de diplomă
+02:25 Întâlnire cu Dr. Schäfer de la GMD
+04:20 Documente în "Stenograme Zuse
+04:58 Povara tezei de diplomă
+05:31 Konrad Zuse era încă în formă mentală la 78 de ani
+05:47 Cazare la Pensiunea Hünfeld
+06:37 Compensația financiară pentru lucrarea de diplomă
+06:49 Consiliul de administrație pentru replica Z1: GMD, Siemens, Muzeul Transporturilor și Tehnologiei
+07:23 GMD: Prof. Schäfer
+07:29 Siemens: Director de uzină și muncitor calificat Dl Reinhard Ernst
+08:00 Muzeu: Prof. Günther Gottmann
+08:22 Lucrări preliminare la Z1 până la lucrarea de diplomă
+09:39 Modelul de depozitare Z1 de la Muzeul German
+10:06 Motorul nu a fost (aproape) niciodată în funcțiune
+10:51 Titlul tezei de diplomă: Principiile de funcționare și construcție a mașinii de calcul mecanic cu comandă programată "Z1".
+11:46 Durata tezei 14 luni: (3 + 3) + 8 luni
+12:27 Diferențe între lucrarea GMD și lucrarea de diplomă
+13:50 Evaluarea tezei cu nota 1
+14:31 Calculatorul nu a fost documentat deoarece densitatea de lucru era deja prea mare cu memorie
+15:02 Posibilă teză de doctorat pentru Rechenwerk?
+15:52 O mare problemă cu reconstrucția
+18:25 Angajat al muzeului Heinz Weber
+19:33 Problema cu adăugarea jocurilor
+19:55 Unele calcule sunt mai "periculoase" decât altele
+20:09 Idee: utilizarea boosterului pentru a rezolva problema
+21:33 Mașină de eroziune cu sârmă
+22:35 Dietmar a scris și programe NC (G-code)
+23:10 Teoria conform căreia știfturile din oțel călit ar putea deteriora plăcile din oțel inoxidabil
+24:07 Transportul mașinii la Muzeul de Transport și Tehnologie
+25:54 Ceremonial la muzeu (14.09.1989)
+27:02 Z1 nu a fost prezentat în cadrul evenimentului.
+28:26 Declarație: Dacă Z1 a rulat și a dat un rezultat, rezultatul nu a fost niciodată greșit
+29:11 Reparații anevoioase ale pieselor îndoite
+31:48 Fluxul de lucru: logică, schemă, CAD, CNC, tablă
+34:36 Aproape deloc timp liber
+35:20 Cum s-ar face proiectul astăzi? Programul CAD CATIA cu cinematică.
+36:50 Filmul "Konrad Zuse" de Mathias Knauer
+37:51 Dovada că Z1 a calculat corect?
+38:57 Filmare cu Z1 în funcțiune
+40:04 Câte piese are replica Z1, 30.000?
+41:07 Cum a fost pornită mașina?
+41:58 Excentric traduce mișcările rotative în mișcări de împingere
+43:04 Ce lubrifiant a fost folosit?
+43:35 Dietmar repară Z1 odată ajuns la Berlin
+45:09 Cum facem ca Z1 să funcționeze din nou?
+46:10 Abia acum Dietmar Saupe își dă seama că lucrarea a fost "ceva special".
+47:21 Întrebări despre Z1 original
+47:35 Ce a spus Konrad Zuse despre mașina originală?
+49:03 A funcționat originalul Z1?
+49:54 Construirea Z1 în sufrageria părinților săi
+49:55 Frau Zuse i-a răsfățat pe elevi cu cafea și prăjituri
+50:14 Prietenii și rudele lui Dietmar și Ursula au văzut și ei Z1
+50:51 Contact cu Prof. Dr. Horst Zuse
+52:13 Analiză: De ce ar fi putut funcționa originalul Z1?
+54:44 Mândria inventatorilor germani
+56:04 Concluzia tezei
+
+Muzica folosită:
+
+- Succesul întregii echipe (WinnieTheMoog).
+
+Surse de aprovizionare:
+
+- Konrad Zuse Film: https://mathiasknauer.lemmata.ch
+- Konrad Zuse poze: http://www.horst-zuse.homepage.t-online.de/zuse-broschuere.html
+- Muzică: https:/filmmusic.io/u/winniethemoog
+
+Gestionarea versiunilor:
+
+- GitHub: https://github.com/michael-holzheu/Arbeitspapier-321
+
+Jurnal de modificări:
+
+30.01.2022 Îmbunătățiri detaliate
+27.01.2022 Îmbunătățiri detaliate
+26.01.2022 Prima versiune publică

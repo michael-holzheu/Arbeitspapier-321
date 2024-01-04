@@ -1,0 +1,88 @@
+Zuse Z1: Arbeitspapier 321
+
+Hoy soy invitado de Dietmar Saupe, que ayudó a Konrad Zuse a reconstruir su legendaria máquina calculadora Z1 de 1988 a 89.
+
+Blog sobre la entrevista:
+
+- Documento de trabajo 321: https://www.holzheu.de/arbeitspapier-321
+
+Marcadores:a
+
+01:02 Bienvenida
+01:02 ¿Por qué escribir una tesina en parejas?
+01:54 El Prof. Dr. Wolfgang Harth propone una tesina de diplomatura
+02:25 Cita con el Dr. Schäfer del GMD
+04:20 Documentos en "taquigrafía Zuse
+04:58 El peso de la tesina
+05:31 Konrad Zuse seguía mentalmente en forma a los 78 años
+05:47 Alojamiento en la pensión Hünfeld
+06:37 Compensación económica por la tesina
+06:49 El patronato de la réplica del Z1: GMD, Siemens, Museo del Transporte y la Tecnología
+07:23 GMD: Prof. Schäfer
+07:29 Siemens: Director de planta y trabajador cualificado Sr. Reinhard Ernst
+08:00 Museo: Prof. Günther Gottmann
+08:22 Trabajos preliminares de la Z1 hasta la tesina
+09:39 Modelo de almacenamiento Z1 del Museo Alemán
+10:06 El motor (casi) nunca estuvo en funcionamiento
+10:51 Título de la tesina: Principios de funcionamiento y construcción de la máquina de cálculo mecánico controlada por programa "Z1".
+11:46 Duración de la tesis 14 meses: (3 + 3) + 8 meses
+12:27 Diferencias entre el documento de la GMD y el proyecto fin de carrera
+13:50 Evaluación de la tesis con nota 1
+14:31 Calculadora no documentada porque la densidad de trabajo ya era demasiado alta con la memoria
+15:02 ¿Posible tesis doctoral para Rechenwerk?
+15:52 Gran problema con la reconstrucción
+18:25 Empleado del museo Heinz Weber
+19:33 Problema con la adición de los juegos
+19:55 Algunos cálculos son más "peligrosos" que otros
+20:09 Idea: utilizar el refuerzo para resolver el problema
+21:33 Máquina de erosión por hilo
+22:35 Dietmar también escribía programas NC (código G)
+23:10 Teoría según la cual los pernos de acero templado podrían dañar las chapas de acero inoxidable.
+24:07 Transporte de la máquina al Museo del Transporte y la Tecnología
+25:54 Acto solemne en el museo (14.09.1989)
+27:02 El Z1 no se presentó en el evento.
+28:26 Declaración: Si la Z1 pasaba y daba un resultado, éste nunca era erróneo.
+29:11 Reparación tediosa de piezas dobladas
+31:48 Flujo de trabajo: lógica, esquema, CAD, CNC, chapa metálica
+34:36 Casi ningún tiempo de inactividad
+35:20 ¿Cómo se realizaría el proyecto hoy en día? Programa CAD CATIA con cinemática.
+36:50 La película "Konrad Zuse" de Mathias Knauer
+37:51 ¿Prueba de que el Z1 calculó correctamente?
+38:57 Rodaje con Z1 en funcionamiento
+40:04 ¿Cuántas piezas tiene la réplica del Z1, 30.000?
+41:07 ¿Cómo se accionaba la máquina?
+41:58 Excéntrico traduce los movimientos de rotación en empuje
+43:04 ¿Qué lubricante se utilizó?
+43:35 Dietmar repara el Z1 una vez en Berlín
+45:09 ¿Cómo volver a poner en marcha el Z1?
+46:10 Sólo ahora se da cuenta Dietmar Saupe de que la obra era "algo especial".
+47:21 Preguntas sobre el Z1 original
+47:35 ¿Qué dijo Konrad Zuse sobre la máquina original?
+49:03 ¿Funcionaba el Z1 original?
+49:54 Construyendo el Z1 en el salón de casa de sus padres
+49:55 Frau Zuse mima a los estudiantes con café y tarta
+50:14 Amigos y familiares de Dietmar y Ursula también vieron el Z1
+50:51 Contacto con el Prof. Dr. Horst Zuse
+52:13 Análisis: ¿Por qué podría haber funcionado el Z1 original?
+54:44 Orgullo de los inventores alemanes
+56:04 Conclusión de la tesis
+
+Música utilizada:
+
+- Éxito de todo el equipo (WinnieTheMoog).
+
+Fuentes de suministro:
+
+- Konrad Zuse Película: https://mathiasknauer.lemmata.ch
+- Fotos de Konrad Zuse: http://www.horst-zuse.homepage.t-online.de/zuse-broschuere.html
+- Música: https:/filmmusic.io/u/winniethemoog
+
+Gestión de versiones:
+
+- GitHub: https://github.com/michael-holzheu/Arbeitspapier-321
+
+Registro de cambios:
+
+30.01.2022 Detalle mejoras
+27.01.2022 Detalle mejoras
+26.01.2022 Primera versión pública

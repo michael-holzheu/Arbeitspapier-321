@@ -1,3 +1,5 @@
+Zuse Z1: Arbeitspapier 321
+
 Today I'm a guest of Dietmar Saupe, who helped Konrad Zuse rebuild his legendary Z1 calculating machine from 1988 to 89.
 
 Corresponding blog:

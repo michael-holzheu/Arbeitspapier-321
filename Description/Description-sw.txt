@@ -1,0 +1,88 @@
+Zuse Z1: Arbeitspapier 321
+
+Leo mimi ni mgeni huko Dietmar Saupe, ambaye aliunga mkono Konrad Zuse mnamo 1988 hadi 89 ili kuiga tena mashine yake ya hadithi ya kompyuta Z1.
+
+Blogi ya Mahojiano:
+
+- Karatasi ya kufanya kazi 321: https://www.holzheu.de/arbeitspaper-321
+
+Rukia chapa:
+
+01:02 Karibu
+01:02 Je! Kwa nini nadharia ya diploma katika jozi?
+01:54 Prof. Dr. Wolfgang Harth anapendekeza nadharia ya diploma
+02:25 Uteuzi na Dk. Schäfer kutoka GMD
+Hati 04:20 katika "Zusesteno"
+04:58 Mzigo wa thesis ya diploma
+05:31 Konrad Zuse alikuwa bado anafaa kiakili saa 78
+05:47 Malazi katika Nyumba ya Wageni ya Hünfeld
+06:37 malipo ya kifedha ya thesis ya diploma
+06:49 Bodi ya Wadhamini Z1 Replica: GMD, Nokia, Jumba la kumbukumbu na Teknolojia
+07:23 GMD: Prof Schäfer
+07:29 Nokia: Meneja na Mfanyakazi Mjuzi Bwana Reinhard Ernst
+08:00 Makumbusho: Prof. Günther Gottmann
+08:22 Kazi ya awali kwenye Z1 hadi nadharia ya diploma
+09:39 Z1 Mfano wa Kumbukumbu kutoka Jumba la kumbukumbu la Ujerumani
+10:06 Injini ilikuwa (karibu) haijawahi kufanya kazi
+10:51 Kichwa cha Thesis ya Diploma: Funkion na kanuni za ujenzi wa Calculator ya Mitambo inayodhibitiwa na Programu "Z1"
+11:46 Muda wa kazi miezi 14: (3 + 3) + miezi 8
+12:27 Tofauti Karatasi ya GMD kwa thesis ya diploma
+13:50 Tathmini ya kazi na Daraja la 1
+14:31 Uhesabu haujaandikwa kwa sababu wiani wa kazi ulikuwa tayari juu sana na kumbukumbu
+15:02 Inawezekana nadharia ya udaktari kwa kazi ya hesabu?
+15:52 Tatizo kubwa na ujenzi
+18:25 Wafanyikazi wa Makumbusho ya Heinz Weber
+19:33 Shida na kuongeza ya michezo
+19:55 bili zingine "hatari zaidi" kuliko zingine
+20:09 Wazo: Na nyongeza ya kutatua shida
+21:33 Mashine ya Wireterosion
+22:35 Dietmar pia aliandika mipango ya NC (G Code)
+23:10 nadharia ambayo pini ngumu za chuma zinaweza kuharibu shuka za chuma
+24:07 Usafirishaji wa Mashine kwa Jumba la Makumbusho ya Usafiri na Teknolojia
+25:54 Tukio kuu katika Jumba la kumbukumbu (Septemba 14, 1989)
+27:02 Z1 haikuonyeshwa kwenye hafla hiyo
+28:26 Taarifa: Wakati Z1 ilipitia na kutoa matokeo, matokeo hayakuwa sawa
+29:11 Ukarabati mzuri wa kuinama
+31:48 Utiririshaji wa kazi: mantiki, mchoro wa mzunguko, CAD, CNC, shuka
+34:36 Nyakati ngumu kabisa
+35:20 Je! Ungefanyaje mradi leo? Programu ya CAD CATIA na Kinematics.
+36:50 Filamu "Konrad Zuse" na Mathias Knauer
+37:51 Uthibitisho kwamba Z1 ilihesabu kwa usahihi?
+38:57 Rekodi za filamu na Z1 zinafanya kazi
+40:04 Je! Replica ya Z1, 30,000?
+41:07 Je! Mashine iligongaje?
+41:58 eccentric iliyotafsiriwa- katika harakati za kusukuma
+43:04 Je! Ni lubricant ipi iliyotumiwa?
+43:35 Dietmar hurekebisha Z1 mara moja huko Berlin
+45:09 Je! Tunarudishaje Z1?
+46:10 Sasa tu Dietmar Saupe anagundua kuwa kazi hiyo ilikuwa "kitu maalum"
+Maswali 47:21 juu ya Z1 ya asili
+47:35 Konrad Zuse alisema nini juu ya mashine ya asili?
+49:03 Je! Z1 ya asili ilifanya kazi?
+49:54 Ujenzi wa Z1 kwenye sebule ya wazazi wake
+49:55 Bi Zzee aliharibu wanafunzi na kahawa na keki
+50:14 Marafiki na Jamaa wa Dietmar na Ursula pia waliona Z1
+50:51 Wasiliana na Prof. Dr. Horst Zuse
+52:13 Uchambuzi: Kwa nini Z1 ya asili inaweza kufanya kazi?
+54:44 Kiburi cha wavumbuzi wa Ujerumani
+56:04 Kufunga neno la thesis ya diploma
+
+Muziki uliotumiwa:
+
+- Mafanikio ya timu nzima (Winniethemoog)
+
+Vyanzo vya usambazaji:
+
+- Filamu ya Konrad Zuse: https://mathiasknauer.lemmata.ch
+-Konrad Zuse Picha: http://www.horst-zufe.homepage.t-online.de/zees-broschuere.html
+- Muziki: https: /filmmusic.io/u/winniethemoog
+
+Usimamizi wa Toleo:
+
+-Github: https://github.com/michael-holzheu/arbeitspapier-321
+
+ChangeLog:
+
+30.01.2022 Maboresho ya kina
+27.01.2022 Maboresho ya kina
+01/26/2022 Toleo la kwanza la umma

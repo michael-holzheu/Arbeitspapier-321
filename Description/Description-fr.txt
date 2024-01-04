@@ -1,0 +1,88 @@
+Zuse Z1: Arbeitspapier 321
+
+Aujourd'hui, je suis l'invité de Dietmar Saupe qui, de 1988 à 89, a aidé Konrad Zuse à reconstruire sa légendaire machine à calculer Z1.
+
+Blog sur l'interview :
+
+- Document de travail 321 : https://www.holzheu.de/arbeitspapier-321
+
+Marqueurs de saut :
+
+01:02 Accueil
+01:02 Pourquoi une thèse à deux ?
+01:54 Le Prof. Dr Wolfgang Harth propose un travail de diplôme
+02:25 Rendez-vous avec le Dr. de la GMD
+04:20 Documents en "Zuse-Steno
+04:58 Le poids de la thèse
+05:31 A 78 ans, Konrad Zuse était encore en pleine forme intellectuelle
+05:47 Hébergement dans la maison d'hôtes de Hünfeld
+06:37 Rémunération financière de la thèse
+06:49 Le curatorium Z1-Nachbau : GMD, Siemens, Musée des transports et de la technique
+07:23 GMD : Prof.
+07:29 Siemens : Directeur d'usine et ouvrier spécialisé Monsieur Reinhard Ernst
+08:00 Musée : Prof. Günther Gottmann
+08:22 Travaux préparatoires sur le Z1 jusqu'au mémoire de fin d'études
+09:39 Modèle de mémoire Z1 du Deutsches Museum
+10:06 Le moteur n'a (presque) jamais été utilisé
+10:51 Le titre de la thèse : Principes de fonctionnement et de construction de la machine à calculer mécanique commandée par programme "Z1".
+11:46 Durée du travail 14 mois : (3 + 3) + 8 mois
+12:27 Différences entre le document GMD et le travail de diplôme
+13:50 Evaluation du travail avec la note 1
+14:31 Calculateur non documenté, car la densité de travail était déjà trop élevée avec la mémoire
+15:02 Thèse de doctorat possible pour le calcul ?
+15:52 Grand problème avec la reconstruction
+18:25 Collaborateur du musée Heinz Weber
+19:33 Problème avec l'addition des jeux
+19:55 Certains calculs plus "dangereux" que d'autres
+20:09 Idée : Utiliser le booster pour résoudre le problème
+21:33 Machine d'électroérosion à fil
+22:35 Dietmar a aussi écrit des programmes CN (code G)
+23:10 Théorie selon laquelle les broches en acier trempé pourraient endommager les tôles en acier inoxydable
+24:07 Transport de la machine au musée des transports et de la technique
+25:54 Manifestation festive au musée (14.09.1989)
+27:02 La Z1 n'a pas été présentée lors de la manifestation.
+28:26 Déclaration : Si la Z1 est passée et a donné un résultat, le résultat n'a jamais été faux
+29:11 Réparation laborieuse des déformations
+31:48 Déroulement du travail : logique, schéma électrique, CAD, CNC, tôles
+34:36 Presque pas de temps mort
+35:20 Comment le projet serait-il réalisé aujourd'hui ? Programme CAO CATIA avec cinématique.
+36:50 Le film "Konrad Zuse" de Mathias Knauer
+37:51 Preuve que le Z1 a calculé correctement ?
+38:57 Tournage d'un film avec le Z1 en fonctionnement.
+40:04 Combien de pièces compte la réplique de la Z1, 30.000 ?
+41:07 Comment la machine était-elle manœuvrée ?
+41:58 L'excentrique transforme les mouvements de rotation en mouvements de poussée.
+43:04 Quel lubrifiant a été utilisé ?
+43:35 Dietmar répare la Z1 une fois à Berlin
+45:09 Comment faire fonctionner la Z1 ?
+46:10 C'est seulement maintenant que Dietmar Saupe se rend compte que le travail était "spécial".
+47:21 Questions sur le Z1 original
+47:35 Qu'a dit Konrad Zuse à propos de la machine originale ?
+49:03 Est-ce que la Z1 originale fonctionnait ?
+49:54 Construction de la Z1 dans le salon des parents
+49:55 Madame Zuse a gâté les étudiants avec du café et des gâteaux
+50:14 Les amis et la famille de Dietmar et Ursula ont aussi vu la Z1
+50:51 Contact avec le professeur Dr. Horst Zuse
+52:13 Analyse : pourquoi le Z1 original aurait-il pu fonctionner ?
+54:44 Fierté des inventeurs allemands
+56:04 Conclusion de la thèse
+
+Musique utilisée :
+
+- Success Of The Whole Team (WinnieTheMoog)
+
+Sources d'approvisionnement :
+
+- Konrad Zuse Film : https://mathiasknauer.lemmata.ch
+- Images de Konrad Zuse : http://www.horst-zuse.homepage.t-online.de/zuse-broschuere.html
+- Musique : https:/filmmusic.io/u/winniethemoog
+
+Gestion des versions :
+
+- GitHub : https://github.com/michael-holzheu/Arbeitspapier-321
+
+Protocole de modification :
+
+30.01.2022 Améliorations de détail
+27.01.2022 Améliorations de détail
+26.01.2022 Première version publique
